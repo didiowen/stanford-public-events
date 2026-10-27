@@ -536,7 +536,7 @@ DESCRIPTION:https://events.stanford.edu/event/2026-stanford-commencement-or
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-52144974567419@didiowen
-DTSTAMP:20261026T111059Z
+DTSTAMP:20261027T112200Z
 DTSTART:20261030T003000Z
 DTEND:20261030T020000Z
 SUMMARY:[現場] Weintz Art Lecture Series: Elizabeth Dospěl Williams
@@ -1098,40 +1098,6 @@ URL:https://events.stanford.edu/event/7th-annual-marvin-a-karasek-lecture-i
  n-dermatology
 DESCRIPTION:https://events.stanford.edu/event/7th-annual-marvin-a-karasek-l
  ecture-in-dermatology\n\nMore details to come.
-END:VEVENT
-BEGIN:VEVENT
-UID:stanford-53552396943866@didiowen
-DTSTAMP:20261025T112753Z
-DTSTART:20261026T233000Z
-DTEND:20261027T002000Z
-SUMMARY:[混合] Stanford Energy Seminar | AI\, Energy\, and Sustainability
- : From Innovation to Impact | Richard Newell\, C3 AI (former)
-LOCATION:Shriram Center\, 104
-URL:https://events.stanford.edu/event/stanford-energy-seminar-10262026
-DESCRIPTION:https://events.stanford.edu/event/stanford-energy-seminar-10262
- 026\n線上連結: https://stanford-pilot.hosted.panopto.com/Panopto/Pages
- /Viewer.aspx?id=a6df0347-d8da-4b17-a936-b4c201778bf5\n\nThe Stanford Energ
- y Seminar has been a mainstay of energy engagement at Stanford for nearly 
- 20 years and is one of the flagship programs of the Precourt Institute for
-  Energy. We aim to bring a wide variety of perspectives to the Stanford co
- mmunity – academics\, entrepreneurs\, utilities\, non-profits\, and more
- . \n\nAbout the talk\n\nArtificial intelligence and energy are becoming de
- eply intertwined. AI is driving new demand for power\, and it is also emer
- ging as a powerful tool for making energy systems cleaner\, more reliable\
- , and more efficient. What does that two-way relationship look like in pra
- ctice\, and where is it heading?\n \n\nJoin us for a fireside chat with Ri
- chard Newell\, former Chief Technology Officer (CTO)\, Sustainability Solu
- tions\, C3 AI\, in conversation with John Weyant\, Stanford professor and 
- longtime leader in energy and climate systems analysis. Drawing on decades
-  studying energy technology and markets and recent experience in enterpris
- e AI\, Newell will explore:\n    •    How different forms of AI are impr
- oving energy systems\, with concrete examples\n    •    What “physical
-  AI” is and what it could mean for the grid\, infrastructure\, and indus
- try\n    •    How AI is reshaping the software industry\, and what it ta
- kes for companies to deploy AI successfully\n    •    Where investors an
- d emerging companies see the most promising opportunities at the AI-energy
-  intersection\n    •    Lessons from earlier energy transformations that
-  can help us make sense of this one\n \n\nThe conve
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53568260119599@didiowen
@@ -7223,7 +7189,7 @@ DESCRIPTION:https://events.stanford.edu/event/reading-with-nana-kwame-adjei
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53809570164118@didiowen
-DTSTAMP:20261026T114655Z
+DTSTAMP:20261027T035429Z
 DTSTART:20261028T190000Z
 DTEND:20261028T200000Z
 SUMMARY:[混合] Medicine Grand Rounds with Emmanuel Mignot\, MD\, PhD
@@ -9260,7 +9226,7 @@ DESCRIPTION:https://events.stanford.edu/event/galicias-promised-city-with-o
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53954321811562@didiowen
-DTSTAMP:20261026T082457Z
+DTSTAMP:20261027T082954Z
 DTSTART:20270126T000000Z
 DTEND:20270126T011500Z
 SUMMARY:[現場] Simon DeDeo | Proofs and reasons in the age of artificial 
@@ -10321,38 +10287,6 @@ DESCRIPTION:https://events.stanford.edu/event/from-yahweh-to-jupiter-orthod
  cient culture in Muscovy\, and the importance of Belaru
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54002008943310@didiowen
-DTSTAMP:20261025T114901Z
-DTSTART:20261026T233000Z
-DTEND:20261027T010000Z
-SUMMARY:[現場] Ron Alexander Memorial Lectures in Musicology – Joy H. C
- alico\, UCLA
-LOCATION:Braun Music Center\, Room 103
-URL:https://events.stanford.edu/event/alexander-lectures-joy-calico
-DESCRIPTION:https://events.stanford.edu/event/alexander-lectures-joy-calico
- \n\nTitle: A Theory of Operatic Scene Type\n\nAbstract: Scholars of opera 
- since Salome - a placeholder for the historical moment at which one could 
- no longer count on functional harmony\, straightforward narrative\, or ton
- ally-defined forms at the opera - need ways to talk about opera that are n
- ot confined to the silos of composer\, subgenre\, and style\, nor reduced 
- to mere reportage. Inspired by Saariaho's L'amour de loin\, I recognized t
- hat certain scenes have recurred over the centuries\, presumably because t
- hey make for good theater and offer tantalizing opportunities for musical 
- and poetic expression as well as virtuosic display: love duets\, diegetic 
- songs\, rage arias. Each of these narrative nodes has accrued features per
- taining to music\, vocalism\, poetry\, character\, performance practice\, 
- and/or staging\, that\, in the aggregate\, constitute a scene type. And\, 
- most importantly\, each scene type remains recognizable as such regardless
-  of musical style. In other words\, the scene type is akin to operatic DNA
- . This talk sketches out my theory and demonstrates its application in exc
- erpts drawn from a wide range of repertoire.\n\nJoy H. Calico is Professor
-  of Musicology and Chair of the Department of Musicology at UCLA. Her scho
- larship focuses on interdisciplinary Cold War cultural politics\, opera si
- nce 1900\, and Arnold Schoenberg. Her current projects include a theory of
-  twentieth- and twenty-first-century opera according to scene type built o
- n Kaija Saariaho’s L’amour de loin (under contract
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54002119865911@didiowen
 DTSTAMP:20260918T001133Z
 DTSTART:20261106T193000Z
@@ -11274,39 +11208,6 @@ DESCRIPTION:https://events.stanford.edu/event/what-is-a-public-intellectual
  e Stanford Of
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54046886463053@didiowen
-DTSTAMP:20261025T115049Z
-DTSTART:20261027T000000Z
-DTEND:20261027T010000Z
-SUMMARY:[現場] Revolutionizing Privacy and AI with Meredith Whittaker
-LOCATION:Simonyi Conference Center\, CoDa
-URL:https://events.stanford.edu/event/revolutionizing-privacy-and-ai-with-m
- eredith-whittaker
-DESCRIPTION:https://events.stanford.edu/event/revolutionizing-privacy-and-a
- i-with-meredith-whittaker\n報名/票券: https://bit.ly/ai-whittaker\n\nP
- lease note that this event is in-person only\, and RSVPs are requested to 
- attend. Walk-ins are welcome.\n\nRegister now!\n\nJoin Signal President Me
- redith Whittaker and Professor Lowry Pressly for an illuminating conversat
- ion about collective action and resistance in the age of AI. For more than
-  two decades\, Whittaker has been a leading advocate for privacy and digit
- al rights. At Signal\, Whittaker drives their mission to champion user pri
- vacy\, protect free expression\, and enable secure global communication th
- rough open source privacy technology. She will be in conversation with Pre
- ssly\, who brings expertise in the ethical and political considerations of
-  AI\, surveillance\, and privacy. Together\, they will discuss the growing
-  influence of technology over our lives and challenge how we think about h
- olding ourselves\, corporations\, and the government accountable.\n\nRecep
- tion to follow\n\nSpeaker:\n\n🌐 Meredith Whittaker is Signal's Presiden
- t and a member of the Signal Foundation Board of Directors. She has over 2
- 0 years experience in tech\, spanning industry\, academia\, and government
- . Before joining Signal\, she was the Minderoo Research Professor at NYU\,
-  and co-founded and served as Faculty Director of the AI Now Institute. He
- r research and scholarly work helped shape global AI policy and shift the 
- public narrative on AI to better recognize the surveillance business pract
- ices and concentration of industrial resources that modern AI requires. Pr
- ior to NYU\, she worked at Google for over a deca
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54047423816981@didiowen
 DTSTAMP:20261010T020134Z
 DTSTART:20270227T000000Z
@@ -12024,40 +11925,6 @@ DESCRIPTION:https://events.stanford.edu/event/film-screening-american-solit
  tal health\, moral injury\, and collective healing. Community discussion w
  ith film director Aaron Davidman\, IAVA President Dr. Kyleanne Hunter and 
  Stanford School of Medicine’s Dr. Dean Winslow\, retired Lt. Colonel.
-END:VEVENT
-BEGIN:VEVENT
-UID:stanford-54127785306878@didiowen
-DTSTAMP:20261025T115456Z
-DTSTART:20261026T230000Z
-DTEND:20261027T003000Z
-SUMMARY:[現場] ‘The Golden Age’ or ‘the Dark Time of the Plots’: 
- Iraq and Syria in the 1950s | Matthieu Rey
-LOCATION:Encina Commons\, 123
-URL:https://events.stanford.edu/event/the-golden-age-or-the-dark-time-of-th
- e-plots
-DESCRIPTION:https://events.stanford.edu/event/the-golden-age-or-the-dark-ti
- me-of-the-plots\n報名/票券: https://forms.gle/2EvpiqBvj3xGcbWU7\n\n194
- 6. The last French soldier left Syria. A few months before\, Tawfiq al-Suw
- eidi\, the Iraqi Prime Minister\, introduced a set of laws to protect cons
- titutional freedoms and legalize political parties. In both post-Ottoman c
- ountries\, Iraq and Syria\, the 1940s and 1950s were marked by a contradic
- tory political legacy. On the one hand\, parliaments ruled\, political par
- ties flourished\, and civil society gained traction through public debate.
-  On the other\, emergency laws blocked debate\, or the military interfered
- . These two main images reveal the challenges both countries faced at inde
- pendence and echo their attempts to establish sovereignty truly. These dif
- ficulties – who had the right of citizenship\, how to develop the countr
- y\, how to regulate executive and legislative power – reflected the dile
- mma of being independent\, an issue that still prevails nowadays.\n\n \n\n
- \n\nFormer director of the Contemporary Studies Department at IFPO in Beir
- ut\, fluent in Arabic\, Matthieu Rey is currently a senior researcher at C
- NRS-EHESS and a fellow researcher at the Wits History Workshop in Johannes
- burg. Based in Damascus between 2009 and 2013\, he first studied the perio
- d of independence in Syria and Iraq\, examining the use of parliament as a
-  site of power. Since then\, he has worked for the last 15 years in and on
-  the Middle East\, with multiple fieldwork projects in Iraq\, Syria\, Turk
- ey\, Lebanon\, Jordan\, and Egypt. More recently\, he managed the Contempo
- rary Department of IFPO in Beirut between 2021 and 2
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54127988904136@didiowen
@@ -13595,40 +13462,6 @@ DESCRIPTION:https://events.stanford.edu/event/artist-talk-with-cfgny-a-prac
  ndon’s Focus Stand Prize winner 
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54250967545076@didiowen
-DTSTAMP:20261025T120145Z
-DTSTART:20261026T190000Z
-DTEND:20261026T201500Z
-SUMMARY:[現場] PATH+: Sherine Hamdy (Anthropology\, UC Irvine): Landing i
- n Place
-LOCATION:Building 260\, Pigott Hall\, 216
-URL:https://events.stanford.edu/event/opath-sherine-hamdy-anthropology-uc-i
- rvine-landing-in-place
-DESCRIPTION:https://events.stanford.edu/event/opath-sherine-hamdy-anthropol
- ogy-uc-irvine-landing-in-place\n\nJoin us for our next PATH+ event! We are
-  delighted to welcome Sherine Hamdy\, Professor of Anthropology at UC Irvi
- ne\, for a book talk on her new graphic novel Landing in Place (Penguin Ra
- ndom House\, 2026)\, illustrated by Myra El Mir.\n\nHamdy is a medical ant
- hropologist whose work has long moved between scholarship and storytelling
- . Her first book\, Our Bodies Belong to God: Organ Transplants\, Islam\, a
- nd the Struggle for Human Dignity in Egypt (University of California Press
- \, 2012)\, was followed by wide-ranging work on Muslim medical ethics\, th
- e political economy of disease in Egypt\, and the role of physicians in th
- e Arab Spring uprisings. With her co-authored graphic novel Lissa: A Story
-  of Friendship\, Medical Promise\, and Revolution\, she inaugurated the Un
- iversity of Toronto Press ethnoGRAPHIC series\, which she now edits\, and 
- she has become a leading advocate for academics sharing their research acr
- oss multiple media forms.\n\nLanding in Place is a coming-of-age story abo
- ut Anisa\, an Egyptian American college freshman following in her older si
- ster’s footsteps on the premed track\, though she would rather study art
- . When she fails her first semester\, feeling out of place both in organic
-  chemistry and among the Muslim students on campus\, Anisa persuades her p
- arents to let her spend time in Cairo with her beloved grandfather. There\
- , pressing against familial\, societal\, and religious expectations\, she 
- begins to find her own artistic voice\, and to carry it home with her.\n\n
- RSVP for the 
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54251043963312@didiowen
 DTSTAMP:20261026T121815Z
 DTSTART:20261027T190000Z
@@ -13803,22 +13636,6 @@ DESCRIPTION:https://events.stanford.edu/event/shenson-recital-rachel-willis
  on Recital Series is generously funded by the Ben and A. Jess Shenson Fund
  s at Stanford University.\n\nAdmission Information\n\nTickets: $16.00 – 
  $95.04
-END:VEVENT
-BEGIN:VEVENT
-UID:stanford-54260720668017@didiowen
-DTSTAMP:20261026T162610Z
-DTSTART:20261026T191500Z
-DTEND:20261026T201500Z
-SUMMARY:[現場] Artist Talk with Hiroyuki Murase
-LOCATION:Building 460\, Margaret Jacks Hall\, Terrace Room (4th floor)
-URL:https://events.stanford.edu/event/artist-talk-with-hiroyuki-murase
-DESCRIPTION:https://events.stanford.edu/event/artist-talk-with-hiroyuki-mur
- ase\n\nHiroyuki Murase is the CEO and Creative Director of the textile bra
- nd suzusan\, bringing the beauty and sustainable ethos of traditional Japa
- nese shibori dyeing to the world of contemporary fashion. In his talk\, Mu
- rase will share the story of suzusan and reflect on the relationship betwe
- en tradition and innovation\, local identity and global exchange\, and the
-  role of design in shaping a sustainable future for craftsmanship.
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54284169883038@didiowen
