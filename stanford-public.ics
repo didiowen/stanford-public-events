@@ -76,7 +76,7 @@ DESCRIPTION:https://events.stanford.edu/event/dr-rhm-holiday-organ-concert\
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53994312442198@didiowen
-DTSTAMP:20261029T121733Z
+DTSTAMP:20261030T122142Z
 DTSTART:20261107T010000Z
 DTEND:20261107T030000Z
 SUMMARY:[現場] First Fridays at IDA (Social)
@@ -93,7 +93,7 @@ DESCRIPTION:https://events.stanford.edu/event/first-fridays-at-ida-social\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53994312447319@didiowen
-DTSTAMP:20261029T121733Z
+DTSTAMP:20261030T122142Z
 DTSTART:20261205T010000Z
 DTEND:20261205T030000Z
 SUMMARY:[現場] First Fridays at IDA (Social)
@@ -110,7 +110,7 @@ DESCRIPTION:https://events.stanford.edu/event/first-fridays-at-ida-social\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53994312453464@didiowen
-DTSTAMP:20261029T121733Z
+DTSTAMP:20261030T122142Z
 DTSTART:20270206T010000Z
 DTEND:20270206T030000Z
 SUMMARY:[現場] First Fridays at IDA (Social)
@@ -1006,38 +1006,6 @@ DESCRIPTION:https://events.stanford.edu/event/children-and-childhood-in-col
  hildhood: French Colonialism and
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-53543265911589@didiowen
-DTSTAMP:20261029T114854Z
-DTSTART:20261030T143000Z
-DTEND:20261030T233000Z
-SUMMARY:[現場] Electrophysiology in the West 2026
-LOCATION: Li Ka Shing Center for Learning and Knowledge
-URL:https://events.stanford.edu/event/electrophysiology-in-the-west-2026
-DESCRIPTION:https://events.stanford.edu/event/electrophysiology-in-the-west
- -2026\n報名/票券: https://stanford.cloud-cme.com/course/courseoverview
- ?P=5&EID=57329\n\nOverviewThe Electrophysiology in the West conference pro
- vides a comprehensive overview of the science and therapy of heart rhythm 
- disorders\, provided by world-renowned experts in a concise and exciting f
- ormat. Plenary sessions will focus on the expanding role of digital health
- \, wearables and other disruptive technologies in arrhythmia management. R
- apid fire sessions including audience participation will include in depth 
- exploration of new advances in the mechanisms of cardiac fibrillation and 
- inherited arrhythmias. Divided into three parallel tracks\, the symposium 
- is designed to meet individual learner needs to improve their base of know
- ledge and to promote effective management of cardiac arrhythmia by all mem
- bers of the healthcare team.\n\nRegistrationIn Person:\nPhysician:  $140\n
- Nurses and Advanced Practice Providers: $90\nIndustry: $390\nStanford Affi
- liated:  Free (Must use Stanford email address to register)\n\nVirtual:\nA
- ll Virtual:  FREE\n\nCreditsAMA PRA Category 1 Credits™ (6.50 hours)\, A
- NCC Contact Hours (6.50 hours)\, CA BRN - California Board of Registered N
- urses Contact Hours (6.50 hours)\, Non-Physician Participation Credit (6.5
- 0 hours)\n\nTarget AudienceSpecialties - Cardiology\, Cardiovascular Healt
- h\, ElectrophysiologyProfessions - Fellow/Resident\, Non-Physician\, Nurse
- \, Physician\, Registered Nurse (RN)\, Student ObjectivesAt the conclusion
-  of this activity\, learners should be able to:\n1. Outline current eviden
- ce regarding the basic mechanisms of arrhythmia and emerging therapi
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-53552281605733@didiowen
 DTSTAMP:20260814T213424Z
 DTSTART:20270211T150000Z
@@ -1228,7 +1196,7 @@ DESCRIPTION:https://events.stanford.edu/event/anatomical-gift-program-donor
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53691925115269@didiowen
-DTSTAMP:20261029T115507Z
+DTSTAMP:20261030T115842Z
 DTSTART:20261105T200000Z
 DTEND:20261105T210000Z
 SUMMARY:[現場] Documentary Objectives: Filming Africa from Colonialism to
@@ -1262,28 +1230,8 @@ DESCRIPTION:https://events.stanford.edu/event/documentary-objectives-filmin
  te 19
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-53694860298274@didiowen
-DTSTAMP:20261029T115548Z
-DTSTART:20261030T183000Z
-DTEND:20261030T193000Z
-SUMMARY:[現場] Public Tour |  Auguste Rodin
-LOCATION:Cantor Arts Center
-URL:https://events.stanford.edu/event/copy-of-cancelled-public-tour-auguste
- -rodin-565
-DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
- -auguste-rodin-565\n\nJoin us for a tour of our indoor and outdoor Rodin S
- culptures! Our collection spans three galleries\, an outdoor sculpture gar
- den\, and features nearly 100 Rodin sculptures essential to telling his st
- ory and representing his groundbreaking engagement with the body.\n\nIMAGE
- : Auguste Rodin (France\, 1840–1917)\, The Age of Bronze (L’Âge d’a
- irain)\, 1875-1876. Bronze\, cast c. 1920. Gift of the B. Gerald Cantor Co
- llection\, 1983.300\n\nPublic Tours: Fridays and Saturdays at 11:30am \n\n
- Admission Info\n\nTours do not require a reservation and are free of charg
- e.\n\nFirst come\, first served!
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-53694860298275@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20261031T183000Z
 DTEND:20261031T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1303,7 +1251,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860299300@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20261106T193000Z
 DTEND:20261106T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1323,7 +1271,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860300325@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20261107T193000Z
 DTEND:20261107T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1343,7 +1291,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860301350@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20261113T193000Z
 DTEND:20261113T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1363,7 +1311,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860302375@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20261114T193000Z
 DTEND:20261114T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1383,7 +1331,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860302376@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20261120T193000Z
 DTEND:20261120T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1403,7 +1351,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860303401@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20261121T193000Z
 DTEND:20261121T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1423,7 +1371,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860304426@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20261127T193000Z
 DTEND:20261127T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1443,7 +1391,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860305451@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20261128T193000Z
 DTEND:20261128T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1463,7 +1411,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860305452@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20261204T193000Z
 DTEND:20261204T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1483,7 +1431,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860306477@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20261205T193000Z
 DTEND:20261205T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1503,7 +1451,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860307502@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20261211T193000Z
 DTEND:20261211T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1523,7 +1471,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860308527@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20261212T193000Z
 DTEND:20261212T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1543,7 +1491,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860308528@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270108T193000Z
 DTEND:20270108T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1563,7 +1511,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860309553@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270109T193000Z
 DTEND:20270109T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1583,7 +1531,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860310578@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270115T193000Z
 DTEND:20270115T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1603,7 +1551,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860311603@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270116T193000Z
 DTEND:20270116T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1623,7 +1571,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860312628@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270122T193000Z
 DTEND:20270122T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1643,7 +1591,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860313653@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270123T193000Z
 DTEND:20270123T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1663,7 +1611,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860314678@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270129T193000Z
 DTEND:20270129T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1683,7 +1631,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860314679@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270130T193000Z
 DTEND:20270130T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1703,7 +1651,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860315704@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270205T193000Z
 DTEND:20270205T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1723,7 +1671,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860316729@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270206T193000Z
 DTEND:20270206T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1743,7 +1691,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860317754@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270212T193000Z
 DTEND:20270212T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1763,7 +1711,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860317755@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270213T193000Z
 DTEND:20270213T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1783,7 +1731,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860318780@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270219T193000Z
 DTEND:20270219T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1803,7 +1751,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860319805@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270220T193000Z
 DTEND:20270220T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1823,7 +1771,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860320830@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270226T193000Z
 DTEND:20270226T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1843,7 +1791,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860321855@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270227T193000Z
 DTEND:20270227T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1863,7 +1811,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860321856@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270305T193000Z
 DTEND:20270305T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1883,7 +1831,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860322881@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270306T193000Z
 DTEND:20270306T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1903,7 +1851,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860323906@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270312T193000Z
 DTEND:20270312T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1923,7 +1871,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860324931@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270313T193000Z
 DTEND:20270313T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1943,7 +1891,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860324932@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270319T183000Z
 DTEND:20270319T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1963,7 +1911,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860325957@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270320T183000Z
 DTEND:20270320T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1983,7 +1931,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860326982@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270326T183000Z
 DTEND:20270326T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2003,7 +1951,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860328007@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270327T183000Z
 DTEND:20270327T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2023,7 +1971,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860329032@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270402T183000Z
 DTEND:20270402T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2043,7 +1991,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860330057@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270403T183000Z
 DTEND:20270403T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2063,7 +2011,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860331082@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270409T183000Z
 DTEND:20270409T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2083,7 +2031,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860335179@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270410T183000Z
 DTEND:20270410T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2103,7 +2051,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860336204@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270416T183000Z
 DTEND:20270416T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2123,7 +2071,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860337229@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270417T183000Z
 DTEND:20270417T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2143,7 +2091,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860339278@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270423T183000Z
 DTEND:20270423T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2163,7 +2111,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860340303@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270424T183000Z
 DTEND:20270424T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2183,7 +2131,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860341328@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270430T183000Z
 DTEND:20270430T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2203,7 +2151,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860341329@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270501T183000Z
 DTEND:20270501T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2223,7 +2171,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860342354@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270507T183000Z
 DTEND:20270507T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2243,7 +2191,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860343379@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270508T183000Z
 DTEND:20270508T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2263,7 +2211,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860344404@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270514T183000Z
 DTEND:20270514T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2283,7 +2231,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860345429@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270515T183000Z
 DTEND:20270515T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2303,7 +2251,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860345430@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270521T183000Z
 DTEND:20270521T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2323,7 +2271,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860346455@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270522T183000Z
 DTEND:20270522T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2343,7 +2291,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860347480@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270528T183000Z
 DTEND:20270528T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2363,7 +2311,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860348505@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270529T183000Z
 DTEND:20270529T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2383,7 +2331,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860349530@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270604T183000Z
 DTEND:20270604T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2403,7 +2351,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860349531@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270605T183000Z
 DTEND:20270605T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2423,7 +2371,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860350556@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270611T183000Z
 DTEND:20270611T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2443,7 +2391,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860351581@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270612T183000Z
 DTEND:20270612T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2463,7 +2411,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860352606@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270618T183000Z
 DTEND:20270618T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2483,7 +2431,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860352607@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270619T183000Z
 DTEND:20270619T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2503,7 +2451,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860353632@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270625T183000Z
 DTEND:20270625T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2523,7 +2471,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860354657@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270626T183000Z
 DTEND:20270626T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2543,7 +2491,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860355682@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270702T183000Z
 DTEND:20270702T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2563,7 +2511,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860356707@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270703T183000Z
 DTEND:20270703T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2583,7 +2531,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860356708@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270709T183000Z
 DTEND:20270709T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2603,7 +2551,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860357733@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270710T183000Z
 DTEND:20270710T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2623,7 +2571,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860358758@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270716T183000Z
 DTEND:20270716T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2643,7 +2591,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860359783@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270717T183000Z
 DTEND:20270717T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2663,7 +2611,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860360808@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270723T183000Z
 DTEND:20270723T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2683,7 +2631,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860360809@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270724T183000Z
 DTEND:20270724T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2703,7 +2651,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860361834@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270730T183000Z
 DTEND:20270730T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2723,7 +2671,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860362859@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270731T183000Z
 DTEND:20270731T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2743,7 +2691,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860363884@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270806T183000Z
 DTEND:20270806T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2763,7 +2711,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860363885@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270807T183000Z
 DTEND:20270807T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2783,7 +2731,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860364910@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270813T183000Z
 DTEND:20270813T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2803,7 +2751,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860365935@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270814T183000Z
 DTEND:20270814T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2823,7 +2771,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860366960@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270820T183000Z
 DTEND:20270820T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2843,7 +2791,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860367985@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270821T183000Z
 DTEND:20270821T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2863,7 +2811,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860367986@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270827T183000Z
 DTEND:20270827T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2883,7 +2831,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860369011@didiowen
-DTSTAMP:20261029T115548Z
+DTSTAMP:20261030T115927Z
 DTSTART:20270828T183000Z
 DTEND:20270828T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -3068,7 +3016,7 @@ DESCRIPTION:https://events.stanford.edu/event/surgery-mm-26-27\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53728137760424@didiowen
-DTSTAMP:20261029T115700Z
+DTSTAMP:20261030T120117Z
 DTSTART:20261103T150000Z
 DTEND:20261103T160000Z
 SUMMARY:[混合] General Surgery Alumni Lectureship
@@ -3202,48 +3150,8 @@ DESCRIPTION:https://events.stanford.edu/event/acs-grand-rounds\n\nThe Divis
  n at the University of Virginia.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-53737430744253@didiowen
-DTSTAMP:20261029T115739Z
-DTSTART:20261031T200000Z
-DTEND:20261031T210000Z
-SUMMARY:[現場] Public Tour | A Closer Look
-LOCATION:Cantor Arts Center
-URL:https://events.stanford.edu/event/public-tour-a-closer-look
-DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
- Discover new details\, perspectives\, and connections with Cantor’s “A
-  Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum
-  Engagement Guide\, each tour focuses on three to four artworks organized 
- around a theme\, providing participants with opportunities for contemplati
- on and conversation.\n\nFirst come\, first served. Tours do not require a 
- reservation and are free of charge. The tour will last between 45 minutes 
- and an hour\, depending on the flow of conversation! Please check in at th
- e visitor services desk* in the main museum lobby.\n\n*If you plan to brin
- g a large group with you (10 people or more)\, please notify us one week i
- n advance via this form so we can inform our Guides. Thank you!
-END:VEVENT
-BEGIN:VEVENT
-UID:stanford-53737430745278@didiowen
-DTSTAMP:20261029T115739Z
-DTSTART:20261101T210000Z
-DTEND:20261101T220000Z
-SUMMARY:[現場] Public Tour | A Closer Look
-LOCATION:Cantor Arts Center
-URL:https://events.stanford.edu/event/public-tour-a-closer-look
-DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
- Discover new details\, perspectives\, and connections with Cantor’s “A
-  Closer Look” tours. Led by a Stanford Student Guide or volunteer Museum
-  Engagement Guide\, each tour focuses on three to four artworks organized 
- around a theme\, providing participants with opportunities for contemplati
- on and conversation.\n\nFirst come\, first served. Tours do not require a 
- reservation and are free of charge. The tour will last between 45 minutes 
- and an hour\, depending on the flow of conversation! Please check in at th
- e visitor services desk* in the main museum lobby.\n\n*If you plan to brin
- g a large group with you (10 people or more)\, please notify us one week i
- n advance via this form so we can inform our Guides. Thank you!
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-53737430746303@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261107T210000Z
 DTEND:20261107T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3263,7 +3171,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430747328@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261108T210000Z
 DTEND:20261108T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3283,7 +3191,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430748353@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261114T210000Z
 DTEND:20261114T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3303,7 +3211,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430749378@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261115T210000Z
 DTEND:20261115T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3323,7 +3231,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430750403@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261121T210000Z
 DTEND:20261121T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3343,7 +3251,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430751428@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261122T210000Z
 DTEND:20261122T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3363,7 +3271,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430752453@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261128T210000Z
 DTEND:20261128T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3383,7 +3291,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430753478@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261129T210000Z
 DTEND:20261129T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3403,7 +3311,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430755527@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261205T210000Z
 DTEND:20261205T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3423,7 +3331,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430756552@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261206T210000Z
 DTEND:20261206T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3443,7 +3351,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430757577@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261212T210000Z
 DTEND:20261212T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3463,7 +3371,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430758602@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261213T210000Z
 DTEND:20261213T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3483,7 +3391,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430759627@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261219T210000Z
 DTEND:20261219T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3503,7 +3411,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430760652@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20261220T210000Z
 DTEND:20261220T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3523,7 +3431,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430764751@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270109T210000Z
 DTEND:20270109T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3543,7 +3451,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430765776@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270110T210000Z
 DTEND:20270110T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3563,7 +3471,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430766801@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270116T210000Z
 DTEND:20270116T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3583,7 +3491,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430767826@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270117T210000Z
 DTEND:20270117T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3603,7 +3511,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430768851@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270123T210000Z
 DTEND:20270123T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3623,7 +3531,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430770900@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270124T210000Z
 DTEND:20270124T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3643,7 +3551,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430771925@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270130T210000Z
 DTEND:20270130T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3663,7 +3571,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430772950@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270131T210000Z
 DTEND:20270131T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3683,7 +3591,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430773975@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270206T210000Z
 DTEND:20270206T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3703,7 +3611,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430775000@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270207T210000Z
 DTEND:20270207T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3723,7 +3631,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430777049@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270213T210000Z
 DTEND:20270213T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3743,7 +3651,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430778074@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270214T210000Z
 DTEND:20270214T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3763,7 +3671,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430779099@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270220T210000Z
 DTEND:20270220T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3783,7 +3691,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430780124@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270221T210000Z
 DTEND:20270221T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3803,7 +3711,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430781149@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270227T210000Z
 DTEND:20270227T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3823,7 +3731,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430782174@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270228T210000Z
 DTEND:20270228T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3843,7 +3751,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430784223@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270306T210000Z
 DTEND:20270306T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3863,7 +3771,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430785248@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270307T210000Z
 DTEND:20270307T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3883,7 +3791,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430786273@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270313T210000Z
 DTEND:20270313T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3903,7 +3811,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430787298@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270314T200000Z
 DTEND:20270314T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3923,7 +3831,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430788323@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270320T200000Z
 DTEND:20270320T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3943,7 +3851,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430789348@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270321T200000Z
 DTEND:20270321T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3963,7 +3871,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430791397@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270327T200000Z
 DTEND:20270327T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3983,7 +3891,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430792422@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270328T200000Z
 DTEND:20270328T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4003,7 +3911,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430793447@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270403T200000Z
 DTEND:20270403T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4023,7 +3931,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430794472@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270404T200000Z
 DTEND:20270404T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4043,7 +3951,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430795497@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270410T200000Z
 DTEND:20270410T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4063,7 +3971,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430796522@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270411T200000Z
 DTEND:20270411T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4083,7 +3991,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430797547@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270417T200000Z
 DTEND:20270417T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4103,7 +4011,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430799596@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270418T200000Z
 DTEND:20270418T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4123,7 +4031,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430800621@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270424T200000Z
 DTEND:20270424T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4143,7 +4051,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430801646@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270425T200000Z
 DTEND:20270425T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4163,7 +4071,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430802671@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270501T200000Z
 DTEND:20270501T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4183,7 +4091,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430804720@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270502T200000Z
 DTEND:20270502T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4203,7 +4111,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430805745@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270508T200000Z
 DTEND:20270508T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4223,7 +4131,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430806770@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270509T200000Z
 DTEND:20270509T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4243,7 +4151,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430807795@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270515T200000Z
 DTEND:20270515T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4263,7 +4171,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430808820@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270516T200000Z
 DTEND:20270516T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4283,7 +4191,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430809845@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270522T200000Z
 DTEND:20270522T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4303,7 +4211,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430810870@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270523T200000Z
 DTEND:20270523T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4323,7 +4231,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430811895@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270529T200000Z
 DTEND:20270529T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4343,7 +4251,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430812920@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270530T200000Z
 DTEND:20270530T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4363,7 +4271,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430814969@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270605T200000Z
 DTEND:20270605T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4383,7 +4291,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430815994@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270606T200000Z
 DTEND:20270606T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4403,7 +4311,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430817019@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270612T200000Z
 DTEND:20270612T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4423,7 +4331,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430818044@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270613T200000Z
 DTEND:20270613T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4443,7 +4351,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430820093@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270619T200000Z
 DTEND:20270619T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4463,7 +4371,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430821118@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270620T200000Z
 DTEND:20270620T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4483,7 +4391,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430823167@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270626T200000Z
 DTEND:20270626T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4503,7 +4411,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430824192@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270627T200000Z
 DTEND:20270627T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4523,7 +4431,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430826241@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270703T200000Z
 DTEND:20270703T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4543,7 +4451,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430827266@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270704T200000Z
 DTEND:20270704T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4563,7 +4471,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430828291@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270710T200000Z
 DTEND:20270710T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4583,7 +4491,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430830340@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270711T200000Z
 DTEND:20270711T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4603,7 +4511,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430831365@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270717T200000Z
 DTEND:20270717T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4623,7 +4531,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430832390@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270718T200000Z
 DTEND:20270718T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4643,7 +4551,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430833415@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270724T200000Z
 DTEND:20270724T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4663,7 +4571,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430834440@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270725T200000Z
 DTEND:20270725T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4683,7 +4591,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430836489@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270731T200000Z
 DTEND:20270731T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4703,7 +4611,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430838538@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270801T200000Z
 DTEND:20270801T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4723,7 +4631,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430839563@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270807T200000Z
 DTEND:20270807T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4743,7 +4651,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430841612@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270808T200000Z
 DTEND:20270808T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4763,7 +4671,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430842637@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270814T200000Z
 DTEND:20270814T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4783,7 +4691,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430844686@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270815T200000Z
 DTEND:20270815T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4803,7 +4711,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430845711@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270821T200000Z
 DTEND:20270821T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4823,7 +4731,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430846736@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270822T200000Z
 DTEND:20270822T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4843,7 +4751,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430847761@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270828T200000Z
 DTEND:20270828T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4863,7 +4771,7 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430848786@didiowen
-DTSTAMP:20261029T115739Z
+DTSTAMP:20261031T042416Z
 DTSTART:20270829T200000Z
 DTEND:20270829T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4882,28 +4790,8 @@ DESCRIPTION:https://events.stanford.edu/event/public-tour-a-closer-look\n\n
  n advance via this form so we can inform our Guides. Thank you!
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-53737452699741@didiowen
-DTSTAMP:20261029T115740Z
-DTSTART:20261031T220000Z
-DTEND:20261031T230000Z
-SUMMARY:[現場] Public Tour | A Closer Look
-LOCATION:Cantor Arts Center
-URL:https://events.stanford.edu/event/copy-of-public-tour-a-closer-look
-DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
- look\n\nDiscover new details\, perspectives\, and connections with Cantor
- ’s “A Closer Look” tours. Led by a Stanford Student Guide or volunte
- er Museum Engagement Guide\, each tour focuses on three to four artworks o
- rganized around a theme\, providing participants with opportunities for co
- ntemplation and conversation.\n\nFirst come\, first served. Tours do not r
- equire a reservation and are free of charge. The tour will last between 45
-  minutes and an hour\, depending on the flow of conversation! Please check
-  in at the visitor services desk* in the main museum lobby.\n\n*If you pla
- n to bring a large group with you (10 people or more)\, please notify us o
- ne week in advance via this form so we can inform our Guides. Thank you!
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-53737452701790@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261101T230000Z
 DTEND:20261102T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4923,7 +4811,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452704863@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261107T230000Z
 DTEND:20261108T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4943,7 +4831,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452705888@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261108T230000Z
 DTEND:20261109T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4963,7 +4851,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452707937@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261114T230000Z
 DTEND:20261115T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4983,7 +4871,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452709986@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261115T230000Z
 DTEND:20261116T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5003,7 +4891,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452711011@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261121T230000Z
 DTEND:20261122T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5023,7 +4911,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452712036@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261122T230000Z
 DTEND:20261123T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5043,7 +4931,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452713061@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261128T230000Z
 DTEND:20261129T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5063,7 +4951,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452715110@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261129T230000Z
 DTEND:20261130T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5083,7 +4971,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452717159@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261205T230000Z
 DTEND:20261206T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5103,7 +4991,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452718184@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261206T230000Z
 DTEND:20261207T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5123,7 +5011,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452720233@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261212T230000Z
 DTEND:20261213T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5143,7 +5031,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452723306@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261213T230000Z
 DTEND:20261214T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5163,7 +5051,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452726379@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261219T230000Z
 DTEND:20261220T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5183,7 +5071,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452728428@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20261220T230000Z
 DTEND:20261221T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5203,7 +5091,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452733551@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270109T230000Z
 DTEND:20270110T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5223,7 +5111,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452735600@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270110T230000Z
 DTEND:20270111T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5243,7 +5131,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452738673@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270116T230000Z
 DTEND:20270117T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5263,7 +5151,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452740722@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270117T230000Z
 DTEND:20270118T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5283,7 +5171,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452742771@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270123T230000Z
 DTEND:20270124T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5303,7 +5191,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452745844@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270124T230000Z
 DTEND:20270125T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5323,7 +5211,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452746869@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270130T230000Z
 DTEND:20270131T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5343,7 +5231,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452748918@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270131T230000Z
 DTEND:20270201T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5363,7 +5251,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452750967@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270206T230000Z
 DTEND:20270207T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5383,7 +5271,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452753016@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270207T230000Z
 DTEND:20270208T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5403,7 +5291,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452755065@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270213T230000Z
 DTEND:20270214T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5423,7 +5311,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452757114@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270214T230000Z
 DTEND:20270215T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5443,7 +5331,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452759163@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270220T230000Z
 DTEND:20270221T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5463,7 +5351,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452761212@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270221T230000Z
 DTEND:20270222T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5483,7 +5371,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452763261@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270227T230000Z
 DTEND:20270228T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5503,7 +5391,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452764286@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270228T230000Z
 DTEND:20270301T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5523,7 +5411,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452765311@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270306T230000Z
 DTEND:20270307T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5543,7 +5431,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452766336@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270307T230000Z
 DTEND:20270308T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5563,7 +5451,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452767361@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270313T230000Z
 DTEND:20270314T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5583,7 +5471,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452768386@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270314T220000Z
 DTEND:20270314T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5603,7 +5491,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452769411@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270320T220000Z
 DTEND:20270320T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5623,7 +5511,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452770436@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270321T220000Z
 DTEND:20270321T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5643,7 +5531,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452771461@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270327T220000Z
 DTEND:20270327T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5663,7 +5551,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452774534@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270328T220000Z
 DTEND:20270328T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5683,7 +5571,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452775559@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270403T220000Z
 DTEND:20270403T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5703,7 +5591,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452777608@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270404T220000Z
 DTEND:20270404T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5723,7 +5611,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452780681@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270410T220000Z
 DTEND:20270410T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5743,7 +5631,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452781706@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270411T220000Z
 DTEND:20270411T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5763,7 +5651,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452782731@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270417T220000Z
 DTEND:20270417T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5783,7 +5671,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452784780@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270418T220000Z
 DTEND:20270418T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5803,7 +5691,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452786829@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270424T220000Z
 DTEND:20270424T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5823,7 +5711,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452787854@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270425T220000Z
 DTEND:20270425T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5843,7 +5731,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452789903@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270501T220000Z
 DTEND:20270501T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5863,7 +5751,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452790928@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270502T220000Z
 DTEND:20270502T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5883,7 +5771,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452791953@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270508T220000Z
 DTEND:20270508T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5903,7 +5791,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452794002@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270509T220000Z
 DTEND:20270509T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5923,7 +5811,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452795027@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270515T220000Z
 DTEND:20270515T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5943,7 +5831,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452797076@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270516T220000Z
 DTEND:20270516T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5963,7 +5851,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452798101@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270522T220000Z
 DTEND:20270522T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5983,7 +5871,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452799126@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270523T220000Z
 DTEND:20270523T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6003,7 +5891,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452801175@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270529T220000Z
 DTEND:20270529T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6023,7 +5911,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452802200@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270530T220000Z
 DTEND:20270530T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6043,7 +5931,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452803225@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270605T220000Z
 DTEND:20270605T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6063,7 +5951,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452805274@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270606T220000Z
 DTEND:20270606T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6083,7 +5971,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452806299@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270612T220000Z
 DTEND:20270612T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6103,7 +5991,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452807324@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270613T220000Z
 DTEND:20270613T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6123,7 +6011,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452809373@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270619T220000Z
 DTEND:20270619T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6143,7 +6031,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452812446@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270620T220000Z
 DTEND:20270620T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6163,7 +6051,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452814495@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270626T220000Z
 DTEND:20270626T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6183,7 +6071,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452816544@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270627T220000Z
 DTEND:20270627T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6203,7 +6091,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452817569@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270703T220000Z
 DTEND:20270703T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6223,7 +6111,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452820642@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270704T220000Z
 DTEND:20270704T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6243,7 +6131,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452822691@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270710T220000Z
 DTEND:20270710T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6263,7 +6151,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452823716@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270711T220000Z
 DTEND:20270711T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6283,7 +6171,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452823717@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270717T220000Z
 DTEND:20270717T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6303,7 +6191,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452825766@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270718T220000Z
 DTEND:20270718T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6323,7 +6211,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452826791@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270724T220000Z
 DTEND:20270724T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6343,7 +6231,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452827816@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270725T220000Z
 DTEND:20270725T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6363,7 +6251,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452828841@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270731T220000Z
 DTEND:20270731T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6383,7 +6271,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452829866@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270801T220000Z
 DTEND:20270801T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6403,7 +6291,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452830891@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270807T220000Z
 DTEND:20270807T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6423,7 +6311,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452831916@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270808T220000Z
 DTEND:20270808T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6443,7 +6331,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452833965@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270814T220000Z
 DTEND:20270814T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6463,7 +6351,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452833966@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270815T220000Z
 DTEND:20270815T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6483,7 +6371,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452834991@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270821T220000Z
 DTEND:20270821T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6503,7 +6391,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452836016@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270822T220000Z
 DTEND:20270822T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6523,7 +6411,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452837041@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270828T220000Z
 DTEND:20270828T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6543,7 +6431,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452838066@didiowen
-DTSTAMP:20261029T115740Z
+DTSTAMP:20261031T042418Z
 DTSTART:20270829T220000Z
 DTEND:20270829T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6596,7 +6484,7 @@ DESCRIPTION:https://events.stanford.edu/event/elamite-art-through-the-lens-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53808344432557@didiowen
-DTSTAMP:20261029T120534Z
+DTSTAMP:20261030T121020Z
 DTSTART:20261104T230000Z
 DTEND:20261105T012000Z
 SUMMARY:[現場] Digital Mirrors of Materiality
@@ -6626,7 +6514,7 @@ DESCRIPTION:https://events.stanford.edu/event/digital-mirrors-of-materialit
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53808344431532@didiowen
-DTSTAMP:20261029T120534Z
+DTSTAMP:20261030T121020Z
 DTSTART:20261105T013000Z
 DTEND:20261105T023000Z
 SUMMARY:[現場] Digital Mirrors of Materiality
@@ -6653,6 +6541,72 @@ DESCRIPTION:https://events.stanford.edu/event/digital-mirrors-of-materialit
   made possible by John D. and Catherine T. MacArthur Foundation \, Funding
   Good Chaos\, Stanford Arts Institute (SAI)\, the Department of Art and Ar
  t History  and the Office of the Vice President for the Arts.
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54386203434177@didiowen
+DTSTAMP:20261031T042421Z
+DTSTART:20261031T200000Z
+DTEND:20261031T210000Z
+SUMMARY:[現場] [Cancelled] Public Tour | A Closer Look
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-496
+ 1
+DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
+ look-4961\n\nDiscover new details\, perspectives\, and connections with Ca
+ ntor’s “A Closer Look” tours. Led by a Stanford Student Guide or vol
+ unteer Museum Engagement Guide\, each tour focuses on three to four artwor
+ ks organized around a theme\, providing participants with opportunities fo
+ r contemplation and conversation.\n\nFirst come\, first served. Tours do n
+ ot require a reservation and are free of charge. The tour will last betwee
+ n 45 minutes and an hour\, depending on the flow of conversation! Please c
+ heck in at the visitor services desk* in the main museum lobby.\n\n*If you
+  plan to bring a large group with you (10 people or more)\, please notify 
+ us one week in advance via this form so we can inform our Guides. Thank yo
+ u!
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54386203436226@didiowen
+DTSTAMP:20261031T042421Z
+DTSTART:20261031T220000Z
+DTEND:20261031T230000Z
+SUMMARY:[現場] [Cancelled] Public Tour | A Closer Look
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-496
+ 1
+DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
+ look-4961\n\nDiscover new details\, perspectives\, and connections with Ca
+ ntor’s “A Closer Look” tours. Led by a Stanford Student Guide or vol
+ unteer Museum Engagement Guide\, each tour focuses on three to four artwor
+ ks organized around a theme\, providing participants with opportunities fo
+ r contemplation and conversation.\n\nFirst come\, first served. Tours do n
+ ot require a reservation and are free of charge. The tour will last betwee
+ n 45 minutes and an hour\, depending on the flow of conversation! Please c
+ heck in at the visitor services desk* in the main museum lobby.\n\n*If you
+  plan to bring a large group with you (10 people or more)\, please notify 
+ us one week in advance via this form so we can inform our Guides. Thank yo
+ u!
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54386203437251@didiowen
+DTSTAMP:20261031T042421Z
+DTSTART:20261101T210000Z
+DTEND:20261101T220000Z
+SUMMARY:[現場] [Cancelled] Public Tour | A Closer Look
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/copy-of-public-tour-a-closer-look-496
+ 1
+DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
+ look-4961\n\nDiscover new details\, perspectives\, and connections with Ca
+ ntor’s “A Closer Look” tours. Led by a Stanford Student Guide or vol
+ unteer Museum Engagement Guide\, each tour focuses on three to four artwor
+ ks organized around a theme\, providing participants with opportunities fo
+ r contemplation and conversation.\n\nFirst come\, first served. Tours do n
+ ot require a reservation and are free of charge. The tour will last betwee
+ n 45 minutes and an hour\, depending on the flow of conversation! Please c
+ heck in at the visitor services desk* in the main museum lobby.\n\n*If you
+  plan to bring a large group with you (10 people or more)\, please notify 
+ us one week in advance via this form so we can inform our Guides. Thank yo
+ u!
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53755962742429@didiowen
@@ -6758,31 +6712,6 @@ DESCRIPTION:https://events.stanford.edu/event/curator-led-talk-surfacing-fe
  y Gallery from September 17\, 2026 – February 8\, 2027.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-53763721802516@didiowen
-DTSTAMP:20261029T120057Z
-DTSTART:20261030T190000Z
-DTEND:20261030T230000Z
-SUMMARY:[現場] AUDITIONS | "Angels in America Part One: Millennium Approa
- ches"
-LOCATION:Roble Gym
-URL:https://events.stanford.edu/event/Angels-Auditions
-DESCRIPTION:https://events.stanford.edu/event/Angels-Auditions\n報名/票
- 券: https://taps.stanford.edu/angels-auditions/\n\nWINTER 2027 MAIN STAGE
-  | LEARN MORE | View 26-27 Season\n\nWritten Tony Kushner | Directed by TA
- PS Graduate Student Connor Lifson\n\nABOUT Angels in America Part One: Mil
- lennium Approaches\nAs the AIDS crisis intensifies in the mid-1980s\, a gr
- oup of New Yorkers find their lives colliding in unexpected and extraordin
- ary ways. Just as intimate as it is epic\, Angels in America\, Part One: M
- illennium Approaches blends raw emotion\, political history\, queer identi
- ty\, love\, loss\, fantasy\, and\, of course\, angels. Relationships fract
- ure and bloom as characters confront illness\, abandonment\, ambition\, an
- d the possibility of transformation. Fiercely funny and deeply moving\, To
- ny Kushner’s monumental play explores what it means to survive in a shat
- tering world. This Production will serve as our annual TAPS 122P course of
- fering\n \n\nThe Graduate Repertory 2027 piece Cowboy Mouth will also seek
-  actors from these auditions.
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-53763779186531@didiowen
 DTSTAMP:20261029T210305Z
 DTSTART:20261113T040000Z
@@ -6856,7 +6785,7 @@ DESCRIPTION:https://events.stanford.edu/event/our-town\n報名/票券: http
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53790868744168@didiowen
-DTSTAMP:20261019T055418Z
+DTSTAMP:20261030T120733Z
 DTSTART:20261108T020000Z
 DTEND:20261108T020000Z
 SUMMARY:[現場] 16th Bita Prize for Persian Arts: Sima Bina
@@ -6904,7 +6833,7 @@ DESCRIPTION:https://events.stanford.edu/event/sdrc-friday-seminar-042327\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53801235932031@didiowen
-DTSTAMP:20261029T120436Z
+DTSTAMP:20261030T120858Z
 DTSTART:20261105T200000Z
 DTEND:20261105T210000Z
 SUMMARY:[現場] Lunchtime Curator Talk | California Current: Art and Histo
@@ -7138,41 +7067,8 @@ DESCRIPTION:https://events.stanford.edu/event/medicine-grand-rounds-with-sh
  e Program\, transforming hospital care for aging patients worldwide.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-53818815579226@didiowen
-DTSTAMP:20261029T120617Z
-DTSTART:20261030T210000Z
-DTEND:20261030T220000Z
-SUMMARY:[現場] Gallery Conversations | JANE!
-LOCATION:Cantor Arts Center\, Stanford Family Room (122)
-URL:https://events.stanford.edu/event/copy-of-gallery-conversations-jeremy-
- frey-woven-8444
-DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
- -jeremy-frey-woven-8444\n\nJoin us for casual in-gallery conversations in 
- our special exhibition\, JANE!\, facilitated by our Museum Engagement Guid
- es. Enjoy a spotlight tour focusining on a single object\, followed by an 
- open conversation. \n\nCurated by Associate Curator of European Art\, Patr
- ick R. Crowley\, JANE! celebrates the aesthetic and affective excesses of 
- Jane Stanford\, the Gilded Age founder and matriarch of Stanford Universit
- y. Bringing together precious keepsakes\, souvenirs\, archaeological detri
- tus\, and spooky messages from beyond the grave\, the exhibition reveals t
- he campy underside of a familiar biography and perhaps an even more famili
- ar murder mystery.\n\nFrom her elegant French gowns to a colossal painting
-  of her jewels\, from the Egyptian artifacts she acquired for her fledglin
- g museum to a container of her beauty cream excavated from her Palo Alto m
- ansion destroyed in the 1906 San Francisco earthquake\, JANE! presents var
- ious idiosyncratic artifacts of Stanford lore—many of them shown for the
-  very first time—and very probably for the last.\n\nWe gratefully acknow
- ledge lead support for JANE! provided by Pamela and David Hornik. Sustaine
- d support generously provided by The C. Diane Christensen Fund for African
-  Art.\n\n---\n\nPublic tours are free for all. Please check in at the visi
- tor services desk* in the main museum lobby.\n\n*If you plan to bring a la
- rge group with you (10 people or more)\, please notify us one week in adva
- nce via this form so we can inform our Guides. Thank you!\n\nIMAGE: Astley
-  D. 
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-53818815580251@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261031T210000Z
 DTEND:20261031T220000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7205,7 +7101,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815581276@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261101T220000Z
 DTEND:20261101T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7238,7 +7134,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815582301@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261106T220000Z
 DTEND:20261106T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7271,7 +7167,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815583326@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261107T220000Z
 DTEND:20261107T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7304,7 +7200,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815584351@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261108T220000Z
 DTEND:20261108T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7337,7 +7233,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815585376@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261113T220000Z
 DTEND:20261113T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7370,7 +7266,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815586401@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261114T220000Z
 DTEND:20261114T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7403,7 +7299,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815587426@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261115T220000Z
 DTEND:20261115T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7436,7 +7332,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815588451@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261120T220000Z
 DTEND:20261120T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7469,7 +7365,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815589476@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261121T220000Z
 DTEND:20261121T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7502,7 +7398,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815590501@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261122T220000Z
 DTEND:20261122T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7535,7 +7431,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815592550@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261127T220000Z
 DTEND:20261127T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7568,7 +7464,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815593575@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261128T220000Z
 DTEND:20261128T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7601,7 +7497,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815594600@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261129T220000Z
 DTEND:20261129T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7634,7 +7530,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815594601@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261204T220000Z
 DTEND:20261204T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7667,7 +7563,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815595626@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261205T220000Z
 DTEND:20261205T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7700,7 +7596,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815596651@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261206T220000Z
 DTEND:20261206T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7733,7 +7629,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815597676@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261211T220000Z
 DTEND:20261211T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7766,7 +7662,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815598701@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261212T220000Z
 DTEND:20261212T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7799,7 +7695,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815599726@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261213T220000Z
 DTEND:20261213T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7832,7 +7728,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815600751@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261218T220000Z
 DTEND:20261218T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7865,7 +7761,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815601776@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261219T220000Z
 DTEND:20261219T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7898,7 +7794,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815603825@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261220T220000Z
 DTEND:20261220T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7931,7 +7827,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815603826@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261225T220000Z
 DTEND:20261225T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7964,7 +7860,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815604851@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261226T220000Z
 DTEND:20261226T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7997,7 +7893,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815605876@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20261227T220000Z
 DTEND:20261227T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -8030,7 +7926,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815606901@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20270101T220000Z
 DTEND:20270101T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -8063,7 +7959,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815607926@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20270102T220000Z
 DTEND:20270102T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -8096,7 +7992,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-gallery-conversations
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815608951@didiowen
-DTSTAMP:20261029T120617Z
+DTSTAMP:20261030T121105Z
 DTSTART:20270103T220000Z
 DTEND:20270103T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -8391,7 +8287,7 @@ DESCRIPTION:https://events.stanford.edu/event/open-wide-the-doors-the-priso
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53861067888210@didiowen
-DTSTAMP:20261029T120856Z
+DTSTAMP:20261030T121335Z
 DTSTART:20261104T200000Z
 DTEND:20261104T211500Z
 SUMMARY:[混合] HAI Seminar with Marcos Santiago Rojas Pino & Thomas Carus
@@ -8629,7 +8525,7 @@ DESCRIPTION:https://events.stanford.edu/event/tracing-mindfulness-back-to-i
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53871308387148@didiowen
-DTSTAMP:20261029T120955Z
+DTSTAMP:20261030T121442Z
 DTSTART:20261106T013000Z
 DTEND:20261106T023000Z
 SUMMARY:[混合] 36th Annual Jonathan J. King Lecture: Dr. Bryant Lin & Dr.
@@ -8766,7 +8662,7 @@ DESCRIPTION:https://events.stanford.edu/event/alcohol-associated-hepatitis-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53944511822010@didiowen
-DTSTAMP:20261029T121444Z
+DTSTAMP:20261030T121920Z
 DTSTART:20261104T190000Z
 DTEND:20261104T200000Z
 SUMMARY:[現場] How to Be More Effective with AI Tools While Coding
@@ -8794,7 +8690,7 @@ DESCRIPTION:https://events.stanford.edu/event/how-to-be-more-effective-with
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53944527851152@didiowen
-DTSTAMP:20261029T121444Z
+DTSTAMP:20261030T121920Z
 DTSTART:20261106T180000Z
 DTEND:20261106T190000Z
 SUMMARY:[線上] Artificial Intelligence Regulatory & Policy Landscapes
@@ -8928,7 +8824,7 @@ DESCRIPTION:https://events.stanford.edu/event/galicias-promised-city-with-o
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53954321811562@didiowen
-DTSTAMP:20261030T082855Z
+DTSTAMP:20261031T082543Z
 DTSTART:20270126T000000Z
 DTEND:20270126T011500Z
 SUMMARY:[現場] Simon DeDeo | Proofs and reasons in the age of artificial 
@@ -9173,7 +9069,7 @@ DESCRIPTION:https://events.stanford.edu/event/the-disappearance-of-enforced
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53977038029919@didiowen
-DTSTAMP:20261029T121624Z
+DTSTAMP:20261030T122042Z
 DTSTART:20261106T003000Z
 DTEND:20261106T020000Z
 SUMMARY:[現場] The Fate of the Social in Modern Life: American Social Sci
@@ -9207,7 +9103,7 @@ DESCRIPTION:https://events.stanford.edu/event/the-fate-of-the-social-in-mod
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53977460472650@didiowen
-DTSTAMP:20261029T121624Z
+DTSTAMP:20261030T122042Z
 DTSTART:20261104T180000Z
 DTEND:20261104T190000Z
 SUMMARY:[現場] CSRE PhD Minor Info Session
@@ -9230,7 +9126,7 @@ DESCRIPTION:https://events.stanford.edu/event/csre-phd-minor-info-session-3
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53992948239143@didiowen
-DTSTAMP:20261029T121718Z
+DTSTAMP:20261030T122131Z
 DTSTART:20261104T200000Z
 DTEND:20261104T210000Z
 SUMMARY:[混合] Food Sense: What to Eat and Why
@@ -9270,7 +9166,7 @@ DESCRIPTION:https://events.stanford.edu/event/medicine-grand-rounds-with-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53994605586594@didiowen
-DTSTAMP:20261029T121736Z
+DTSTAMP:20261030T122144Z
 DTSTART:20261105T023000Z
 DTEND:20261105T040000Z
 SUMMARY:[現場] Stegner Fellow Reading with Daniel Lurie and Katerina Ivan
@@ -9473,7 +9369,7 @@ DESCRIPTION:https://events.stanford.edu/event/noon-schumann-spr27\n\nJoin u
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54001154362238@didiowen
-DTSTAMP:20261029T121759Z
+DTSTAMP:20261030T122202Z
 DTSTART:20261104T203000Z
 DTEND:20261104T220000Z
 SUMMARY:[現場] Noon Concert: Piano Students of Laura Dahl & Ory Shihor
@@ -9521,7 +9417,7 @@ DESCRIPTION:https://events.stanford.edu/event/noon-dahl-spr27\n\nJoin us fo
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54001169587167@didiowen
-DTSTAMP:20261029T121759Z
+DTSTAMP:20261030T122202Z
 DTSTART:20261106T203000Z
 DTEND:20261106T220000Z
 SUMMARY:[現場] Noon Concert: Piano Students of Melinda Lee Masur
@@ -9905,7 +9801,7 @@ DESCRIPTION:https://events.stanford.edu/event/noon-ferguson-spr27\n\nJoin u
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54002119865911@didiowen
-DTSTAMP:20261029T121803Z
+DTSTAMP:20261030T122206Z
 DTSTART:20261106T193000Z
 DTEND:20261106T210000Z
 SUMMARY:[現場] First Fridays Collab Lab
@@ -9923,37 +9819,8 @@ DESCRIPTION:https://events.stanford.edu/event/collab-lab-nov6\n\nNo scores\
  app before arriving.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54003225634681@didiowen
-DTSTAMP:20261029T121816Z
-DTSTART:20261031T023000Z
-DTEND:20261031T040000Z
-SUMMARY:[現場] 2026 Halloween Concert
-LOCATION:Dinkelspiel Auditorium
-URL:https://events.stanford.edu/event/2026-halloween-concert
-DESCRIPTION:https://events.stanford.edu/event/2026-halloween-concert\n報
- 名/票券: https://live.stanford.edu/s/event?EventID=47601\n\nThe Stanfor
- d Symphony Orchestra and Stanford Wind Symphony team up to present the ann
- ual Halloween Concert in Dinkelspiel Auditorium with a dramatic program of
-  repertoire appropriate for the season.\n\nDon't forget to wear your costu
- me! Following the second half of the program\, there will be a contest wit
- h the winner taking the stage to conduct the evening's final selection.\n\
- nThis event is always well attended\, so plan to get your ticket in advanc
- e!\n\nStanford Symphony Orchestra\n\nRichard Strauss – Also sprach Zarat
- hustra (opening)Gustav Holst – "Mars" and "Jupiter" from The PlanetsJohn
-  Williams – Star Wars: The Empire Strikes BackJerry Goldsmith – Star T
- rek Through the YearsStanford Wind Symphony\n\nDmitri Shostakovich – Pre
- lude\, Op. 34\, no. 14Golden from KPop Demon HuntersFrançois Borne – Fa
- ntaisie brillante sur CarmenErica Wang\, flute soloistAndrew Lloyd Webber 
- – Selections from The Phantom of the OperaJohn Philip Sousa – The Wash
- ington Post MarchAdmission Information\n\nGeneral – $32 | Seniors (65+) 
- and Non-Stanford Students – $27\nPrice shown reflects total cost includi
- ng $4 online/phone per-ticket fee.FREE admission for Stanford University s
- tudents. One ticket per ID\, available beginning one hour prior to curtain
-  at the venue.
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54003275129201@didiowen
-DTSTAMP:20261006T171630Z
+DTSTAMP:20261030T122219Z
 DTSTART:20261108T033000Z
 DTEND:20261108T050000Z
 SUMMARY:[混合] Stanford Philharmonia
@@ -10215,7 +10082,7 @@ DESCRIPTION:https://events.stanford.edu/event/messiah-fall26\n報名/票券
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54003952174869@didiowen
-DTSTAMP:20261029T121819Z
+DTSTAMP:20261030T122221Z
 DTSTART:20261105T023000Z
 DTEND:20261105T040000Z
 SUMMARY:[現場] You Belong Here: A Student Workshop
@@ -10243,7 +10110,7 @@ DESCRIPTION:https://events.stanford.edu/event/you-belong-here-a-student-wor
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54004031461183@didiowen
-DTSTAMP:20261029T121819Z
+DTSTAMP:20261030T122222Z
 DTSTART:20261105T200000Z
 DTEND:20261105T211500Z
 SUMMARY:[線上] Marcela Ibáñez — Authoritarian Aid and Democratic Atti
@@ -10488,7 +10355,7 @@ DESCRIPTION:https://events.stanford.edu/event/charles-ray\n報名/票券: h
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54011243977907@didiowen
-DTSTAMP:20261029T121848Z
+DTSTAMP:20261030T122246Z
 DTSTART:20261106T003000Z
 DTEND:20261106T020000Z
 SUMMARY:[現場] No Ideas But in Things
@@ -10606,7 +10473,7 @@ DESCRIPTION:https://events.stanford.edu/event/another-look-presents-tobias-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54032052037077@didiowen
-DTSTAMP:20261029T121918Z
+DTSTAMP:20261030T122307Z
 DTSTART:20261106T020000Z
 DTEND:20261106T040000Z
 SUMMARY:[現場] Electric Contrasts Study Evening
@@ -10920,7 +10787,7 @@ DESCRIPTION:https://events.stanford.edu/event/cnds-seminar-youngju-jo\n\nAb
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54054961140361@didiowen
-DTSTAMP:20261029T122052Z
+DTSTAMP:20261030T122427Z
 DTSTART:20261106T010000Z
 DTEND:20261106T023000Z
 SUMMARY:[現場] What Do We Owe Each Other in the Age of AI?
@@ -10987,7 +10854,7 @@ DESCRIPTION:https://events.stanford.edu/event/artist-salon-north-african-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54074581180954@didiowen
-DTSTAMP:20261029T122216Z
+DTSTAMP:20261030T122547Z
 DTSTART:20261103T163000Z
 DTEND:20261103T230000Z
 SUMMARY:[現場] Stanford Medicine Children's Health Center for IBD and Cel
@@ -11010,7 +10877,7 @@ DESCRIPTION:https://events.stanford.edu/event/5th-annual-research-symposium
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54095467363601@didiowen
-DTSTAMP:20261029T122228Z
+DTSTAMP:20261030T122558Z
 DTSTART:20261104T200000Z
 DTEND:20261104T211500Z
 SUMMARY:[現場] CMEMS: Alice Brooke presents\, "A Pearl of Great Price"
@@ -11083,7 +10950,7 @@ DESCRIPTION:https://events.stanford.edu/event/cmems-katerina-levinson-prese
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975777385@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20261104T183000Z
 DTEND:20261104T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11104,7 +10971,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975778410@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20261111T183000Z
 DTEND:20261111T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11125,7 +10992,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975779435@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20261118T183000Z
 DTEND:20261118T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11146,7 +11013,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975780460@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20261125T183000Z
 DTEND:20261125T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11167,7 +11034,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975781485@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20261202T183000Z
 DTEND:20261202T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11188,7 +11055,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975782510@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20261209T183000Z
 DTEND:20261209T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11209,7 +11076,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975783535@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20261216T183000Z
 DTEND:20261216T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11230,7 +11097,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975784560@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270106T183000Z
 DTEND:20270106T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11251,7 +11118,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975785585@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270113T183000Z
 DTEND:20270113T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11272,7 +11139,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975786610@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270120T183000Z
 DTEND:20270120T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11293,7 +11160,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975869555@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270127T183000Z
 DTEND:20270127T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11314,7 +11181,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975880820@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270203T183000Z
 DTEND:20270203T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11335,7 +11202,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975883893@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270210T183000Z
 DTEND:20270210T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11356,7 +11223,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975884918@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270217T183000Z
 DTEND:20270217T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11377,7 +11244,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975886967@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270224T183000Z
 DTEND:20270224T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11398,7 +11265,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975887992@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270303T183000Z
 DTEND:20270303T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11419,7 +11286,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975890041@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270310T183000Z
 DTEND:20270310T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11440,7 +11307,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975891066@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270317T173000Z
 DTEND:20270317T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11461,7 +11328,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975894139@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270324T173000Z
 DTEND:20270324T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11482,7 +11349,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975895164@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270331T173000Z
 DTEND:20270331T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11503,7 +11370,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975898237@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270407T173000Z
 DTEND:20270407T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11524,7 +11391,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975899262@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270414T173000Z
 DTEND:20270414T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11545,7 +11412,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975901311@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270421T173000Z
 DTEND:20270421T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11566,7 +11433,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975902336@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270428T173000Z
 DTEND:20270428T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11587,7 +11454,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975906433@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270505T173000Z
 DTEND:20270505T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11608,7 +11475,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975908482@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270512T173000Z
 DTEND:20270512T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11629,7 +11496,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975911555@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270519T173000Z
 DTEND:20270519T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11650,7 +11517,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975921796@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270526T173000Z
 DTEND:20270526T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11671,7 +11538,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975923845@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270602T173000Z
 DTEND:20270602T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11692,7 +11559,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975924870@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270609T173000Z
 DTEND:20270609T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11713,7 +11580,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975928967@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270616T173000Z
 DTEND:20270616T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11734,7 +11601,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975932040@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270623T173000Z
 DTEND:20270623T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11755,7 +11622,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975934089@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270630T173000Z
 DTEND:20270630T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11776,7 +11643,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975936138@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270707T173000Z
 DTEND:20270707T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11797,7 +11664,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975938187@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270714T173000Z
 DTEND:20270714T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11818,7 +11685,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975940236@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270721T173000Z
 DTEND:20270721T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11839,7 +11706,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975941261@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270728T173000Z
 DTEND:20270728T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11860,7 +11727,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975943310@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270804T173000Z
 DTEND:20270804T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11881,7 +11748,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975944335@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270811T173000Z
 DTEND:20270811T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11902,7 +11769,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975945360@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270818T173000Z
 DTEND:20270818T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -11923,7 +11790,7 @@ DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975958673@didiowen
-DTSTAMP:20261029T122248Z
+DTSTAMP:20261030T122619Z
 DTSTART:20270825T173000Z
 DTEND:20270825T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -12267,7 +12134,7 @@ DESCRIPTION:https://events.stanford.edu/event/ptolemys-almagest\n報名/票
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54125978094433@didiowen
-DTSTAMP:20261029T172106Z
+DTSTAMP:20261030T122834Z
 DTSTART:20261103T233000Z
 DTEND:20261104T004500Z
 SUMMARY:[混合] Book Talk — We Shall Outlast Them: Putin’s Global Camp
@@ -12304,7 +12171,7 @@ DESCRIPTION:https://events.stanford.edu/event/book-talk-we-shall-outlast-th
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54127988904136@didiowen
-DTSTAMP:20261029T122524Z
+DTSTAMP:20261030T122844Z
 DTSTART:20261105T003000Z
 DTEND:20261105T020000Z
 SUMMARY:[現場] Slavic Colloquium - Naomi Caffee: Arts of Recognition: The
@@ -12344,39 +12211,6 @@ DESCRIPTION:https://events.stanford.edu/event/shop-smart-eat-well-budget-fr
  in.\n\nThis webinar will be presented by Erin Hodgson\, MS\, RD\, BC-ADM\,
   CDCES\, who is a clinical dietitian and certified diabetes care and educa
  tion specialist at Stanford Health Care.
-END:VEVENT
-BEGIN:VEVENT
-UID:stanford-54136388473483@didiowen
-DTSTAMP:20261030T065431Z
-DTSTART:20261030T190000Z
-DTEND:20261030T210000Z
-SUMMARY:[現場] The Gatekeepers: Hamburg\, Germany and the Making of the M
- odern World
-LOCATION:Building 200\, History Corner\, 307
-URL:https://events.stanford.edu/event/the-gatekeepers-hamburg-germany-and-t
- he-making-of-the-modern-world
-DESCRIPTION:https://events.stanford.edu/event/the-gatekeepers-hamburg-germa
- ny-and-the-making-of-the-modern-world\n\nThe Gatekeepers is a history of t
- he relationship between liberalism and globalization told through Hamburg\
- , the city known as Germany’s “gateway to the world.” It tells the s
- tory of this city’s upper stratum\, a wide-ranging but remarkably durabl
- e network of people and institutions centered on Hamburg but spiraling out
-  into the world. For one century\, this network committed itself to pullin
- g Germany into the world economy and to pulling the promises of an interco
- nnected world into Germany—yet also to wielding the power to determine w
- hat it meant to be open to the world. As they did so\, Hamburg’s gatekee
- pers laid key foundations for the postwar Federal Republic of Germany’s 
- foreign affairs and the architecture of post-1945 world order.\n\nJoin the
-  Modern Europe Workshop in learning more about and discussing Jack Guenthe
- r's upcoming work. RSVP here for lunch.\n\nJack H. Guenther received his P
- h.D. in history from Princeton in 2024. He specializes in German history a
- nd the history of capitalism\, liberalism\, and international order. His f
- irst book\, The Gatekeepers: Hamburg\, Germany\, and the Making of the Mod
- ern World\, is under contract with Yale University Press. His other resear
- ch and writing have appeared in Archiv für Sozialgeschichte\, Central Eur
- opean History\, The English Historical Review\, German History\, H-Diplo\,
-  História Econômica & História de Empresas\, and in edited volumes on G
- ermany’s export economy and contemporary European foreign affairs.
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54136475283456@didiowen
@@ -12448,7 +12282,7 @@ DESCRIPTION:https://events.stanford.edu/event/delivering-humanitarian-aid-i
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54162642751098@didiowen
-DTSTAMP:20261029T122743Z
+DTSTAMP:20261030T123036Z
 DTSTART:20261106T210000Z
 DTEND:20261107T010000Z
 SUMMARY:[現場] eWEAR Health Prize @ Stanford U.
@@ -12512,7 +12346,7 @@ DESCRIPTION:https://events.stanford.edu/event/flute-ensemble-fall26\n\nThe
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54170450699649@didiowen
-DTSTAMP:20261029T122916Z
+DTSTAMP:20261030T123202Z
 DTSTART:20261106T170000Z
 DTEND:20261107T003000Z
 SUMMARY:[現場] Big Tech\, Democracy\, and Human Rights
@@ -12671,7 +12505,7 @@ DESCRIPTION:https://events.stanford.edu/event/lessons-and-carols-2-fall26\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54177973515463@didiowen
-DTSTAMP:20261029T122945Z
+DTSTAMP:20261030T123228Z
 DTSTART:20261106T013000Z
 DTEND:20261106T030000Z
 SUMMARY:[現場] The Queer Thing about Sin | Harry Tanner
@@ -12753,42 +12587,8 @@ DESCRIPTION:https://events.stanford.edu/event/applied-physicsphysics-colloq
  a Cosmology Telescope. She is a Fellow of the Royal Society.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54179547167136@didiowen
-DTSTAMP:20261029T122957Z
-DTSTART:20261031T003000Z
-DTEND:20261031T030000Z
-SUMMARY:[現場] Film Screening of the 2026 Lithuanian submission for the A
- cademy Awards – How to Divorce During the War
-LOCATION:Bishop Auditorium
-URL:https://events.stanford.edu/event/film-screening-how-to-divorce-during-
- the-war
-DESCRIPTION:https://events.stanford.edu/event/film-screening-how-to-divorce
- -during-the-war\n報名/票券: https://forms.gle/8RAxbW8n3qscPdSe9\n\nJoi
- n us for a film screening of Lithuania's submission for the Academy Awards
-  with commentary from Maarja Merivoo-Parro\, CEO of Vabamu Museum of Occup
- ations and Freedom.\n\nHow to Divorce During the War takes place in Vilniu
- s\, Lithuania in 2022. High-flying executive\, Marija (Zygimante Elena Jak
- staite)\, chooses the worst possible moment to inform her husband\, Vytas 
- (Marius Repsys)\, that she wants a divorce: just one day before Russia’s
-  invasion of Ukraine. Suddenly the couple must navigate the process of sep
- aration as it collides with a refugee and mid-life crisis. A struggling fi
- lm director\, Vytas is put into a tight spot by having to move in with his
-  Russophile parents\, while Marija struggles to find her footing as the wa
- r affects both her business and home life. \n\nAs the reason for the divor
- ce gradually becomes clear\, the dissolution of Marija and Vytas’ marria
- ge creates conflicts and opportunities for both of them\, while also affec
- ting their ever-observant young daughter\, Dovile. Packed with surprises a
- long with much heartache and soul searching\, Andrius Blaževičius’ nua
- nced and timely family drama skillfully depicts the fallout of a marriage 
- against the backdrop of extraordinary events with humor and compassion. \n
- \nDr. Maarja Merivoo-Parro is the CEO of Vabamu Museum of Occupations and 
- Freedom in Tallinn\, Estonia. She is a public intellectual dedicated to ex
- ploring the history of mentality at the crossroads of culture and politics
- . She is a Fulbright scholar and Marie Curie
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54180690948197@didiowen
-DTSTAMP:20261029T123023Z
+DTSTAMP:20261030T123303Z
 DTSTART:20261105T193000Z
 DTEND:20261105T210000Z
 SUMMARY:[現場] The Body as Monument
@@ -12872,7 +12672,7 @@ DESCRIPTION:https://events.stanford.edu/event/prime-minister-estonia-2026\n
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54188103812302@didiowen
-DTSTAMP:20261029T123052Z
+DTSTAMP:20261030T123330Z
 DTSTART:20261105T000000Z
 DTEND:20261105T011500Z
 SUMMARY:[混合] The Rise and Fall of Tunisian Democracy: Populism\, Polari
@@ -12909,7 +12709,7 @@ DESCRIPTION:https://events.stanford.edu/event/the-rise-and-fall-of-tunisian
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54188899938999@didiowen
-DTSTAMP:20261029T123103Z
+DTSTAMP:20261030T123341Z
 DTSTART:20261105T003000Z
 DTEND:20261105T023000Z
 SUMMARY:[現場] Work\, Exile\, and Home: Honoring Milorad Drachkovitch & R
@@ -12981,7 +12781,7 @@ DESCRIPTION:https://events.stanford.edu/event/the-steven-coutre-review-of-t
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54189645462697@didiowen
-DTSTAMP:20261029T123105Z
+DTSTAMP:20261030T123343Z
 DTSTART:20261103T000000Z
 DTEND:20261103T013000Z
 SUMMARY:[混合] Book Talk: Chrystia Freeland — Unreliable Boyfriend: An 
@@ -13021,7 +12821,7 @@ DESCRIPTION:https://events.stanford.edu/event/book-talk-chrystia-freeland-u
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54196035364531@didiowen
-DTSTAMP:20261009T164851Z
+DTSTAMP:20261030T203141Z
 DTSTART:20261117T000000Z
 DTEND:20261117T013000Z
 SUMMARY:[現場] Race and Gender in the Global Hispanophone: Heidi Tinsman 
@@ -13309,39 +13109,8 @@ DESCRIPTION:https://events.stanford.edu/event/holding-the-line-setting-boun
  al Therapy Contact Hours (1.00 hours)\, Phy
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54240494181486@didiowen
-DTSTAMP:20261029T123324Z
-DTSTART:20261030T153000Z
-DTEND:20261030T220000Z
-SUMMARY:[現場] Archivos\, Guerra Fria Y Revolucion
-LOCATION:Bolivar House
-URL:https://events.stanford.edu/event/ilac-archivos-guerra-fria-y-revolucio
- n
-DESCRIPTION:https://events.stanford.edu/event/ilac-archivos-guerra-fria-y-r
- evolucion\n\nOrganizan: Sergio Ugalde Quintana (El Colegio de México) y H
- éctor Hoyos (Stanford University) Coordinación de posgrado: Gary Huertas
-  y Tatiana Miranda-Benavides Enlace editorial: Amistad Alegría\, Nuevo Te
- xto Crítico\n\nJUEVES 29 \n\n5:00 pm | Presentación de archivos: Colecci
- ón Hoover y Green Library | Gary Huertas\, Tatiana Miranda-Benavides | IL
- AC Doctoral Students\, Stanford University \n\n7:00 pm | Bienvenida \n\nVI
- ERNES 30 \n\n8:30 am | Desayuno \n\n9:00 am | PANEL 1 \n\nRosario Hubert |
-  "Revolutionary Repertoires: Model Performances in the Andes" | Associate 
- Professor\, Trinity College \n\nRafael Rojas | "La Babel de las izquierdas
- . Tres casos de censura entre México y Cuba (1965–1975)" | Professor\, 
- El Colegio de México\n\n10:30 am | PANEL 2 \n\nOriele Benavides | "Latin 
- American Literary Feminisms: Necropolitics and Sexual Discontents" | PhD C
- andidate\, Princeton University \n\nSergio Ugalde Quintana | "Las batallas
-  de la pluma: la editorial Siglo XXI\, la literatura latinoamericana y la 
- guerra fría (1965–1971)" | Professor\, El Colegio de México \n\n12:00 
- pm | Almuerzo \n\n1:30 pm | PANEL 3 \n\nLara Norgaard | "Afterlives of Tra
- nslation: Connective Memory in Cold War Indonesia and Latin America" | Pos
- tdoctoral Fellow\, Stanford University \n\nHerb Klein | [Título por confi
- rmar] | Research Fellow\, Hoover Institution\, Stanford University \n\n3:0
- 0 pm | Recepción
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54241029029127@didiowen
-DTSTAMP:20261029T123326Z
+DTSTAMP:20261030T123552Z
 DTSTART:20261105T030000Z
 DTEND:20261105T053000Z
 SUMMARY:[現場] DAAAS Movie Night: The Eyes of Ghana
@@ -13401,7 +13170,7 @@ DESCRIPTION:https://events.stanford.edu/event/filmmaker-kahlil-joseph-in-co
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54250092428311@didiowen
-DTSTAMP:20261029T123409Z
+DTSTAMP:20261030T123632Z
 DTSTART:20261104T013000Z
 DTEND:20261104T030000Z
 SUMMARY:[現場] Artist Talk with CFGNY: A Practice in Collaboration
@@ -13484,7 +13253,7 @@ DESCRIPTION:https://events.stanford.edu/event/sunshine-bryant-lin-in-conver
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54251622417790@didiowen
-DTSTAMP:20261029T123433Z
+DTSTAMP:20261030T123650Z
 DTSTART:20261104T200000Z
 DTEND:20261104T210000Z
 SUMMARY:[線上] CREATE Webinar - Modality: A Case Study in Implementing AI
@@ -13605,7 +13374,7 @@ DESCRIPTION:https://events.stanford.edu/event/anatomical-gift-program-infor
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54287265784196@didiowen
-DTSTAMP:20261029T123558Z
+DTSTAMP:20261030T123810Z
 DTSTART:20261102T200000Z
 DTEND:20261102T213000Z
 SUMMARY:[現場] Policed: A Latinx History of State Violence
@@ -13979,7 +13748,7 @@ DESCRIPTION:https://events.stanford.edu/event/pediatric-pulmonology-in-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54311459867594@didiowen
-DTSTAMP:20261029T123756Z
+DTSTAMP:20261030T124004Z
 DTSTART:20261105T013000Z
 DTEND:20261105T043000Z
 SUMMARY:[現場] Stanford in Haus Cramer: A Berlin Microhistory - Book Laun
@@ -14070,7 +13839,7 @@ DESCRIPTION:https://events.stanford.edu/event/puppy-party-5743\n\n🐶 Take
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54313507284050@didiowen
-DTSTAMP:20261029T123817Z
+DTSTAMP:20261030T124019Z
 DTSTART:20261103T200000Z
 DTEND:20261103T210000Z
 SUMMARY:[混合] Superintelligence or Super Stupidity? Designing AI Systems
@@ -14108,7 +13877,7 @@ DESCRIPTION:https://events.stanford.edu/event/superintelligence-or-super-st
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54321714796042@didiowen
-DTSTAMP:20261029T123849Z
+DTSTAMP:20261030T124058Z
 DTSTART:20261104T200000Z
 DTEND:20261104T210000Z
 SUMMARY:[混合] Lunch Club Series | Navigating Heritage: Chinook Art and P
@@ -14297,22 +14066,6 @@ DESCRIPTION:https://events.stanford.edu/event/the-spiritual-highway-religio
  Islam\, Christianity\, and ‘
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54340920671558@didiowen
-DTSTAMP:20261029T123918Z
-DTSTART:20261030T190000Z
-DTEND:20261030T200000Z
-SUMMARY:[混合] SDRC Friday Seminar 10.30.26
-LOCATION:Beckman Center\, B302
-URL:https://events.stanford.edu/event/sdrc-friday-seminar-103026
-DESCRIPTION:https://events.stanford.edu/event/sdrc-friday-seminar-103026\n
- 線上資訊:\nZoom link: https://stanford.zoom.us/j/98479731295?pwd=NC9KZ
- TZkUkZRNEdmRjNyY21qRk50Zz09\nMeeting ID: 98479731295\nPassword: 348339\nIf
-  the above link is not working\, please go to Zoom (https://stanford.zoom.
- us/j/) directly and enter the listed Meeting  ID and password.\n\nEdgar E
- ngleman\, MD\nProfessor\, Dept of Pathology\, Dept of Medicine\, Stanford 
- University\n\n"Manipulating Immune Tolerance to Prevent and Treat Disease"
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54346327748253@didiowen
 DTSTAMP:20261026T155609Z
 DTSTART:20270129T013000Z
@@ -14348,7 +14101,7 @@ DESCRIPTION:https://events.stanford.edu/event/claudia-hart-techno-ethics-an
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54347981525802@didiowen
-DTSTAMP:20261029T123958Z
+DTSTAMP:20261030T124215Z
 DTSTART:20261106T010000Z
 DTEND:20261106T023000Z
 SUMMARY:[現場] Day of the Dead Celebrations | Lecture by Rubí Tsanda Hue
@@ -14407,25 +14160,8 @@ DESCRIPTION:https://events.stanford.edu/event/sound-voice-strings-compositi
  ith modular components that can be played in
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54355352633448@didiowen
-DTSTAMP:20261029T124037Z
-DTSTART:20261031T003000Z
-DTEND:20261031T012000Z
-SUMMARY:[現場] Halloween Cardio Dance Classes
-LOCATION:Arrillaga Outdoor Education & Recreation Center\, AOERC 111
-URL:https://events.stanford.edu/event/halloween-cardio-dance-classes
-DESCRIPTION:https://events.stanford.edu/event/halloween-cardio-dance-classe
- s\n\nHalloween Cardio Dance Classes 🎃\n\nGet into the Halloween spirit 
- with special Halloween-themed Cardio Dance classes! Come dressed in your b
- est costume and dance your way through a fun\, festive workout. All skill 
- levels are welcome!\n\nFriday\, October 30\n5:30 - 6:20 PM | AOERC 111\n\n
- Saturday\, October 31\n12 - 12:50 PM | AOERC 111\n\nWho can attend? All St
- anford affiliates ages 18 and older with an active Stanford ID for buildin
- g entry.\n\nBring your best costume and get ready to move! 👻
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54355352634473@didiowen
-DTSTAMP:20261029T124037Z
+DTSTAMP:20261030T124243Z
 DTSTART:20261031T190000Z
 DTEND:20261031T195000Z
 SUMMARY:[現場] Halloween Cardio Dance Classes
@@ -14579,7 +14315,7 @@ DESCRIPTION:https://events.stanford.edu/event/roundtable-faculty-systems-up
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54359358131641@didiowen
-DTSTAMP:20261029T184446Z
+DTSTAMP:20261030T124321Z
 DTSTART:20261103T200000Z
 DTEND:20261103T200000Z
 SUMMARY:[現場] Disability Justice in Bloom mural grand opening event
@@ -14758,6 +14494,39 @@ DESCRIPTION:https://events.stanford.edu/event/stanford-baroque-recital\n\nS
  n\nFree admission
 END:VEVENT
 BEGIN:VEVENT
+UID:stanford-54365069773602@didiowen
+DTSTAMP:20261030T182429Z
+DTSTART:20261204T020000Z
+DTEND:20261204T033000Z
+SUMMARY:[現場] Forms & Frequencies | Xina Xurner with Tzotzona
+LOCATION:Cantor Arts Center\, Auditorium
+URL:https://events.stanford.edu/event/forms-frequencies-xina-xurner-with-tz
+ otzona
+DESCRIPTION:https://events.stanford.edu/event/forms-frequencies-xina-xurner
+ -with-tzotzona\n報名/票券: https://thethirdplace.is/event/xina-xurner\
+ n\nDoors at 6pm. Performances start at 6:30pm.\n\nCantor Arts Center prese
+ nts Forms & Frequencies\, a Thursday night music series featuring musician
+ s and sound artists from the Bay Area and beyond.\n\nJoin us on Thursday\,
+  December 3 for a night of pounding electronics and unruly physicality wit
+ h Xina Xurner and Tzotzona\, with visuals by artist Christopher Richmond.\
+ n\nXina Xurner is a Los Angeles-based sadical and sexperimental music and 
+ performance duo with vocalist\, sculptor\, and performance artist Young Jo
+ on Kwak and musician and producer Marvin Astorga. Fusing industrial noise\
+ , power electronics\, dark club-wrecking beats\, electric guitar\, and ext
+ reme vocal distortion\, their body-shaking live shows unleash queer trans-
+ femme rage\, refusal\, and joy.\n\nCreating an atmosphere that feels part 
+ club\, part collective exorcism\, Xina Xurner’s performance will be pair
+ ed with visuals by artist Christopher Richmond\, whose alien and terrestri
+ al landscapes juxtapose reality and illusion\, using handmade props\, spec
+ ial photography\, and varied drawing styles to present multiple pictorial 
+ universes in constant kinetic interaction.\n\nTzotzona\, Astorga’s solo 
+ project\, will open the evening with brown-futurist electronic music that 
+ synthesizes elements of Cumbia\, Technobanda\, house\, techno\, acid\, Que
+ bradita\, and 3bal. Taking inspiration and samples from Astorga’s upbrin
+ ging in the El Paso-Ciudad Juárez Borderplex\, a pre-Columbian imaginary\
+ , and 90s-era Mexican television\, Tzotzona looks to the recent and a
+END:VEVENT
+BEGIN:VEVENT
 UID:stanford-54366133070873@didiowen
 DTSTAMP:20261029T224103Z
 DTSTART:20261116T200000Z
@@ -14849,7 +14618,7 @@ DESCRIPTION:https://events.stanford.edu/event/copy-of-lunchtime-curator-tal
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54367522226393@didiowen
-DTSTAMP:20261029T042814Z
+DTSTAMP:20261030T124424Z
 DTSTART:20261103T010000Z
 DTEND:20261103T053000Z
 SUMMARY:[現場] Palestine Cinema Days @ McMurtry & Harmony House (Day 1)
@@ -14880,7 +14649,7 @@ DESCRIPTION:https://events.stanford.edu/event/palestine-cinema-days-1\n\nJo
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54367522496894@didiowen
-DTSTAMP:20261029T023823Z
+DTSTAMP:20261030T124424Z
 DTSTART:20261103T190000Z
 DTEND:20261104T010000Z
 SUMMARY:[現場] Palestine Cinema Days @ McMurtry & Harmony House (Day 2)
@@ -14908,5 +14677,21 @@ DESCRIPTION:https://events.stanford.edu/event/palestine-cinema-days-2\n\nJo
   Parkour + Discussion with filmmaker Areeb Zuaiter\, and Gazan parkour ath
  lete\, Ahmed Matar1:30 - 3:15 PM\, Film: With Hasan in Gaza + Discussion w
  ith  Dr. Usha IyerAt Harmony House\, 561 Lomita Drive11 AM - 5 P
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54383678300700@didiowen
+DTSTAMP:20261030T212447Z
+DTSTART:20261117T200000Z
+DTEND:20261117T220000Z
+SUMMARY:[現場] Bechtel International Center: Resource Fair
+LOCATION:Bechtel International Center
+URL:https://events.stanford.edu/event/bechtel-international-center-resource
+ -fair
+DESCRIPTION:https://events.stanford.edu/event/bechtel-international-center-
+ resource-fair\n\nJoin us at the Bechtel International Center as we officia
+ lly kick off International Education Week!\n\nCampus partners\, student gr
+ oups\, cultural tables\, and performances will be the highlights with spec
+ ial snacks. Please join us as we celebrate global education and cultural e
+ xchange.
 END:VEVENT
 END:VCALENDAR
