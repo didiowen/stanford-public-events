@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53969632572369@didiowen
+DTSTAMP:20261102T121124Z
+DTSTART:20270519T191500Z
+DTEND:20270519T201500Z
+SUMMARY:[現場] Lunchtime Recitals & Communi-Tea
+LOCATION:Memorial Church
+URL:https://events.stanford.edu/event/lunchtime-recitals-communi-tea-2247
+DESCRIPTION:https://events.stanford.edu/event/lunchtime-recitals-communi-te
+ a-2247\n\nEnjoy lunchtime organ music in the glowing acoustic of Memorial 
+ Church. University Organist Robert Huw Morgan will perform brief recitals\
+ , followed by light refreshments in the Round Room!\n\nThese free events a
+ re open to the public.\n\n12:15 - 12:45 pm | Concert\n12:45 - 1:15 pm | Te
+ a & cookies
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53613550873705@didiowen
+DTSTAMP:20261006T223216Z
+DTSTART:20261122T220000Z
+DTEND:20261122T230000Z
+SUMMARY:[現場]  Public Tour | Cantor Highlights in Spanish
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/public-tour-cantor-highlights-spanish
+ -language-7060
+DESCRIPTION:https://events.stanford.edu/event/public-tour-cantor-highlights
+ -spanish-language-7060\n\nExplore the Cantor's collections with a museum e
+ ngagement guide who will lead you through a selection of works from differ
+ ent cultures and time periods.\n\n Participants are welcomed to participat
+ e in the conversation and provide their thoughts on themes explored throug
+ hout the tour but are also free to engage at their own comfort level. \n\n
+  Tours do not require a reservation and are free of charge. Please check-i
+ n at the visitor services desk in the main museum lobby. \n\n_____________
+ ______________________________\n\nExplora las colecciones del Cantor con u
+ n guía que te guiará a través de una selección de obras de diferentes 
+ culturas y épocas.\n\nLos participantes están muy bienvenidos a particip
+ ar en la conversación y aportar sus ideas sobre los temas explorados a lo
+  largo de la visita si lo desean.\n\nLas visitas no requieren reserva prev
+ ia y son gratuitas. Se ruega registrarse en el mostrador de atención al v
+ isitante del vestíbulo principal del museo. \n\n ¡Esperamos verte en el 
+ museo!
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54231141268808@didiowen
+DTSTAMP:20261013T152500Z
+DTSTART:20261113T203000Z
+DTEND:20261113T220000Z
+SUMMARY:[現場] Emerging String Quartet Program – The Dolphins
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/esqp-dolphins-quartet
+DESCRIPTION:https://events.stanford.edu/event/esqp-dolphins-quartet\n\nThe 
+ Dolphins Quartet performs as part of the Emerging String Quartet Program (
+ ESQP).\n\nThe Dolphins Quartet is a string quartet and composer collective
+  united by a belief that chamber music can be vibrant\, daring\, and deepl
+ y human. Trained at Juilliard and based in New York City\, the quartet has
+  gained recognition for adventurous programming\, original compositions\, 
+ and performances that reimagine the possibilities of quartet playing. In A
+ pril 2026\, they won Gold Prize and Audience Prize at the Chesapeake Chamb
+ er Music Competition\, establishing their presence as a world-class ensemb
+ le in the classical music scene. Read more here!\n\n \n\nMembers:\nLuke He
+ nderson – violin\nIsaac Park – violin\nJames Preucil – viola\nIan Ma
+ loney – cello\n\nThe ESQP provides a young ensemble opportunities simila
+ r to what the St. Lawrence String Quartet\, ensemble in residence at Stanf
+ ord University from 1998-2024\, enjoyed in their early years through an in
+ tensive week of community outreach. The up-and-coming musicians gain valua
+ ble experience performing for varied audiences in a short period of time w
+ hile the greater Stanford community benefits from the input of energy and 
+ contact with the young ensemble.\n\nAmission Information\n\nFree admission
+ Parking permits are required for weekday campus parking. We recommend down
+ loading the ParkMobile app before arriving.
+END:VEVENT
+END:VCALENDAR

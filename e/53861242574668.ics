@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53861242574668@didiowen
+DTSTAMP:20261029T182442Z
+DTSTART:20261118T200000Z
+DTEND:20261118T211500Z
+SUMMARY:[混合] HAI Seminar The AI 100
+LOCATION:Gates Computer Science Building\, 119
+URL:https://events.stanford.edu/event/hai-seminar-with-mike-wooldridge-the-
+ ai-100
+DESCRIPTION:https://events.stanford.edu/event/hai-seminar-with-mike-wooldri
+ dge-the-ai-100\n線上連結: https://stanford.zoom.us/webinar/register/WN
+ _OeOA7YGwQ8qGOfBdrTXx6w#/registration\n報名/票券: https://hai.stanford
+ .edu/events/mike-wooldridge-the-ai-100\n\nAI Goes Mainstream: The Scaling 
+ Era and the Rise of Generative AI\n\nMichael Wooldridge\, Ashall Professor
+  of the Foundations of Artificial Intelligence\, University of Oxford\n\nM
+ oderated by: Russ Altman\, Kenneth Fong Professor and Professor of Bioengi
+ neering\, of Genetics\, of Medicine\, of Biomedical Data Science\, Senior 
+ Fellow at the Stanford Institute for Human-Centered AI and Professor\, by 
+ courtesy\, of Computer Science\n\nThis talk will cover key insights from t
+ he third AI100 report\, AI Goes Mainstream: The Scaling Era and the Rise o
+ f Generative AI\, set for release in October 2026. The report was commissi
+ oned by the AI100 standing committee and led by study panel chair Michael 
+ Wooldridge.\n\nWooldridge will discuss how generative AI achieved World Wi
+ de Web-level impact in five years\, largely unanticipated even by its deve
+ lopers\; why software engineering became AI's first killer app and what th
+ at suggests for knowledge work\; the unprecedented scale of AI infrastruct
+ ure investment and the strains it creates\; and the shift away from pure s
+ caling toward reasoning and inference-time compute. He will also cover the
+  concentration of frontier development among a small number of US and Chin
+ ese actors\, expert disagreement over AGI timelines\, and a governance lan
+ dscape that remains fragmented.\n\nThe One Hundred Year Study on Artificia
+ l Intelligence (AI100) is a longitudinal effort administered out of Stanfo
+ rd HAI and managed by a standing committee of AI experts from around the w
+ orld\, chaired b
+END:VEVENT
+END:VCALENDAR

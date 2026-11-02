@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54294926499243@didiowen
+DTSTAMP:20261020T230207Z
+DTSTART:20270428T233000Z
+DTEND:20270429T010000Z
+SUMMARY:[現場] Slavic Colloquium - Lyudmila Parts: Take Only What is Most
+  Important: Materiality of Escape from War
+LOCATION:Building 260\, Pigott Hall\, Rm. 216
+URL:https://events.stanford.edu/event/slavic-colloquium-lyudmila-parts-take
+ -only-what-is-most-important-materiality-of-escape-from-war
+DESCRIPTION:https://events.stanford.edu/event/slavic-colloquium-lyudmila-pa
+ rts-take-only-what-is-most-important-materiality-of-escape-from-war\n\nPle
+ ase join the next Slavic Colloquium event. Lyudmila Parts (McGill Universi
+ ty) will present a talk titled "Take Only What is Most Important: Material
+ ity of Escape from War."\n\nMore details to follow.
+END:VEVENT
+END:VCALENDAR

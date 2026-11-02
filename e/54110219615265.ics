@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54110219615265@didiowen
+DTSTAMP:20261007T192850Z
+DTSTART:20261112T193000Z
+DTEND:20261113T010000Z
+SUMMARY:[現場] Unsettling the New AI Status Quo
+LOCATION:Tresidder Union\, Cypress Lounge\, 2nd Floor
+URL:https://events.stanford.edu/event/unsettling-the-new-ai-status-quo
+DESCRIPTION:https://events.stanford.edu/event/unsettling-the-new-ai-status-
+ quo\n報名/票券: https://ethicsinsociety.stanford.edu/events/unsettling
+ -new-ai-status-quo\n\nJoin this thought-provoking showcase on the practica
+ l implementation of ethics developed by the 2026 Ethics and Technology Pra
+ ctitioner Fellows.\n\nThe Ethics and Technology Practitioner Fellows have 
+ dedicated the past year to exploring and addressing critical issues at the
+  intersection of technology and ethics through inquiry\, stakeholder engag
+ ement\, and pushing for reforms in organizations and fields of practice. P
+ rojects are in areas ranging from community deliberation on data centers\,
+  to AI-accelerated carbon emissions\, to regulating AI slop. We welcome an
+ yone invested in the future of technology\, including those in civil socie
+ ty\, policymaking\, industry\, and academia to come join the discussion of
+  how we exercise leadership in a space filled with barriers and complexiti
+ es working against change.\n\nSee the full showcase schedule.\n\nThis even
+ t will have a photographer present to document the event. No personal reco
+ rdings (audio or visual) are allowed. By attending\, you consent for your 
+ image to be used for Stanford-related promotions and materials. If you hav
+ e any questions\, please contact ethics-center@stanford.edu.\n\nIf you req
+ uire disability-related accommodation\, please contact disability.access@s
+ tanford.edu as soon as possible or at least 7 business days in advance of 
+ the event.\n\nSee more information about visitor parking. \n\nLearn more a
+ bout the McCoy Family Center for Ethics in Society.
+END:VEVENT
+END:VCALENDAR

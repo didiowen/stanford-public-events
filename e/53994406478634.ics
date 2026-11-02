@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53994406478634@didiowen
+DTSTAMP:20260917T025843Z
+DTSTART:20270307T180000Z
+DTEND:20270308T030000Z
+SUMMARY:[現場] The 2027 William & Louise Greaves Filmmaker Seminar
+LOCATION:Harmony House\, Various Locations at Stanford University
+URL:https://events.stanford.edu/event/2025-greaves-filmmaker-seminar
+DESCRIPTION:https://events.stanford.edu/event/2025-greaves-filmmaker-semina
+ r\n報名/票券: https://blackstarprojects.org/seminar/2027-seminar\n\nTh
+ e BlackStar Greaves Seminar is a gathering  artists working in cinematic r
+ ealms. The Seminar will take place March 5-7\, 2027 at Stanford University
+  in Palo Alto\, CA.\n\nOver the course of three days\, attendees will expl
+ ore the technical and creative aspects of media-making\, connect with one 
+ another\, and take part in a thoughtful and intimate exchange of ideas. Th
+ e Seminar is an opportunity for artists\, scholars\, and filmmakers to cen
+ ter their practice while being immersed in the natural beauty of northern 
+ California.\n\nThe Seminar is hosted in partnership with the Institute for
+  Diversity in the Arts (IDA) at Stanford University.\n\nOur 2027 call for 
+ proposals is now open. Curators\, film programmers\, filmmakers\, film wor
+ kers\, and film scholars are invited to submit a proposal to present a ses
+ sion at the seminar. Learn more and submit by October 5. \n\nGeneral regis
+ tration will open in November.\n\nFor questions\, please contact seminar@b
+ lackstarprojects.org.
+END:VEVENT
+END:VCALENDAR

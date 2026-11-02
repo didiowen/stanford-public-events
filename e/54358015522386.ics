@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54358015522386@didiowen
+DTSTAMP:20261027T235436Z
+DTSTART:20270715T160000Z
+DTEND:20270715T170000Z
+SUMMARY:[線上] Roundtable: MedLeave Overview
+LOCATION:
+URL:https://events.stanford.edu/event/roundtable-medleave-overview
+DESCRIPTION:https://events.stanford.edu/event/roundtable-medleave-overview\
+ n\nRoundtable: MedLeave Overview
+END:VEVENT
+END:VCALENDAR

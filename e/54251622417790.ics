@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54251622417790@didiowen
+DTSTAMP:20261102T122615Z
+DTSTART:20261104T200000Z
+DTEND:20261104T210000Z
+SUMMARY:[線上] CREATE Webinar - Modality: A Case Study in Implementing AI
+  in Clinical Practice
+LOCATION:
+URL:https://events.stanford.edu/event/modality-case-study-implementing-ai-c
+ linical-practice
+DESCRIPTION:https://events.stanford.edu/event/modality-case-study-implement
+ ing-ai-clinical-practice\n報名/票券: https://stanford.zoom.us/webinar/
+ register/WN_I1t4vA50SfKKUcGDTQq1aQ\n\nJoin us on November 4\, 12–1pm PT 
+ for a roundtable discussion exploring what it takes to move an AI-enabled 
+ behavioral health tool from development into real-world clinical practice\
+ , using Modality as a case study. Speakers from Modality\, clinical partne
+ r Cornerstone Treatment Facilities Network\, and research partner Stanford
+  University will discuss how teams build trust and organizational buy-in\,
+  integrate new tools into existing workflows\, and navigate challenges rel
+ ated to adoption\, usability\, privacy\, safety\, and potential bias. The 
+ conversation will also highlight the roles of clinical\, technical\, resea
+ rch\, and implementation partners\, lessons from real-world deployment\, a
+ nd ongoing efforts to understand engagement\, fidelity\, and impact over t
+ ime - offering a behind-the-scenes look at what it takes to move promising
+  technology toward meaningful\, sustainable use in practice.
+END:VEVENT
+END:VCALENDAR

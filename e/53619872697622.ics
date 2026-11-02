@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53619872697622@didiowen
+DTSTAMP:20260805T204252Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:[現場] Pediatric Otolaryngology Updates
+LOCATION:Oceano Hotel & Spa
+URL:https://events.stanford.edu/event/pediatric-otolaryngology-updates
+DESCRIPTION:https://events.stanford.edu/event/pediatric-otolaryngology-upda
+ tes\n報名/票券: https://stanford.cloud-cme.com/course/courseoverview?P
+ =5&EID=57459\n\nOverview\nThe goal of this activity is to provide learners
+  with current\, evidence-based advances and best practices in pediatric ot
+ olaryngology. Through expert-led lectures and panel discussions\, faculty 
+ will address a broad range of clinical topics\, including hearing screenin
+ g and management of hearing loss\, foreign bodies of the ear\, nose\, and 
+ throat\, airway disorders\, sleep-disordered breathing and obstructive sle
+ ep apnea\, voice and swallowing disorders\, microtia\, and pediatric head 
+ and neck masses. Additional topics will include the evaluation and managem
+ ent of epistaxis\, ankyloglossia (tongue tie)\, and ear molding. The progr
+ am is designed to enhance clinicians’ knowledge\, diagnostic skills\, an
+ d application of contemporary approaches to the care of pediatric patients
+  with otolaryngologic conditions.\n\nRegistrationPhysicians: $495.00\nNurs
+ es/APP/Allied Health: $395.00\nIndustry: $595\nNon-Stanford Trainees (Resi
+ dents & Fellows): $75.00\n\nTrainee Verification: When completing your pro
+ file\, select Fellow/Resident as your Profession\, your NPI number in Cred
+ entials\, and your Residency Program name in the Organization field.\n\nCr
+ editsAMA PRA Category 1 Credits™ (10.00 hours)\, ASHA CEU (0.10 hours)\,
+  Non-Physician Participation Credit (10.00 hours)\, Speech-Language Pathol
+ ogy Contact Hours (10.00 hours)\n\nTarget AudienceSpecialties - Otolaryngo
+ logy (ENT)\, PediatricsProfessions - Audiologist\, Fellow/Resident\, Non-P
+ hysician\, Physician\, Speech Language Pathologist ObjectivesAt the conclu
+ sion
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53861598502050@didiowen
+DTSTAMP:20260923T002108Z
+DTSTART:20261209T200000Z
+DTEND:20261209T211500Z
+SUMMARY:[混合] HAI Seminar with Angèle Christin in Conversation with Han
+ nah Zeavin
+LOCATION:Gates Computer Science Building\, 119
+URL:https://events.stanford.edu/event/hai-seminar-with-angele-christin-in-c
+ onversation-with-hannah-zeavin
+DESCRIPTION:https://events.stanford.edu/event/hai-seminar-with-angele-chris
+ tin-in-conversation-with-hannah-zeavin\n線上連結: https://stanford.zoo
+ m.us/webinar/register/WN_oNm5zUqVS5WO0JywL4KyTQ#/registration\n報名/票
+ 券: https://hai.stanford.edu/events/angele-christin-hannah-zeavin-gurus-h
+ ucksters-entertainers-how-influencers-reshaped-social-media\n\nBook Launch
+ : “Gurus\, Hucksters\, Entertainers: How Influencers Reshaped Social Med
+ ia”\n\nHAI Seminar with Angèle Christin in Conversation with Hannah Zea
+ vin\n\nVisit our website to learn more about the event agenda\, speakers\,
+  and other details\n\nPlease join us for an illuminating investigation of 
+ the complex work of social media content creators—their lives\, conflict
+ s\, and controversies. \n\nIn this eye-opening book\, digital studies scho
+ lar Angèle Christin demystifies the content creator economy\, explaining 
+ its long history and the pitfalls of its professionalization. Drawing on i
+ n-depth fieldwork with digital creators as varied as vegan YouTubers\, dad
+ s of Instagram\, and self-described drama commentators\, Christin shows ho
+ w individuals enter social media creation\, how they make money\, and how 
+ their online environments shape their content.
+END:VEVENT
+END:VCALENDAR

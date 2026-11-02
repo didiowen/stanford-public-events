@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53728660326065@didiowen
+DTSTAMP:20260817T202429Z
+DTSTART:20270216T150000Z
+DTEND:20270216T160000Z
+SUMMARY:[混合] PIP Jr. Faculty Exchange
+LOCATION:Li Ka Shing Center\, LK130
+URL:https://events.stanford.edu/event/pip-jr-faculty-exchange
+DESCRIPTION:https://events.stanford.edu/event/pip-jr-faculty-exchange\n\nDr
+ . Rushi Thanawala\, an Associate Professor of Surgery in OHSU's Division o
+ f Cardiothoracic Surgery\, is this year's Pacific Invited Professor (PIP).
+  PIP is a Junior Faculty Exchange Program between Stanford\, the Universit
+ y of Washington\, UC San Francisco\, UC Davis\, and Oregon Health State Un
+ iversity.
+END:VEVENT
+END:VCALENDAR

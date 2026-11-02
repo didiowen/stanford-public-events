@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54001275841189@didiowen
+DTSTAMP:20260917T233335Z
+DTSTART:20270203T203000Z
+DTEND:20270203T220000Z
+SUMMARY:[現場] Noon Concert: Violin Students of Debra Fong
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/noon-fong-win27
+DESCRIPTION:https://events.stanford.edu/event/noon-fong-win27\n\nJoin us fo
+ r our Noon Concert Series\, where student musicians from a variety of inst
+ rumental and vocal studios take the stage. Each performance offers a vibra
+ nt showcase of emerging talent\, celebrating music in a relaxed midday set
+ ting.﻿\n\nAdmission Information\n\nFree admissionParking permits are req
+ uired for weekday campus parking. We recommend downloading the ParkMobile 
+ app before arriving.
+END:VEVENT
+END:VCALENDAR

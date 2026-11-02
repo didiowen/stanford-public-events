@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53798202610007@didiowen
+DTSTAMP:20260825T190948Z
+DTSTART:20270423T190000Z
+DTEND:20270423T200000Z
+SUMMARY:[混合] SDRC Friday Seminar 04/23/27
+LOCATION:Beckman Center\, B302
+URL:https://events.stanford.edu/event/sdrc-friday-seminar-042327
+DESCRIPTION:https://events.stanford.edu/event/sdrc-friday-seminar-042327\n
+ 線上資訊:\nZoom link: https://stanford.zoom.us/j/98479731295?pwd=NC9
+ KZTZkUkZRNEdmRjNyY21qRk50Zz09\nMeeting ID: 98479731295\nPassword: 348339
+ \n\nPankaj Kapahi\, Ph.D.\, Professor\, The Buck Institute\n\n"Mechanisms 
+ by which advanced glycation endproducts influence insulin resistance\, dia
+ betic pathologies\, and cellular senescence"
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54294462057464@didiowen
+DTSTAMP:20261020T192458Z
+DTSTART:20261112T013000Z
+DTEND:20261112T030000Z
+SUMMARY:[現場] Medical Humanites: Lean poetry\, disappearing bodies\, tra
+ nscendent self—the poetics of Anorexia Nervosa in Louise Gluck
+LOCATION:Humanities Center\, Boardroom
+URL:https://events.stanford.edu/event/medical-humanites-lean-poetry-disappe
+ aring-bodies-transcendent-selfthe-poetics-of-anorexia-nervosa-in-louise-gl
+ uck
+DESCRIPTION:https://events.stanford.edu/event/medical-humanites-lean-poetry
+ -disappearing-bodies-transcendent-selfthe-poetics-of-anorexia-nervosa-in-l
+ ouise-gluck\n\nWith Speaker James Lock\, MD Erick Rothenberg\, MD Professo
+ r of Child Psychiatry and Pediatrics Stanford University\n\nThe Medical Hu
+ manities Research Workshop Series is made possible through the support of:
+  Stanford School of Medicine\, Stanford Humanities Center\, Stanford’s D
+ ivision of Literatures\, Cultures & Languages\, Stanford’s Department of
+  Anthropology\n\n Please RSVP to aalagni@stanford.edu or rlhealy@stanford.
+ edu for link and info.
+END:VEVENT
+END:VCALENDAR

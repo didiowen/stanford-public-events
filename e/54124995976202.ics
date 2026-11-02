@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54124995976202@didiowen
+DTSTAMP:20261026T164621Z
+DTSTART:20261118T200000Z
+DTEND:20261118T213000Z
+SUMMARY:[現場] The Greek and Arabic Reception of Ptolemy's Almagest betwe
+ en the 7th and 9th Centuries | Maria Mavroudi
+LOCATION:Encina Commons\, 123
+URL:https://events.stanford.edu/event/ptolemys-almagest
+DESCRIPTION:https://events.stanford.edu/event/ptolemys-almagest\n報名/票
+ 券: https://docs.google.com/forms/d/e/1FAIpQLSffd2KijnqGN3E334Z5Fqh8TiOsY
+ LtGjmXtfssGV8jcerexbQ/viewform?usp=header\n\nThe period between the sevent
+ h and the ninth centuries has frequently been portrayed in scholarship as 
+ “dark”\, especially because its intellectual production appears low. O
+ verall\, it is deemed as an empty interval between the end of the intellec
+ tual efflorescence of antiquity and the presumed renaissance of philosophy
+  and the sciences in the Arab world enabled by the Greek-to-Arabic transla
+ tion movement in ninth- and tenth-century Baghdad. This talk will re-exami
+ ne these scholarly assessments by using the reception of Ptolemy’s Almag
+ est as an example.\n\n\n\nMaria Mavroudi was born in Thessaloniki\, Greece
+  and studied Philology at the University of her native city before earning
+  a Ph.D. in Byzantine studies at Harvard. Her scholarly work begun by focu
+ sing on a tenth-century Byzantine book on dream interpretation that had be
+ en widely received in Latin and the European vernaculars and counted as th
+ e Christian dreambook of the Middle Ages. While generally viewed as a Byza
+ ntine invention partly based on the second-century manual of Artemidorus\,
+  she showed that it was a Christian adaptation of Arabic Islamic material 
+ and one among a larger group of texts originally written in Arabic or Pers
+ ian and received into Greek between the ninth and the fifteenth centuries.
+  During the next two decades\, she worked on identifying the place of thes
+ e translations within Byzantine literary culture and its reception in “E
+ ast” and “West’ during the medieval and early modern period. This be
+ gs reconsideri
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53880734256190@didiowen
+DTSTAMP:20260904T143943Z
+DTSTART:20270513T220000Z
+DTEND:20270514T000000Z
+SUMMARY:[現場] Drop-In Samizdat* Workshop (*DIY Unofficial\, Unsanctioned
+ \, Limited Edition Publication)
+LOCATION:Hohbach Hall\, lobby/interactive zone
+URL:https://events.stanford.edu/event/samizdat-may-2027
+DESCRIPTION:https://events.stanford.edu/event/samizdat-may-2027\n\nTake a s
+ eat at a manual typewriter and create a limited edition\, uncensored\, uno
+ fficial publication to circulate from hand to hand.  Just like Eastern Eur
+ opean dissidents used to do in the 1960's and 70's.  (Here's an old-school
+ \, digitized example from Stanford Libraries' collections.)  Typewriters\,
+  carbon paper\, onionskin paper all provided.  Hohbach Hall lobby (Green L
+ ibrary\, 1st floor\, near the reference desk)\, 3-5PM.
+END:VEVENT
+END:VCALENDAR

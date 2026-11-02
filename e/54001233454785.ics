@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54001233454785@didiowen
+DTSTAMP:20260917T233057Z
+DTSTART:20261118T203000Z
+DTEND:20261118T220000Z
+SUMMARY:[現場] Noon Concert: Flute Students of Melody Holmes
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/noon-holmes-fall26
+DESCRIPTION:https://events.stanford.edu/event/noon-holmes-fall26\n\nJoin us
+  for our Noon Concert Series\, where student musicians from a variety of i
+ nstrumental and vocal studios take the stage. Each performance offers a vi
+ brant showcase of emerging talent\, celebrating music in a relaxed midday 
+ setting.﻿\n\nAdmission Information\n\nFree admissionParking permits are 
+ required for weekday campus parking. We recommend downloading the ParkMobi
+ le app before arriving.
+END:VEVENT
+END:VCALENDAR

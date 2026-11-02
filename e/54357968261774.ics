@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54357968261774@didiowen
+DTSTAMP:20261027T235434Z
+DTSTART:20270325T160000Z
+DTEND:20270325T170000Z
+SUMMARY:[線上] Roundtable: Best Practices (CE/Clinical Scholars/Instructo
+ rs)
+LOCATION:
+URL:https://events.stanford.edu/event/roundtable-best-practices
+DESCRIPTION:https://events.stanford.edu/event/roundtable-best-practices\n\n
+ Roundtable: Best Practices
+END:VEVENT
+END:VCALENDAR

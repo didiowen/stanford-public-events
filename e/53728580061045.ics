@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53728580061045@didiowen
+DTSTAMP:20260817T202427Z
+DTSTART:20270119T150000Z
+DTEND:20270119T160000Z
+SUMMARY:[混合] HAI Pump Program
+LOCATION:Li Ka Shing Center\, LK130
+URL:https://events.stanford.edu/event/hai-pump-program
+DESCRIPTION:https://events.stanford.edu/event/hai-pump-program\n\nDr. Deshk
+ a Foster will present the new HAI Pump Program.
+END:VEVENT
+END:VCALENDAR

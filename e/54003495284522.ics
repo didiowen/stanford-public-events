@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54003495284522@didiowen
+DTSTAMP:20261021T163552Z
+DTSTART:20261212T033000Z
+DTEND:20261212T050000Z
+SUMMARY:[現場] Annual Sing/Play Along Messiah
+LOCATION:Memorial Church
+URL:https://events.stanford.edu/event/messiah-fall26
+DESCRIPTION:https://events.stanford.edu/event/messiah-fall26\n報名/票券
+ : https://live.stanford.edu/s/event?EventID=49403\n\nThis annual “sing a
+ nd play it yourself” celebration of Handel’s masterwork\, conducted by
+  Stephen M. Sano\, is a favorite of campus and community! Orchestral parts
+  will be provided\, and singers can purchase a score from the Stanford Boo
+ kstore if they don't already have one.\n\nPlan ahead for this event\, as i
+ t's likely to be a full house!\n\nAdmission Information\n\nGeneral – $32
+  | Seniors (65+) and Non-Stanford Students – $27\nPrice shown reflects t
+ otal cost including $4 online/phone per-ticket fee.FREE admission for Stan
+ ford University students. One ticket per ID\, available beginning one hour
+  prior to curtain at the venue.
+END:VEVENT
+END:VCALENDAR

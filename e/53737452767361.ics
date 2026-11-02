@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53737452767361@didiowen
+DTSTAMP:20261102T115628Z
+DTSTART:20270313T230000Z
+DTEND:20270314T000000Z
+SUMMARY:[現場] Public Tour | A Closer Look
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/copy-of-public-tour-a-closer-look
+DESCRIPTION:https://events.stanford.edu/event/copy-of-public-tour-a-closer-
+ look\n\nDiscover new details\, perspectives\, and connections with Cantor
+ ’s “A Closer Look” tours. Led by a Stanford Student Guide or volunte
+ er Museum Engagement Guide\, each tour focuses on three to four artworks o
+ rganized around a theme\, providing participants with opportunities for co
+ ntemplation and conversation.\n\nFirst come\, first served. Tours do not r
+ equire a reservation and are free of charge. The tour will last between 45
+  minutes and an hour\, depending on the flow of conversation! Please check
+  in at the visitor services desk* in the main museum lobby.\n\n*If you pla
+ n to bring a large group with you (10 people or more)\, please notify us o
+ ne week in advance via this form so we can inform our Guides. Thank you!
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53728602326410@didiowen
+DTSTAMP:20260817T202427Z
+DTSTART:20270126T150000Z
+DTEND:20270126T160000Z
+SUMMARY:[混合] Grand Rounds: Gaurav Parmar
+LOCATION:Li Ka Shing Center\, LK130
+URL:https://events.stanford.edu/event/grand-rounds-gaurav-parmar
+DESCRIPTION:https://events.stanford.edu/event/grand-rounds-gaurav-parmar\n\
+ nDr. Gaurav Parmar\, a vascular medicine specialist and Clinical Assistant
+  Professor in the Division of Vascular Surgery\, presents Department of Su
+ rgery Grand Rounds.
+END:VEVENT
+END:VCALENDAR

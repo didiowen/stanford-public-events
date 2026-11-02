@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54358032891121@didiowen
+DTSTAMP:20261027T235436Z
+DTSTART:20271021T160000Z
+DTEND:20271021T170000Z
+SUMMARY:[線上] Roundtable: Faculty Systems Update
+LOCATION:
+URL:https://events.stanford.edu/event/roundtable-faculty-systems-update
+DESCRIPTION:https://events.stanford.edu/event/roundtable-faculty-systems-up
+ date\n\nRoundtable: Faculty Systems Update
+END:VEVENT
+END:VCALENDAR

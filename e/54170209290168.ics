@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54170209290168@didiowen
+DTSTAMP:20261006T182429Z
+DTSTART:20261210T033000Z
+DTEND:20261210T050000Z
+SUMMARY:[現場] Chamber Music Showcase 2
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/chamber-showcase-2-fall26
+DESCRIPTION:https://events.stanford.edu/event/chamber-showcase-2-fall26\n\n
+ Select student ensembles from the Stanford Chamber Music Program perform i
+ n this end-of-quarter showcase.\n\nAdmission Information\n\nFree admission
+END:VEVENT
+END:VCALENDAR

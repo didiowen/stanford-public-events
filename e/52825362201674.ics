@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-52825362201674@didiowen
+DTSTAMP:20260529T113432Z
+DTSTART:20261113T000000Z
+DTEND:20261113T003000Z
+SUMMARY:[現場] Tour Denning House\, home to Knight-Hennessy Scholars
+LOCATION:Denning House
+URL:https://events.stanford.edu/event/copy-of-fulltour-denning-house-home-t
+ o-knight-hennessy-scholars
+DESCRIPTION:https://events.stanford.edu/event/copy-of-fulltour-denning-hous
+ e-home-to-knight-hennessy-scholars\n\nJoin a free tour of Denning House an
+ d explore its treehouse-inspired architecture and art collection.\n\nBuilt
+  in 2018 specifically to house Knight-Hennessy Scholars\, Denning House pr
+ ovides an inspiring venue for scholars\, staff\, and visitors\, and a magn
+ ificent setting for art. A gift from Roberta Bowman Denning\, '75\, MBA '7
+ 8\, and Steve Denning\, MBA '78\, made the building possible. Read more ab
+ out Denning House in Stanford News.\n\nTour size is limited. Registration 
+ is required to attend a tour of Denning House.\n\nNote: Most parking at St
+ anford is free of charge after 4 pm. Denning House is in box J6 on the Sta
+ nford Parking Map. Please see Stanford Parking for more information on vis
+ itor parking at Stanford. Tours last approximately 30 minutes.
+END:VEVENT
+END:VCALENDAR

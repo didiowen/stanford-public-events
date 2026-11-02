@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54294834234298@didiowen
+DTSTAMP:20261020T225213Z
+DTSTART:20270218T003000Z
+DTEND:20270218T020000Z
+SUMMARY:[現場] Slavic Colloquium - John MacKay (Yale University)
+LOCATION:Building 260\, Pigott Hall\, Rm. 216
+URL:https://events.stanford.edu/event/slavic-colloquium-john-mackay-yale-un
+ iversity
+DESCRIPTION:https://events.stanford.edu/event/slavic-colloquium-john-mackay
+ -yale-university\n\nPlease join the next Slavic Colloquium event. John Mac
+ Kay (Yale Univesity) will present a talk on the sources of Eisenstein’s 
+ Bronenosets Potemkin. \n\nMore details to follow.
+END:VEVENT
+END:VCALENDAR

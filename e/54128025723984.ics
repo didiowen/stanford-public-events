@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54128025723984@didiowen
+DTSTAMP:20261001T235422Z
+DTSTART:20270613T230000Z
+DTEND:20270614T003000Z
+SUMMARY:[現場] 2026 Commencement Family & Friends Concert
+LOCATION:Memorial Church
+URL:https://events.stanford.edu/event/2026-commencement-concert
+DESCRIPTION:https://events.stanford.edu/event/2026-commencement-concert\n\n
+ The Stanford Chamber Chorale\, under the direction of Stephen M. Sano\, pr
+ esents an informal 45-minute concert for family and friends visiting campu
+ s for Commencement. Congratulations to the graduates of 2026!\n\nAdmission
+  Information\n\nFree admission.
+END:VEVENT
+END:VCALENDAR

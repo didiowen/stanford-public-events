@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53859567268514@didiowen
+DTSTAMP:20260901T203758Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:[線上]   AI + Health 2026
+LOCATION:
+URL:https://events.stanford.edu/event/ai-health-2026
+DESCRIPTION:https://events.stanford.edu/event/ai-health-2026\n報名/票券
+ : https://medhub.stanford.edu/event/aihealth2026/summary\n\nOverview\nStan
+ ford University’s 6th annual AI+HEALTH online conference brings together
+  leading experts from academia\, industry\, government\, and clinical prac
+ tice to examine critical and emerging issues at the intersection of AI and
+  health. This large-scale virtual event will feature content tailored to p
+ ractitioners\, researchers\, executives\, policymakers\, and professionals
+  alike—whether or not they have technical expertise.\n\nRegistrationRegi
+ stration will open in September 2026\n\nCreditsAMA PRA Category 1 Credits
+ ™ (35.00 hours)\, Non-Physician Participation Credit (35.00 hours)\n\nTa
+ rget AudienceSpecialties - Non-clinicalProfessions - Fellow/Resident\, Non
+ -Physician\, Physician\, Student ObjectivesAt the conclusion of this activ
+ ity\, learners should be able to:\n1. Discuss cutting edge research on art
+ ificial intelligence (AI) within healthcare and related domains.\n2. Descr
+ ibe AI's actual and potential uses within a broad range of health-related 
+ areas.\n3. Implement AI solutions in the delivery of care to patients\n\nA
+ ccreditationIn support of improving patient care\, Stanford Medicine is jo
+ intly accredited by the Accreditation Council for Continuing Medical Educa
+ tion (ACCME)\, the Accreditation Council for Pharmacy Education (ACPE)\, a
+ nd the American Nurses Credentialing Center (ANCC)\, to provide continuing
+  education for the healthcare team. \n\nCredit Designation \nAmerican Medi
+ cal Association (AMA) \nStanford Medicine designates this Live Activity fo
+ r a maximum of 17 AMA PRA Category 1 CreditsT
+END:VEVENT
+END:VCALENDAR

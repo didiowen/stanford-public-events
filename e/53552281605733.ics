@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53552281605733@didiowen
+DTSTAMP:20260814T213424Z
+DTSTART:20270211T150000Z
+DTEND:20270211T190000Z
+SUMMARY:[現場] 5th Annual Dr. Earl Ramsey Claiborne Lecture
+LOCATION:Cardinal Hall\, 104/105
+URL:https://events.stanford.edu/event/5th-annual-dr-earl-ramsey-claiborne-l
+ ecture
+DESCRIPTION:https://events.stanford.edu/event/5th-annual-dr-earl-ramsey-cla
+ iborne-lecture\n\nThe Claiborne Lecture is made possible by Ron Claiborne\
+ , son of Dr. Earl Ramsey Claiborne\, in honor of his father who was among 
+ the first African American dermatology residents at Stanford University Sc
+ hool of Medicine. The Dr. Earl Ramsey Claiborne Lecture aims to foster a w
+ elcoming environment for all to pursue successful careers in dermatology.
+END:VEVENT
+END:VCALENDAR

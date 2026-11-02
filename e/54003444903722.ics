@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54003444903722@didiowen
+DTSTAMP:20261006T162152Z
+DTSTART:20261119T033000Z
+DTEND:20261119T050000Z
+SUMMARY:[混合] University Singers
+LOCATION:Memorial Church
+URL:https://events.stanford.edu/event/university-singers-fall26
+DESCRIPTION:https://events.stanford.edu/event/university-singers-fall26\n
+ 線上連結: https://music.stanford.edu/university_singers_live\n報名/
+ 票券: https://live.stanford.edu/s/event?EventID=49201\n\nThe Stanford Un
+ iversity Singers\, under the direction of Robert Huw Morgan\, invite you t
+ o join them for their 2026 Fall Concert in Memorial Church.\n\nAdmission I
+ nformation\n\nGeneral – $32 | Seniors (65+) and Non-Stanford Students 
+ – $27\nPrice shown reflects total cost including $4 online/phone per-tic
+ ket fee.FREE admission for Stanford University students. One ticket per ID
+ \, available beginning one hour prior to curtain at the venue.This event w
+ ill be livestreamed.
+END:VEVENT
+END:VCALENDAR

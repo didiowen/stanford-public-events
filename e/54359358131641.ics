@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54359358131641@didiowen
+DTSTAMP:20261102T123157Z
+DTSTART:20261103T200000Z
+DTEND:20261103T200000Z
+SUMMARY:[現場] Disability Justice in Bloom mural grand opening event
+LOCATION:Disability Community (DisCo) Space
+URL:https://events.stanford.edu/event/disability-justice-in-bloom-mural-gra
+ nd-opening-event
+DESCRIPTION:https://events.stanford.edu/event/disability-justice-in-bloom-m
+ ural-grand-opening-event\n\nJoin us for a Disability Justice in Bloom mura
+ l grand opening at Stanford Disability Community (DisCo) Space at 12pm on 
+ November 3rd. This work is a collaborative garden mural focused on disabil
+ ity justice\, completed at Creative Growth Arts Center during the IDA fell
+ owship of Sam Dizon\, former undergraduate coordinator of the DisCo Space.
+  Come celebrate the installation of this wonderful art piece!\n\nOpening r
+ emarks will begin at 12pm. Snacks and drinks will be provided.
+END:VEVENT
+END:VCALENDAR

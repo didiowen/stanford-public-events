@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54231209060094@didiowen
+DTSTAMP:20261102T122436Z
+DTSTART:20261111T203000Z
+DTEND:20261111T220000Z
+SUMMARY:[現場] Mighty Like A Moose – Stephen Prutsman & The Dolphins Qu
+ artet
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/mighty-like-a-moose-prutsman-dolphins
+DESCRIPTION:https://events.stanford.edu/event/mighty-like-a-moose-prutsman-
+ dolphins\n\nDon't miss this rare screening of the delightfully offbeat sil
+ ent-film classic\, "Mighty Like a Moose\," brought to life with a live sco
+ re composed and performed by Stanford's own Stephen Prutsman (piano) and 2
+ 026 Emerging String Quartet Fellows The Dolphins.  \n\nThe Dolphins Quarte
+ t is a string quartet and composer collective united by a belief that cham
+ ber music can be vibrant\, daring\, and deeply human. Trained at Juilliard
+  and based in New York City\, the quartet has gained recognition for adven
+ turous programming\, original compositions\, and performances that reimagi
+ ne the possibilities of quartet playing. In April 2026\, they won Gold Pri
+ ze and Audience Prize at the Chesapeake Chamber Music Competition\, establ
+ ishing their presence as a world-class ensemble in the classical music sce
+ ne. Read more here!\n\nAmission Information\n\nFree admissionParking permi
+ ts are required for weekday campus parking. We recommend downloading the P
+ arkMobile app before arriving.
+END:VEVENT
+END:VCALENDAR

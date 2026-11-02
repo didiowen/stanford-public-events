@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54095467363601@didiowen
+DTSTAMP:20261102T121708Z
+DTSTART:20261104T200000Z
+DTEND:20261104T211500Z
+SUMMARY:[現場] CMEMS: Alice Brooke presents\, "A Pearl of Great Price"
+LOCATION:Building 260\, Pigott Hall\, 252
+URL:https://events.stanford.edu/event/cmems-alice-brooke-presents-a-pearl-o
+ f-great-price
+DESCRIPTION:https://events.stanford.edu/event/cmems-alice-brooke-presents-a
+ -pearl-of-great-price\n\nOrganized and hosted by the Center for Medieval a
+ nd Early Modern Studies (CMEMS).\n\nAlice Brooke (Merton College\, Oxford)
+  presents\, "A Pearl of Great Price: Colonial Commodities and the Marian B
+ ody in the Poetry of Sor Juana Inés de la Cruz"\n\n \n\nThe CMEMS Worksho
+ p series meets most Wednesdays during the academic year. Lunch is provided
+ . See the CMEMS website for the list of upcoming speakers.
+END:VEVENT
+END:VCALENDAR

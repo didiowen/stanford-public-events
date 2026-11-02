@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53994806337231@didiowen
+DTSTAMP:20260917T031408Z
+DTSTART:20270128T023000Z
+DTEND:20270128T040000Z
+SUMMARY:[現場] Stegner Fellow Reading with Cheyenne Fletcher and Yi Jiang
+LOCATION:Building 460\, Margaret Jacks Hall\, Terrace Room (Room 426)
+URL:https://events.stanford.edu/event/copy-of-stegner-fellow-reading-with-d
+ aniel-lurie-and-katerina-ivanov-prado
+DESCRIPTION:https://events.stanford.edu/event/copy-of-stegner-fellow-readin
+ g-with-daniel-lurie-and-katerina-ivanov-prado\n報名/票券: https://docs
+ .google.com/forms/d/e/1FAIpQLSdPCA9-27GQk3xyRX0XcQCtULFSFTsQeCy2W6ObXVcueJ
+ 4QzQ/viewform?usp=header\n\nThe Creative Writing Program is pleased to ann
+ ounce a reading with Stegner Fellows in Poetry and Fiction: Cheyenne Fletc
+ her and Yi Jiang. \n\nThis event is open to Stanford affiliates and the ge
+ neral public. Registration is encouraged but not required. Register here\n
+ \n____\n\nCheyenne C. Fletcher (she/they) is a poet\, educator\, auntie\, 
+ and citizen of the Cherokee Nation. She is the recipient of Shō Poetry Jo
+ urnal’s Sita Martin Prize and a 2026 Best New Poets nominee. She receive
+ d her MFA from the University of San Francisco.\n\nYi Jiang is a writer fr
+ om Shanghai and Wisconsin. Her fiction has appeared or is forthcoming in P
+ loughshares\, The Missouri Review\, Gulf Coast\, and elsewhere. She comple
+ ted her MFA at Vanderbilt University\, and has received support from Bread
+  Loaf Writers' Conference. She previously worked as an associate editor at
+  BookPage and a systems engineer in healthcare technology\, prior to a car
+ eer shift.
+END:VEVENT
+END:VCALENDAR

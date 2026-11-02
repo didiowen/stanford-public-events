@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54233222812405@didiowen
+DTSTAMP:20261013T212435Z
+DTSTART:20261203T200000Z
+DTEND:20261203T230000Z
+SUMMARY:[現場] Comparative Literature: Dr. Lilach Nethanel (Bar-Ilan Univ
+ ersity)
+LOCATION:Building 260\, Pigott Hall\, Room 216
+URL:https://events.stanford.edu/event/comparative-literature-dr-lilach-neth
+ anel-bar-ilan-university
+DESCRIPTION:https://events.stanford.edu/event/comparative-literature-dr-lil
+ ach-nethanel-bar-ilan-university\n\nWith Guest Speaker :  Dr. Lilach Netha
+ nel\, Senior Lecturer\, Department for Hebrew Literature and the Literatur
+ e of Jewish Languages Bar-Ilan University
+END:VEVENT
+END:VCALENDAR

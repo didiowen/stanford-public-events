@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53728923039014@didiowen
+DTSTAMP:20260817T212424Z
+DTSTART:20270223T150000Z
+DTEND:20270223T160000Z
+SUMMARY:[混合] Research Seed Grant Updates
+LOCATION:Li Ka Shing Center
+URL:https://events.stanford.edu/event/research-seed-grant-updates
+DESCRIPTION:https://events.stanford.edu/event/research-seed-grant-updates\n
+ \nThe Department of Surgery's Seed Grant Programs support work that addres
+ ses a clear and important gap in knowledge. Surgeon scientists whose proje
+ cts receive seed grants present their work at Department Grand Rounds the 
+ next year.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54294905469949@didiowen
+DTSTAMP:20261020T230103Z
+DTSTART:20270414T233000Z
+DTEND:20270415T010000Z
+SUMMARY:[現場] Slavic Colloquium - Iryna Odrekhivska: Prague\, Kyiv and C
+ ultural Relations beyond Centre and Periphery in the 1960s
+LOCATION:Building 260\, Pigott Hall\, Rm. 216
+URL:https://events.stanford.edu/event/slavic-colloquium-iryna-odrekhivska-p
+ rague-kyiv-and-cultural-relations-beyond-centre-and-periphery-in-the-1960s
+DESCRIPTION:https://events.stanford.edu/event/slavic-colloquium-iryna-odrek
+ hivska-prague-kyiv-and-cultural-relations-beyond-centre-and-periphery-in-t
+ he-1960s\n\nPlease join the upcoming Slavic Colloquium event. Iryna Odrekh
+ ivska (University College London) will present a talk titled "Prague\, Kyi
+ v and Cultural Relations beyond Centre and Periphery in the 1960s."\n\nMor
+ e details to follow.
+END:VEVENT
+END:VCALENDAR

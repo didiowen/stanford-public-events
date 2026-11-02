@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54127760847492@didiowen
+DTSTAMP:20261001T232424Z
+DTSTART:20261205T033000Z
+DTEND:20261205T053000Z
+SUMMARY:[現場] Festival of Lessons & Carols
+LOCATION:Memorial Church
+URL:https://events.stanford.edu/event/lessons_carols
+DESCRIPTION:https://events.stanford.edu/event/lessons_carols\n\nAll are wel
+ come to this service of Advent and Christmas readings and music\, based on
+  the famous Lessons and Carols Service held annually at King's College\, C
+ ambridge. Festive music will be sung by the Memorial Church Choir and the 
+ Stanford Chamber Chorale.\n\nDoors open at 6:30 pm.
+END:VEVENT
+END:VCALENDAR

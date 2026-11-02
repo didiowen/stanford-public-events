@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54251680221629@didiowen
+DTSTAMP:20261015T232427Z
+DTSTART:20261118T003000Z
+DTEND:20261118T020000Z
+SUMMARY:[現場] Vocal Masterclass with Rachel Willis-Sørensen\, soprano
+LOCATION:Bing Concert Hall
+URL:https://events.stanford.edu/event/vocal-masterclass-rachel-willis-soren
+ sen
+DESCRIPTION:https://events.stanford.edu/event/vocal-masterclass-rachel-will
+ is-sorensen\n\nPrior to her Shenson Recital Series performance on Wednesds
+ ay\, Rachel Willis-Sørensen (soprano) presents an afternoon masterlcass a
+ longside students from Stanford's vocal studies program.\n\nAdmission Info
+ rmation\n\nFree admissionPlease RSVP here.
+END:VEVENT
+END:VCALENDAR

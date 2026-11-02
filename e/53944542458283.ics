@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53944542458283@didiowen
+DTSTAMP:20261102T121041Z
+DTSTART:20261110T220000Z
+DTEND:20261110T230000Z
+SUMMARY:[混合] Using AI to Find Sources
+LOCATION:Green Library\, Bing Wing\, Velma Denning Room (120F)
+URL:https://events.stanford.edu/event/using-ai-to-find-sources
+DESCRIPTION:https://events.stanford.edu/event/using-ai-to-find-sources\n報
+ 名/票券: https://appointments.library.stanford.edu/event/17626269\n\nDa
+ te and Time: 2–3PM\, Tuesday\, November 10\, 2026Location: Velma Denning
+  Room (120F)\, Green Library & Virtual (zoom link provided upon registrati
+ on)Instructor: Pauline Lewis (Reference and Instruction Librarian)Are you 
+ using AI to find sources for your research project? Do you think you shoul
+ d be but aren't sure how? Join this workshop and learn concrete tips about
+  the possibilities and limitations of using GenAI to discover primary and 
+ secondary sources. We'll explore how to thoughtfully use LLMs in this crit
+ ical phase of your research and how to pair these new tools with tradition
+ al methods of discovering and accessing sources. \n\nPlease register to at
+ tend. Registration is exclusively open to current Stanford affiliates and 
+ will be offered on a first-come\, first-served basis. For those attending 
+ the in-person event\, please bring your Stanford ID card or mobile ID to e
+ nter the library. Virtual attendees will receive a Zoom link upon registra
+ tion.
+END:VEVENT
+END:VCALENDAR

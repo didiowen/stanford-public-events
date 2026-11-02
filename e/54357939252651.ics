@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54357939252651@didiowen
+DTSTAMP:20261027T233823Z
+DTSTART:20270121T170000Z
+DTEND:20270121T180000Z
+SUMMARY:[線上] Roundtable: Sequoia Overview
+LOCATION:
+URL:https://events.stanford.edu/event/roundtable-sequoia-overview
+DESCRIPTION:https://events.stanford.edu/event/roundtable-sequoia-overview\n
+ \nRoundtable: Sequoia Overview
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54128018637615@didiowen
+DTSTAMP:20261001T235422Z
+DTSTART:20270612T023000Z
+DTEND:20270612T023000Z
+SUMMARY:[現場] 2026 Stanford Commencement Organ Concert
+LOCATION:Memorial Church
+URL:https://events.stanford.edu/event/2026-stanford-commencement-organ-conc
+ ert
+DESCRIPTION:https://events.stanford.edu/event/2026-stanford-commencement-or
+ gan-concert\n\nThe annual Commencement recital\, performed by University O
+ rganist Dr. Robert Huw Morgan\n\nAll are invited to attend\, admission is 
+ free.
+END:VEVENT
+END:VCALENDAR

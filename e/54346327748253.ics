@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54346327748253@didiowen
+DTSTAMP:20261026T155609Z
+DTSTART:20270129T013000Z
+DTEND:20270129T030000Z
+SUMMARY:[現場] Claudia Hart: Techno-ethics and the Sociology of Simulatio
+ n
+LOCATION:McMurtry Building\, Oshman Hall
+URL:https://events.stanford.edu/event/claudia-hart-techno-ethics-and-the-so
+ ciology-of-simulation
+DESCRIPTION:https://events.stanford.edu/event/claudia-hart-techno-ethics-an
+ d-the-sociology-of-simulation\n報名/票券: https://sls-claudia-hart.eve
+ ntbrite.com\n\nI was early into simulations - which isolated me because I 
+ found myself inside one of the most male-dominated spaces in contemporary 
+ culture: the world of simulation technologies. Its denizens were mostly ex
+ -military\, its technologies built to visualize war games. When I started 
+ in 1990\, its culture seemed devoid of women. My response was to build a f
+ eminist practice inside of that militarized space. My practice is trans-me
+ dia and spans 3D animation\, virtual and augmented reality\, performance\,
+  illustrated books\, and installation. I appropriate Western canonical fig
+ ures — philosophers\, poets\, architects\, painters — and reinvent the
+ ir dense and sober languages as theatrical\, often dark fantasy worlds. Bu
+ t the rooms I build echo with women’s voices: voices that I also perform
+ \, script\, and digitally transform. I am mutable and so are computer file
+ s — a perfect fit! My themes are serious (techno-ethics\, the sociology 
+ of simulation\, the politics of embodiment)\, although my methodology is t
+ heatrical and allegorical.\n\nOriginally trained in art and architectural 
+ history at New York University and Columbia University\, Claudia Hart bega
+ n her career in the New York City art scene before transitioning to digita
+ l media in the late 1990s. Her historical training remains foundational to
+  her work. Rather than treating technology as detached from the past\, Har
+ t situates digital simulation within a long continuum of representation ex
+ tending from Renaissance perspective and photography to virtua
+END:VEVENT
+END:VCALENDAR

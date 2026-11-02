@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54001154362238@didiowen
+DTSTAMP:20261102T121315Z
+DTSTART:20261104T203000Z
+DTEND:20261104T220000Z
+SUMMARY:[現場] Noon Concert: Piano Students of Laura Dahl & Ory Shihor
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/noon-dahl-shihor-fall26
+DESCRIPTION:https://events.stanford.edu/event/noon-dahl-shihor-fall26\n\nJo
+ in us for our Noon Concert Series\, where student musicians from a variety
+  of instrumental and vocal studios take the stage. Each performance offers
+  a vibrant showcase of emerging talent\, celebrating music in a relaxed mi
+ dday setting.﻿\n\nAdmission Information\n\nFree admissionParking permits
+  are required for weekday campus parking. We recommend downloading the Par
+ kMobile app before arriving.
+END:VEVENT
+END:VCALENDAR

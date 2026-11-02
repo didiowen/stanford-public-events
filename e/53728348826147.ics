@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53728348826147@didiowen
+DTSTAMP:20260817T195423Z
+DTSTART:20261117T150000Z
+DTEND:20261117T160000Z
+SUMMARY:[混合] Norton Lecture
+LOCATION:Li Ka Shing Center\, LK130
+URL:https://events.stanford.edu/event/norton-lecture-dr-jeffrey-drebin
+DESCRIPTION:https://events.stanford.edu/event/norton-lecture-dr-jeffrey-dre
+ bin\n\nThe Division of General Surgery invited Dr. Jeffrey Drebin\, the Ch
+ ief Physician Executive at Memorial Sloan Kettering\, to present the annua
+ l Norton Lecture.
+END:VEVENT
+END:VCALENDAR

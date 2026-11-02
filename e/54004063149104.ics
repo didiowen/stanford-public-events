@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54004063149104@didiowen
+DTSTAMP:20260929T002315Z
+DTSTART:20261112T200000Z
+DTEND:20261112T211500Z
+SUMMARY:[線上] Jeanet Sinding Bentzen — Risky Business? Religiosity and
+  Risk-Taking in Full-Population Danish Data
+LOCATION:https://stanford.zoom.us/j/97375161734?pwd=x4DaCfRGRry3yOGjLfhQbWT
+ pXWrc2R.1
+URL:https://events.stanford.edu/event/jeanet-sinding-bentzen-cddrl-research
+ -seminar
+DESCRIPTION:https://events.stanford.edu/event/jeanet-sinding-bentzen-cddrl-
+ research-seminar\n線上連結: https://stanford.zoom.us/j/97375161734?pwd
+ =x4DaCfRGRry3yOGjLfhQbWTpXWrc2R.1\n\nWhy do individuals differ so persiste
+ ntly in their willingness to take economic risks? This paper investigates 
+ whether religiosity\, particularly the intensity of religious belief\, and
+  helps explain this variation. The research considers two competing theore
+ tical predictions: religious teachings discourage immoral and unlawful beh
+ avior\, while the religious coping literature suggests that belief in a be
+ nevolent God reduces background anxiety and effectively provides psycholog
+ ical insurance. Using Danish administrative data covering the full populat
+ ion over three decades\, together with a novel naming-based measure of ind
+ ividual religiosity\, the paper finds that more religious individuals are 
+ significantly more likely to be self-employed and to hold a larger share o
+ f their assets in stocks. These effects are economically meaningful\, corr
+ esponding to roughly a quarter of the wealth effect on economic risk-takin
+ g. The findings also remain significant when comparing individuals within 
+ sibling groups\, which absorbs family-level confounders. The research furt
+ her finds that these same individuals are less likely to be charged with a
+  criminal offence. This pattern of opposite effects across different types
+  of risk is consistent with the idea that religiosity reduces perceived ba
+ ckground risk through a psychological insurance channel\, while simultaneo
+ usly increasing the perceived cost of behaviours condemned by religious te
+ achings. Overall\, the paper suggests that religiosity helps expla
+END:VEVENT
+END:VCALENDAR

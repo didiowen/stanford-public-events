@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54095570012306@didiowen
+DTSTAMP:20260928T075759Z
+DTSTART:20261202T200000Z
+DTEND:20261202T211500Z
+SUMMARY:[現場] CMEMS: Katerina Levinson presents\, "Maternal Warriors"
+LOCATION:Building 260\, Pigott Hall\, 252
+URL:https://events.stanford.edu/event/cmems-katerina-levinson-presents-mate
+ rnal-warriors
+DESCRIPTION:https://events.stanford.edu/event/cmems-katerina-levinson-prese
+ nts-maternal-warriors\n\nOrganized and hosted by the Center for Medieval a
+ nd Early Modern Studies (CMEMS).\n\nKaterina Levinson (ILAC\, Stanford) pr
+ esents\, "Maternal Warriors: Transatlantic Iconography in the Spanish and 
+ Nahuatl 'The Mother of the Best'"\n\nWith a response from Regina Pieck (Co
+ mparative Literature\, Stanford).\n\n \n\nThe CMEMS Workshop series meets 
+ most Wednesdays during the academic year. Lunch is provided. See the CMEMS
+  website for the list of upcoming speakers.
+END:VEVENT
+END:VCALENDAR

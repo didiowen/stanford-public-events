@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54047808526631@didiowen
+DTSTAMP:20261102T121504Z
+DTSTART:20261110T000000Z
+DTEND:20261110T013000Z
+SUMMARY:[現場] Daniel Wurgaft | A Resource Rational Analysis of Represent
+ ations: Geometry\, Inference\, Capacity
+LOCATION:Stanford Neurosciences Building\, James Lin and Nisa Leung Seminar
+  Room\, E153
+URL:https://events.stanford.edu/event/cnds-seminar-daniel-wurgaft
+DESCRIPTION:https://events.stanford.edu/event/cnds-seminar-daniel-wurgaft\n
+ \nAbstract\n\nNeural systems process information by forming representation
+ s of the world. Studies of representational geometry have revealed remarka
+ bly structured representations in biological and artificial systems\, as w
+ ell as surprising alignment in representations across systems. Why do repr
+ esentations across systems converge to similar structures\, how do these s
+ tructures encode concepts and uncertainty over them\, and how are they sha
+ ped by resource constraints?\n\nHere\, we tackle these questions in neural
+  networks through the lens of resource rationality\, asking what represent
+ ations are optimal for solving a task\, given dimensionality and linear re
+ adout constraints. We derive a notion of optimal linear representations\, 
+ and show that these emerge across varied architectures and tasks\, providi
+ ng a simple explanation for representational convergence as alignment towa
+ rd the optimal solution. This shared treatment motivates a normative forma
+ lization of conceptual spaces that generalizes the linear representation h
+ ypothesis. We then extend this account to uncertainty and inference over c
+ onceptual spaces\, asking how representations should change in response to
+  in-context evidence\, and finally to resource-constrained settings involv
+ ing representational interference.\n\n\nAbout the Center for Neural Data S
+ cience Seminar Series \n\nThe Center for Neural Data Science Seminar Serie
+ s is a platform for trainees across campus to share  insights and innovati
+ ve approaches that bridge the gap between
+END:VEVENT
+END:VCALENDAR

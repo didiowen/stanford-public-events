@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54011243977907@didiowen
+DTSTAMP:20261102T121352Z
+DTSTART:20261106T003000Z
+DTEND:20261106T020000Z
+SUMMARY:[現場] No Ideas But in Things
+LOCATION:Clark Center\, Auditorium
+URL:https://events.stanford.edu/event/no-ideas-but-in-things
+DESCRIPTION:https://events.stanford.edu/event/no-ideas-but-in-things\n報
+ 名/票券: https://docs.google.com/forms/d/e/1FAIpQLSckBOFpxwAE-7A_Lymtts
+ LYcVqQOUBbRasHkVB9KNl83rbiGw/viewform?usp=header\n\nNo Ideas But in Things
+ \n\nFilmed and Directed by Lan A. Li\nProduced by Peter N. Miller\n\nShort
+  Film Screening\,\nfollowed by a discussion with the filmmakers\n\n"No Ide
+ as But in Things" is an art film that asks what can only be known through 
+ touch\, making\, and the body. Drawing on footage from the Material Intell
+ igence seminar at the American Academy in Rome\, where scientists\, makers
+ \, and humanists explored how to learn from materials in an age of words a
+ nd algorithms\, the film uses Rome as an object of inquiry and conversatio
+ n as an instrument of research\, rather than a vehicle for predetermined c
+ onclusions. In doing so\, it reimagines scholarly output beyond the book\,
+  article\, and essay.\n \n\nNovember 5\, 4:30-6PM (Clark Center Auditorium
+ )
+END:VEVENT
+END:VCALENDAR

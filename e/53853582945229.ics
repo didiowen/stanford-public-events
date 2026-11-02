@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53853582945229@didiowen
+DTSTAMP:20260911T052904Z
+DTSTART:20270218T040000Z
+DTEND:20270218T053000Z
+SUMMARY:[現場] Reading with Robin Coste Lewis\, the Mohr Visiting Poet
+LOCATION:Faculty Club\, Cedar Room
+URL:https://events.stanford.edu/event/reading-with-robin-coste-lewis-the-mo
+ hr-visiting-poet
+DESCRIPTION:https://events.stanford.edu/event/reading-with-robin-coste-lewi
+ s-the-mohr-visiting-poet\n\nThe Creative Writing Program is pleased to ann
+ ounce the next event with the Mohr Visiting Poet: A Reading with Robin Cos
+ te Lewis.\n\nThis event is open to Stanford affiliates and the general pub
+ lic. Registration is encouraged but not required\; RSVP form to follow.\n\
+ n____\n\nRobin Coste Lewis is a writer and artist. Lewis won the National 
+ Book Award for Voyage of the Sable Venus\, her first collection of poe
+ try. The book was also a finalist for the Hurston/Wright Legacy Award and 
+ the Los Angeles Times Book Award\, and it was named one of the best bo
+ oks of the year by The New Yorker and The New York Times. Literary H
+ ub named it one of the best books of the last twenty years. Lewis was th
+ e first African-American to ever win the National Book Award in a debut\, 
+ and the first woman to do so since 1974. Her second book\, To the Realiz
+ ation of Perfect Helplessness\, was the winner of the PEN/Voelcker Award f
+ or Poetry and the NAACP Image Award for Outstanding Literary Work in Poetr
+ y. She is also the coauthor\, with Kevin Young\, of Robert Rauschenberg:
+  Thirty-Four Illustrations for Dante’s Inferno\, published by the Muse
+ um of Modern Art. Her latest book\, Archive of Desire\, was named by the
+  Brooklyn Public Library as one of the best poetry collections of the year
+ . The former poet laureate of Los Angeles\, Lewis holds a PhD in poetry an
+ d visual studies from the University of Southern California\, an MFA in po
+ etry from New York University\, an MTS in Sanskrit and comparative religio
+ us literature from t
+END:VEVENT
+END:VCALENDAR

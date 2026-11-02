@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53950377018750@didiowen
+DTSTAMP:20261026T164807Z
+DTSTART:20261119T200000Z
+DTEND:20261119T213000Z
+SUMMARY:[現場] Galicia's Promised City with Oskar Czendze
+LOCATION:Building 200\, History Corner\, 307
+URL:https://events.stanford.edu/event/galicias-promised-city-with-oskar-cze
+ ndze
+DESCRIPTION:https://events.stanford.edu/event/galicias-promised-city-with-o
+ skar-czendze\n報名/票券: https://docs.google.com/forms/d/1euIgnTpdatJ3
+ oa1vsQCf_V0GapwEdC6A-0gqpPE_M68/edit\n\nBetween 1890 and 1914\, tens of th
+ ousands of Jews from Galicia—the easternmost crownland of the Habsburg E
+ mpire—made New York City their new home. Yet their distinct experience h
+ as often been overshadowed by national narratives centered on migration fr
+ om the Russian Empire. Oskar Czendze (University of Toronto) will explores
+  how Galician Jews carried forms of regional and supranational belonging s
+ haped in East Central Europe into New York. \n\nWhen: Thursday | Nov 19 | 
+ 12:00pm  \n\nWhere: Bldg. 200 | Rm. 307\n\n              \n\nRSVP required
+ . Lunch included with RSVP.
+END:VEVENT
+END:VCALENDAR

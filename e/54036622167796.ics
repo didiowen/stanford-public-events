@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54036622167796@didiowen
+DTSTAMP:20260923T003808Z
+DTSTART:20270521T000000Z
+DTEND:20270521T013000Z
+SUMMARY:[現場] Kurtis Schaeffer: "Poetry in Tibet: Pushing Boundaries of 
+ Buddhist Language and Thought"
+LOCATION:Lathrop Library\, 224
+URL:https://events.stanford.edu/event/kurtis-schaeffer-poetry-in-tibet-push
+ ing-boundaries-of-buddhist-language-and-thought
+DESCRIPTION:https://events.stanford.edu/event/kurtis-schaeffer-poetry-in-ti
+ bet-pushing-boundaries-of-buddhist-language-and-thought\n\nAbstract:\n\nTi
+ betan writers of kāvya-style poetry exploited the structured flexibility 
+ of the medium to praise the heroes and ideals of Buddhist tradition\, to i
+ nnovate in both literary form and practices of thought\, and at times even
+  to transgress the strictures implicit in other genres of Buddhist literat
+ ure. This talk explores the popular genre of single verses intended to ill
+ ustrate the poetic features described in Daṇḍin's Mirror of Poetry\, a
+ nd suggests that kāvya poetry was an important space in elite literature 
+ where pre-modern Tibetan writers could openly push the boundaries of Buddh
+ ist language\, thought\, and feeling.\n\n \n\nBio:\n\nKurtis Schaeffer is 
+ a student of Buddhist literature in Tibet and the Himalayas. He is the tra
+ nslator of The Life of the Buddha (2014) and Buddhist Meditation: Classic 
+ Teachings from Tibet (2024)\, both from Penguin Classics\, and the author 
+ of Himalayan Hermitess (2004)\, The Culture of the Book in Tibet (2009)\, 
+ and other books. He is the Frances Myers Ball Professor in the Department 
+ of Religious Studies at the University of Virginia.
+END:VEVENT
+END:VCALENDAR

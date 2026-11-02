@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54322087931985@didiowen
+DTSTAMP:20261026T155124Z
+DTSTART:20270226T010000Z
+DTEND:20270226T023000Z
+SUMMARY:[混合] Distinguished Lecture Series| From Disentanglement to Re-E
+ ntanglement: Integrating the Living Archaeological Record
+LOCATION:Building 500\, Archaeology Center\, 106
+URL:https://events.stanford.edu/event/distinguished-lecture-series
+DESCRIPTION:https://events.stanford.edu/event/distinguished-lecture-series\
+ n線上連結: https://stanford.zoom.us/webinar/register/WN_Euv4s6fIRyiB3h
+ eE7WKV0Q\n\nEach quarter\, the Stanford Archaeology Center invites promine
+ nt archaeologists from around the globe to be in residence for a week as a
+  Distinguished Lecturer. During their residency\, the Distinguished Lectur
+ er gives two lectures and interacts with faculty\, postdoctoral scholars a
+ nd students. Stanford Archaeology Center will host Prof. Christopher H. Ro
+ osevelt from  Koc University over two days (Feb 24 and Feb 25 for the Wint
+ er Quarter of this academic year. \n\nAbstract:\n \n\nRecent trends in arc
+ haeological data management have focused on preserving\, linking\, compari
+ ng\, and reusing datasets\, and rightly so. The expensive work of archaeol
+ ogical practice is too often relegated to inaccessible files and legacy da
+ tabases\, recoverable only when future opportunities afford revived engage
+ ment. While legacy datasets are one clear challenge\, so too are living da
+ tasets\, those still growing\, still under analysis. As archaeological pra
+ ctice is increasingly specialized\, its domain-specific archives have incr
+ easing difficulty speaking to one another. Ceramics\, small finds\, botani
+ cal and faunal remains\, conservation records\, drawings\, photographs\, a
+ nd spatial data accumulate in parallel systems that share an archaeologica
+ l site but can otherwise become siloed. This happens to born-digital proje
+ cts too. The Kaymakçı Archaeological Project (KAP) was born digital in 2
+ 014\; by 2026 its records were accessed across seventeen separate database
+  forms\, on their way to legacy status.\n\nThis lecture prese
+END:VEVENT
+END:VCALENDAR

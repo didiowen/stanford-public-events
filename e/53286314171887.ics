@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53286314171887@didiowen
+DTSTAMP:20260628T202418Z
+DTSTART:20270315T181500Z
+DTEND:20270315T191500Z
+SUMMARY:[現場] March Museum Minis: Storytime at the Anderson
+LOCATION:Anderson Collection\, The Denning Family Resource Center 
+URL:https://events.stanford.edu/event/march-museum-minis-storytime-at-the-a
+ nderson
+DESCRIPTION:https://events.stanford.edu/event/march-museum-minis-storytime-
+ at-the-anderson\n\nMuseum Minis is a welcoming monthly storytime at the An
+ derson Collection for children ages 0–5 and their caregivers. Each sessi
+ on features two engaging\, age-appropriate books inspired by the essential
+  elements of art—line\, color\, shape\, and texture—introducing young 
+ children to these ideas and connecting them to artworks in the museum’s 
+ collection. Together\, families are invited to look closely\, notice detai
+ ls\, and experience the museum environment in an accessible\, joyful way. 
+ The Anderson Collection is home to works by artists such as Jackson Polloc
+ k\, Mark Rothko\, Joan Mitchell\, and Nick Cave. The morning concludes wit
+ h a light snack and time to connect.\n\n \n\nOur storyteller\, Maria\, is 
+ a Visitor Experience Assistant and Museum Engagement Guide at the Anderson
+  Collection. She brings a deep love of art\, storytelling\, and community 
+ to her work\, and believes that every artwork — and every person — hol
+ ds a story worth sharing. Outside the museum\, she enjoys prioritizing wel
+ lness and slowing down with a good cup of tea.\n\nNo RSVP necessary\, walk
+ -ins welcome!
+END:VEVENT
+END:VCALENDAR

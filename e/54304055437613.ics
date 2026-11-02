@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54304055437613@didiowen
+DTSTAMP:20261021T212503Z
+DTSTART:20261202T200000Z
+DTEND:20261202T210000Z
+SUMMARY:[線上] Pediatric Pulmonology in the Primary Care Setting
+LOCATION:
+URL:https://events.stanford.edu/event/pediatric-pulmonology-in-the-primary-
+ care-setting
+DESCRIPTION:https://events.stanford.edu/event/pediatric-pulmonology-in-the-
+ primary-care-setting\n報名/票券: https://stanford.cloud-cme.com/course
+ /courseoverview?P=5&EID=60362\n\nOverviewPediatric primary care providers 
+ play an important role in diagnosing and managing children and young adult
+ s with pulmonary conditions. In this webinar\, primary care providers will
+  learn more about difficult to diagnose and treat pulmonary conditions tha
+ t they may see in their practice. These could include severe or atypical a
+ sthma\, recurrent or persistent pneumonia\, sleep disorders (account for a
+ bout 40% of all pulmonary referrals)\, abnormal chest radiographs\, and ch
+ ronic cough. Providers will leave this webinar with the ability to diagnos
+ e and provide daily management of these conditions and learn also when to 
+ consider consulting with a pediatric pulmonary specialist for advice.\n\nR
+ egistrationRegistration for all practitioners - free\n\nTo register for th
+ is activity\, please click HERE.\n\nCreditsAMA PRA Category 1 Credits™ (
+ 1.00 hours)\, AAPA Category 1 CME credits (1.00 hours)\, ANCC Contact Hour
+ s (1.00 hours)\, Non-Physician Participation Credit (1.00 hours)\n\nTarget
+  AudienceSpecialties - PediatricsProfessions - Advance Practice Nurse (APN
+ )\, Non-Physician\, Nurse\, Physician\, Physician Associate ObjectivesAt t
+ he conclusion of this activity\, learners should be able to:\n1. Identify 
+ common patient and caregiver education needs related to the management of 
+ pediatric asthma\n2. Discuss how to proceed when a patient has an unclear 
+ asthma diagnosis or difficult-to-treat asthma\n3. Identify how to treat pa
+ tients with recurrent pneumonia\n4. Define how to approach treating chroni
+ c cough
+END:VEVENT
+END:VCALENDAR

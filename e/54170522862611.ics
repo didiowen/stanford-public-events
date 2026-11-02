@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54170522862611@didiowen
+DTSTAMP:20261006T192457Z
+DTSTART:20261115T033000Z
+DTEND:20261115T050000Z
+SUMMARY:[現場] The Variety 73 – Performance & Presence
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/variety-73-fall26
+DESCRIPTION:https://events.stanford.edu/event/variety-73-fall26\n\nStudents
+  from MUSIC 73\, taught by Benjamin Liupaogo\, are featured in this cabare
+ t-style show performing a variety of works from musical theater\, jazz\, a
+ nd other genres.\n\nAdmission Information\n\nFree admission
+END:VEVENT
+END:VCALENDAR

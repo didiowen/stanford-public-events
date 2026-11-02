@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54363607988494@didiowen
+DTSTAMP:20261028T145446Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:[現場] 5th Annual Updates in Gastroenterology & Hepatology
+LOCATION:The Fairmont Sonoma Mission Inn
+URL:https://events.stanford.edu/event/5th-annual-updates-in-gastroenterolog
+ y-hepatology
+DESCRIPTION:https://events.stanford.edu/event/5th-annual-updates-in-gastroe
+ nterology-hepatology\n報名/票券: https://stanford.cloud-cme.com/course
+ /courseoverview?P=0&EID=60346\n\nOverviewA Premier Educational Experience 
+ in the Heart of Wine Country Join us in the beautiful and serene setting o
+ f wine country for the 5th Annual Updates in Gastroenterology and Hepatolo
+ gy—a dynamic and engaging course designed to bring you the latest advanc
+ es in the diagnosis and management of gastrointestinal and liver disorders
+ . The program incorporates cutting-edge medical education with the opportu
+ nity to unwind amidst vineyards\, rolling hills\, and exceptional hospital
+ ity. Tailored for gastroenterologists\, hepatologists\, primary care physi
+ cians\, internists\, family practitioners\, nurse practitioners\, physicia
+ n assistants\, and nurses\, this comprehensive four-day course offers evid
+ ence-based updates in a picturesque\, retreat-like atmosphere perfect for 
+ learning and professional connection. The course focuses on delivering imp
+ ortant updates to help healthcare professionals stay informed and provide 
+ optimal care to patients with gastrointestinal issues. Participants will l
+ earn practical strategies and diagnostic approaches for various conditions
+  such as esophageal disease\, motility disorders\, inflammatory bowel dise
+ ase\, pancreaticobiliary disease\, cancer screening\, liver disorders\, an
+ d abdominal pain. The educational approach includes lectures\, Q&A session
+ s\, debates\, and informal discussions covering technology\, research\, di
+ agnosis\, guidelines\, and treatment strategies. The course also offers op
+ portunities for participants to interact with Stanford faculty members\, e
+ ngage 
+END:VEVENT
+END:VCALENDAR

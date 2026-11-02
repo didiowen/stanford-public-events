@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54312589237794@didiowen
+DTSTAMP:20261102T122914Z
+DTSTART:20261110T230000Z
+DTEND:20261111T000000Z
+SUMMARY:[現場] Puppy Party
+LOCATION:Bechtel International Center\, Front Lawn 
+URL:https://events.stanford.edu/event/puppy-party-5743
+DESCRIPTION:https://events.stanford.edu/event/puppy-party-5743\n\n🐶 Take
+  a break and come say “hi” to our furry friends from Stanford’s Pet 
+ Partners on Tuesday\, November 10th from 3-4 pm on Bechtel’s front lawn.
+ \n\n It’s a free event and no RSVP needed. 😊
+END:VEVENT
+END:VCALENDAR

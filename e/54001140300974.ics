@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54001140300974@didiowen
+DTSTAMP:20260917T232506Z
+DTSTART:20261204T203000Z
+DTEND:20261204T220000Z
+SUMMARY:[現場] Noon Concert: Piano Students of Elizabeth Schumann
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/noon-schumann-fall26
+DESCRIPTION:https://events.stanford.edu/event/noon-schumann-fall26\n\nJoin 
+ us for our Noon Concert Series\, where student musicians from a variety of
+  instrumental and vocal studios take the stage. Each performance offers a 
+ vibrant showcase of emerging talent\, celebrating music in a relaxed midda
+ y setting.﻿\n\nAdmission Information\n\nFree admissionParking permits ar
+ e required for weekday campus parking. We recommend downloading the ParkMo
+ bile app before arriving.
+END:VEVENT
+END:VCALENDAR

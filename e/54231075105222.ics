@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54231075105222@didiowen
+DTSTAMP:20261013T152454Z
+DTSTART:20261201T033000Z
+DTEND:20261201T050000Z
+SUMMARY:[現場] Stanford Percussion Ensemble
+LOCATION:Dinkelspiel Auditorium
+URL:https://events.stanford.edu/event/stanford-percussion-ensemble-fall26
+DESCRIPTION:https://events.stanford.edu/event/stanford-percussion-ensemble-
+ fall26\n\nMarty Thenell directs the Stanford Percussion Ensemble's program
+  of contemporary percussion works on stage in Dinkelpsiel Auditorium.\n\nA
+ dmission Information\n\nFree admission.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53694860349530@didiowen
+DTSTAMP:20261102T115459Z
+DTSTART:20270604T183000Z
+DTEND:20270604T193000Z
+SUMMARY:[現場] Public Tour |  Auguste Rodin
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/copy-of-cancelled-public-tour-auguste
+ -rodin-565
+DESCRIPTION:https://events.stanford.edu/event/copy-of-cancelled-public-tour
+ -auguste-rodin-565\n\nJoin us for a tour of our indoor and outdoor Rodin S
+ culptures! Our collection spans three galleries\, an outdoor sculpture gar
+ den\, and features nearly 100 Rodin sculptures essential to telling his st
+ ory and representing his groundbreaking engagement with the body.\n\nIMAGE
+ : Auguste Rodin (France\, 1840–1917)\, The Age of Bronze (L’Âge d’a
+ irain)\, 1875-1876. Bronze\, cast c. 1920. Gift of the B. Gerald Cantor Co
+ llection\, 1983.300\n\nPublic Tours: Fridays and Saturdays at 11:30am \n\n
+ Admission Info\n\nTours do not require a reservation and are free of charg
+ e.\n\nFirst come\, first served!
+END:VEVENT
+END:VCALENDAR

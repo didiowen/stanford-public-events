@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53954321811562@didiowen
+DTSTAMP:20261102T082249Z
+DTSTART:20270126T000000Z
+DTEND:20270126T011500Z
+SUMMARY:[現場] Simon DeDeo | Proofs and reasons in the age of artificial 
+ intelligence
+LOCATION:Stanford Neurosciences Building | Gunn Rotunda (E241)
+URL:https://events.stanford.edu/event/simon-dedeo-proofs-and-reasons-in-the
+ -age-of-artificial-intelligence
+DESCRIPTION:https://events.stanford.edu/event/simon-dedeo-proofs-and-reason
+ s-in-the-age-of-artificial-intelligence\n\nMBCT welcomes Dr. Simon DeDeo f
+ rom Carnegie Mellon University for the first seminar of 2027. Talk details
+  to be announced\n\nJoin our mailing list for MBCT Seminar announcements a
+ nd updates about future events\n \n\nContinue the conversation: All attend
+ ees are invited to digest the seminar with a complimentary dinner with the
+  speaker in the Theory Center after the seminar.\n\n Meet the SpeakerSimon
+  DeDeo\, Professor\, Carnegie Mellon University\n\nHosted by Rinseo Park (
+ Nilan Ram Lab)\n\nSpeaker Website
+END:VEVENT
+END:VCALENDAR

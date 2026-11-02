@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53286213436273@didiowen
+DTSTAMP:20260628T204045Z
+DTSTART:20261116T191500Z
+DTEND:20261116T201500Z
+SUMMARY:[現場] November Museum Minis: Storytime at the Anderson
+LOCATION:Anderson Collection\, The Denning Family Resource Center 
+URL:https://events.stanford.edu/event/November-museum-minis-storytime-at-th
+ e-anderson
+DESCRIPTION:https://events.stanford.edu/event/November-museum-minis-storyti
+ me-at-the-anderson\n\nMuseum Minis is a welcoming monthly storytime at the
+  Anderson Collection for children ages 0–5 and their caregivers. Each se
+ ssion features two engaging\, age-appropriate books inspired by the essent
+ ial elements of art—line\, color\, shape\, and texture—introducing you
+ ng children to these ideas and connecting them to artworks in the museum
+ ’s collection. Together\, families are invited to look closely\, notice 
+ details\, and experience the museum environment in an accessible\, joyful 
+ way. The Anderson Collection is home to works by artists such as Jackson P
+ ollock\, Mark Rothko\, Joan Mitchell\, and Nick Cave. The morning conclude
+ s with a light snack and time to connect.\n\n \n\nOur storyteller\, Maria\
+ , is a Visitor Experience Assistant and Museum Engagement Guide at the And
+ erson Collection. She brings a deep love of art\, storytelling\, and commu
+ nity to her work\, and believes that every artwork — and every person 
+ — holds a story worth sharing. Outside the museum\, she enjoys prioritiz
+ ing wellness and slowing down with a good cup of tea.\n\nNo RSVP necessary
+ \, walk-ins welcome!
+END:VEVENT
+END:VCALENDAR

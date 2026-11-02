@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54045355707639@didiowen
+DTSTAMP:20261102T042416Z
+DTSTART:20261109T030000Z
+DTEND:20261109T043000Z
+SUMMARY:[現場] Stanford Alumni Recital
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/stanford-alumni-recital-fall26
+DESCRIPTION:https://events.stanford.edu/event/stanford-alumni-recital-fall2
+ 6\n\nJoin us for a special evening of music as we bring together talented 
+ alumni from Stanford’s community from across the years\, showcasing a di
+ verse selection of solo and chamber music. This event offers an opportunit
+ y to experience the artistry of Stanford Alumni\, a chance to reconnect wi
+ th musicians and friends\, and celebrate the enduring bond we share throug
+ h music.\n\nStanford Music Alumni who would like to be notified of perform
+ ance opportunities can sign up for our mailing list here.\n\nAdmission Inf
+ ormation\n\nFree admission
+END:VEVENT
+END:VCALENDAR

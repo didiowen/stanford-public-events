@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53992966927385@didiowen
+DTSTAMP:20261007T173850Z
+DTSTART:20261209T200000Z
+DTEND:20261209T210000Z
+SUMMARY:[混合] Improbable Research and the Ig Nobel Prizes
+LOCATION:Li Ka Shing Center\, Berg Hall
+URL:https://events.stanford.edu/event/medicine-grand-rounds-with-marc-abrah
+ ams
+DESCRIPTION:https://events.stanford.edu/event/medicine-grand-rounds-with-ma
+ rc-abrahams\n線上資訊:\nAccess dial in details at https://medicine.st
+ anford.edu/education/grand-rounds.html\n\nStanford Department of Medicine 
+ would like to invite all Stanford community members to attend this instanc
+ e of the Medicine Grand Rounds (MGR) series\, which will feature Marc Abra
+ hams\, the founder of the Ig Nobel Prize\, awarded annually to research th
+ at "first makes you laugh\, then makes you think\," and the editor of Anna
+ ls of Improbable Research\, whose career is dedicated to celebrating scien
+ ce at its most surprising and delightfully absurd.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53995111265657@didiowen
+DTSTAMP:20260917T031824Z
+DTSTART:20270211T023000Z
+DTEND:20270211T040000Z
+SUMMARY:[現場] Stegner Fellow Reading with Priscilla Wathington and Jonat
+ hon Atkinson
+LOCATION:Building 460\, Margaret Jacks Hall\, Terrace Room (Room 426)
+URL:https://events.stanford.edu/event/copy-of-stegner-fellow-reading-with-c
+ heyenne-fletcher-and-yi-jiang
+DESCRIPTION:https://events.stanford.edu/event/copy-of-stegner-fellow-readin
+ g-with-cheyenne-fletcher-and-yi-jiang\n報名/票券: https://docs.google.
+ com/forms/d/e/1FAIpQLSc9BSvBZUtnyfX6KWy8eXLgjupKcZOMXbi9Hd7K0Omw3iJLBQ/vie
+ wform?usp=dialog\n\nThe Creative Writing Program is pleased to announce a 
+ reading with Stegner Fellows in Poetry and Fiction: Priscilla Wathington a
+ nd Jonathon Atkinson. \n\nThis event is open to Stanford affiliates and th
+ e general public. Registration is encouraged but not required. Register he
+ re\n\n____\n\nPriscilla Wathington is a Palestinian American poet and the 
+ author of the chapbook\, "Paper and Stick". Her poems have appeared in The
+  Adroit Journal\, Four Way Review\, Prairie Schooner\, Michigan Quarterly 
+ Review\, and elsewhere. She was named a Djanikian Scholar in 2026 and a Ti
+ n House Scholar in 2025\, and has previously served as a Sam Mazza Writer 
+ in Residence at San Francisco State University’s Poetry Center. Wathingt
+ on is a Senior Poetry Editor at Harbor Review and holds an MFA from Warren
+  Wilson College.\n\nJonathon Atkinson is a writer from Northern California
+ . His work has appeared in n+1\, New Ohio Review\, and Water~Stone Review.
+  He holds an MFA from the University of Minnesota\, Twin Cities\, teaches 
+ in the Language and Thinking Program at Bard College\, and mentors with th
+ e Minnesota Prison Writing Workshop.
+END:VEVENT
+END:VCALENDAR

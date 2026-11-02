@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53728988215459@didiowen
+DTSTAMP:20260817T212426Z
+DTSTART:20270309T150000Z
+DTEND:20270309T160000Z
+SUMMARY:[混合] ACS Grand Rounds
+LOCATION:Li Ka Shing Center\, LK130
+URL:https://events.stanford.edu/event/acs-grand-rounds
+DESCRIPTION:https://events.stanford.edu/event/acs-grand-rounds\n\nThe Divis
+ ion of General Surgery's Acute Care Surgery Section invited Dr. Paula Ferr
+ ada to present at Grand Rounds. She is Chair of the Department of Surgery 
+ at Inova Fairfax Medical Campus\, Division and System Chief of Trauma and 
+ Acute Care Surgery for the Inova Health System\, and Medical Director of P
+ erioperative Services for Inova. She is also Professor of Medical Educatio
+ n at the University of Virginia.
+END:VEVENT
+END:VCALENDAR

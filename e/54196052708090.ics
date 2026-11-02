@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54196052708090@didiowen
+DTSTAMP:20261009T165341Z
+DTSTART:20261204T183000Z
+DTEND:20261204T200000Z
+SUMMARY:[現場] Race and Gender in the Global Hispanophone:  Graduate stud
+ ents Ethan Hill and Rebeca Oliva Peralta
+LOCATION:Building 260\, Pigott Hall\, TBD
+URL:https://events.stanford.edu/event/race-and-gender-in-the-global-hispano
+ phone-9746
+DESCRIPTION:https://events.stanford.edu/event/race-and-gender-in-the-global
+ -hispanophone-9746\n\nThe Race and Gender in the Global Hispanophone (RGGH
+ ) Research Group serves as a dynamic platform within the DLCL to foster cr
+ itical dialogue within emerging scholarship on Ibero-American cultures\, w
+ ith a dedicated focus on race and gender. \n\nJoin us as we embark on this
+  journey of scholarly exploration through identity\, insurgency\, and repr
+ esentation in the Spanish-speaking world!
+END:VEVENT
+END:VCALENDAR

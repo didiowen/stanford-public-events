@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53809587119189@didiowen
+DTSTAMP:20261102T120340Z
+DTSTART:20261111T200000Z
+DTEND:20261111T210000Z
+SUMMARY:[混合] Medicine Grand Rounds with Bryant Lin\, MD
+LOCATION:Li Ka Shing Center\, Berg Hall
+URL:https://events.stanford.edu/event/medicine-grand-rounds-with-bryant-lin
+ -md
+DESCRIPTION:https://events.stanford.edu/event/medicine-grand-rounds-with-br
+ yant-lin-md\n線上資訊:\nAccess dial in details at https://medicine.st
+ anford.edu/education/grand-rounds.html\n\nStanford Department of Medicine 
+ would like to invite all Stanford community members to attend this instanc
+ e of the Medicine Grand Rounds (MGR) series\, which will feature Bryant Li
+ n\, MD\, a Stanford primary care physician and MIT-trained engineer who co
+ -founded the Center for Asian Health Research and Education\, directs Stan
+ ford's Medical Humanities and Arts program\, and teaches a course on what 
+ generative AI should and shouldn't replace in medicine.
+END:VEVENT
+END:VCALENDAR

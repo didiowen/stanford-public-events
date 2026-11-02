@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54003423347666@didiowen
+DTSTAMP:20261006T162107Z
+DTSTART:20261115T040000Z
+DTEND:20261115T053000Z
+SUMMARY:[混合] Stanford Chamber Chorale: Echoes
+LOCATION:Memorial Church
+URL:https://events.stanford.edu/event/chamber-chorale-fall26
+DESCRIPTION:https://events.stanford.edu/event/chamber-chorale-fall26\n線
+ 上連結: https://music.stanford.edu/chamber_chorale_live\n報名/票券:
+  https://live.stanford.edu/s/event?EventID=49001\n\nExperience not only th
+ e enveloping aural phenomenon of echoes in Stanford’s stunning Memorial 
+ Church\, but the memories evoked by the poetry and musical organization of
+  sound in a broad panoply of choral repertoire from Chant through newly-co
+ mposed works. Join us for an evening of Chant\, Palestrina\, Garrett\, Ket
+ ting\, Schmidt\, Tuan\, Walker\, Marsh\, and others.\n\nAdmission Informat
+ ion\n\nGeneral – $32 | Seniors (65+) and Non-Stanford Students – $27\n
+ Price shown reflects total cost including $4 online/phone per-ticket fee.F
+ REE admission for Stanford University students. One ticket per ID\, availa
+ ble beginning one hour prior to curtain at the venue.This event will be li
+ vestreamed.
+END:VEVENT
+END:VCALENDAR

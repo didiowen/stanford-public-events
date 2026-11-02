@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54170450699649@didiowen
+DTSTAMP:20261102T202429Z
+DTSTART:20261106T170000Z
+DTEND:20261107T003000Z
+SUMMARY:[現場] Big Tech\, Democracy\, and Human Rights
+LOCATION:Alumni Center\, Fisher Conference Room ( Barnes/McDowell/Cranston)
+URL:https://events.stanford.edu/event/big-tech-democracy-and-human-rights
+DESCRIPTION:https://events.stanford.edu/event/big-tech-democracy-and-human-
+ rights\n報名/票券: https://forms.gle/uGhKMyy1MWLvuJqu9\n\nThis confere
+ nce is hosted by the Center for South Asia (Stanford Global Studies)\, wit
+ h the Center for the Study of Organized Hate (CSOH)\, We Are Noor\, and DR
+ F USA.\n\nAbout the conference\nA handful of technology companies now shap
+ e how billions of people communicate and take part in public life\, and mo
+ st of those people live in the Global Majority: Africa\, Latin America\, t
+ he Caribbean\, and parts of Asia and Oceania. The day asks why rights and 
+ safety protections stop at the borders of a few rich countries\, and what 
+ it would take for them to reach the people who need them most. Three panel
+ s and four conversations move from ideology (the tech right)\, to geopolit
+ ics (AI governance)\, to remedies (online harms and accountability)\, to t
+ he labor and money that sustain counter-power.\n\nPanels and Firesides\nPa
+ nel 1: The Tech Right and the Global Majority : Ideology\, Design\, and th
+ e Politics of Inevitability\nFireside: What Silicon Valley's Authoritarian
+  Embrace Means for the Global Majority\nPanel 2: AI Governance and the Geo
+ politics of Emerging Technology\nPanel 3: Online Harms and Accountability:
+  Why protection Stops at the Borders\nFireside: Who Pays for Accountabilit
+ y? Funding Digital Rights After the Cuts\n\nMore details about the Big Tec
+ h\, Democracy\, and Human Rights Conference can be found here.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54031148397687@didiowen
+DTSTAMP:20260929T222523Z
+DTSTART:20261118T030000Z
+DTEND:20261118T043000Z
+SUMMARY:[混合] Another Look presents Tobias Wolff's "Old School"
+LOCATION:Stanford Humanities Center\, Levinthal Hall
+URL:https://events.stanford.edu/event/another-look-presents-tobias-wolffs-o
+ ld-school
+DESCRIPTION:https://events.stanford.edu/event/another-look-presents-tobias-
+ wolffs-old-school\n報名/票券: https://stanford.zoom.us/webinar/registe
+ r/WN_wSuJ-_3QTWGKLDxM6yKFtA\n\nPlease join us at 7 p.m. (PST) on Tuesday\,
+  November 17\, as we launch our fifteenth season of the Another Look book 
+ club.\n\nOur discussion will feature Stanford Prof. Tobias Wolff’s novel
+  Old School\, published in 2003. The renowned author is a master of the sh
+ ort story and the memoir\, and a celebrated teacher of creative writing. T
+ his is his first full-length novel. Our event will also be a celebration o
+ f Toby\, the National Medal of Arts winning author who has contributed so 
+ much to Stanford and its English/Creative Writing programs over the years.
+  For many of us\, he has been a wise teacher and friend as well. \n\nThe h
+ ybrid event will take place in Stanford’s Levinthal Hall\, at the Stanfo
+ rd Humanities Center at 424 Santa Teresa Street on the Stanford campus. Pa
+ nelists to be announced soon.\n\nAs always\, the event is free and open to
+  the public. Walk-ins are welcome but registration is encouraged.Go here t
+ o register.\n\nhttps://stanford.zoom.us/webinar/register/WN_wSuJ-_3QTWGKLD
+ xM6yKFtA#/registration
+END:VEVENT
+END:VCALENDAR

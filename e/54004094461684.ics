@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54004094461684@didiowen
+DTSTAMP:20260918T022649Z
+DTSTART:20261119T200000Z
+DTEND:20261119T211500Z
+SUMMARY:[線上] Alain Schläpfer — Why Do Voters Elect Authoritarians? H
+ ow Scandal Signals Independence from Elites
+LOCATION:https://stanford.zoom.us/j/97375161734?pwd=x4DaCfRGRry3yOGjLfhQbWT
+ pXWrc2R.1
+URL:https://events.stanford.edu/event/alain-schlapfer-why-do-voters-elect-a
+ uthoritarians-how-scandal-signals-independence-from-elites
+DESCRIPTION:https://events.stanford.edu/event/alain-schlapfer-why-do-voters
+ -elect-authoritarians-how-scandal-signals-independence-from-elites\n線上
+ 連結: https://stanford.zoom.us/j/97375161734?pwd=x4DaCfRGRry3yOGjLfhQbWT
+ pXWrc2R.1\n\nPoliticians who openly display anti-democratic traits can att
+ ract substantial electoral support\, even among voters who value democracy
+ . This paper argues that the very behavior that makes a politician objecti
+ onable can also reassure voters that the politician will remain independen
+ t of political elites. Voters whose preferred policies lie far from elite 
+ interests worry that the candidates they elect will be captured by elites 
+ once in office. Because capturing a politician mired in scandal is costly 
+ for elites\, scandalous behavior can credibly signal that a candidate is b
+ eyond elite reach. Where elites are democratically committed\, displays of
+  anti-democratic intent become an efficient way to generate such a scandal
+ . Voters may elect these candidates even though they are more likely to ma
+ nipulate elections once in office\, an outcome costly for voters and elite
+ s alike. Elites who can perfectly anticipate which politicians will subver
+ t elections have no credible way to communicate this to voters. A reanalys
+ is of existing experimental data is consistent with the model's central pr
+ ediction. Unlike existing accounts of anti-democratic voting\, this theory
+  explains why citizens who value democracy may still elect an anti-democra
+ tic candidate\, even when a democratically committed candidate offers the 
+ same policy platform.\n\nABOUT THE SPEAKER\n\nAlain Schläpfer is a social
+  science research scholar at Stanford University’s Center on Democracy\,
+  Development and the Rule of Law (CDDRL)\, and a
+END:VEVENT
+END:VCALENDAR

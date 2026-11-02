@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54116892109243@didiowen
+DTSTAMP:20260930T175505Z
+DTSTART:20261206T033000Z
+DTEND:20261206T050000Z
+SUMMARY:[現場] Undergraduate Composers Reading Concert
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/undergrad-composers-concert-fall26-2
+DESCRIPTION:https://events.stanford.edu/event/undergrad-composers-concert-f
+ all26-2\n\nJoin us for a special reading concert featuring new works by St
+ anford Undergraduate Composers performed by talented guest artists.\n\nAdm
+ ission Information\n\nFree admission
+END:VEVENT
+END:VCALENDAR

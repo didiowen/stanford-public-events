@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53861067888210@didiowen
+DTSTAMP:20261102T120537Z
+DTSTART:20261104T200000Z
+DTEND:20261104T211500Z
+SUMMARY:[混合] HAI Seminar with Marcos Santiago Rojas Pino & Thomas Carus
+ o
+LOCATION:Gates Computer Science Building\, 119
+URL:https://events.stanford.edu/event/hai-seminar-with-marcos-santiago-roja
+ s-pino-thomas-caruso
+DESCRIPTION:https://events.stanford.edu/event/hai-seminar-with-marcos-santi
+ ago-rojas-pino-thomas-caruso\n線上連結: https://stanford.zoom.us/webin
+ ar/register/WN_t0MhcVbrT1SZSPDHBHBw5g#/registration\n報名/票券: https:
+ //hai.stanford.edu/events/marcos-santiago-rojas-pino-thomas-caruso-buildin
+ g-an-international-ai-platform-for-health-professions-education-and-the-le
+ arning-sciences\n\nClinical Mind AI: Building an International AI Platform
+  for Health Professions Education and the Learning Sciences\n\nHAI Seminar
+  with Marcos Santiago Rojas Pino and Thomas Caruso\n\nVisit our website to
+  learn more about the event agenda\, speakers\, and other details\n\nClini
+ cal Mind AI is a Stanford-developed\, international collaborative platform
+  designed to strengthen clinical reasoning education through AI-simulated 
+ patient encounters across health professions. The platform enables educato
+ rs to create clinical cases aligned with their local curricula\, learning 
+ goals\, languages\, and assessment needs\, while giving learners repeated 
+ opportunities to practice open-ended history-taking\, diagnostic reasoning
+ \, and communication. The seminar will present the motivation for Clinical
+  Mind AI\, its design principles\, and how the platform is being used by e
+ ducators and institutions across countries to support scalable\, instructo
+ r-centered clinical simulation.\n\nThe talk will also discuss Clinical Min
+ d AI as a research infrastructure for studying learning in clinical reason
+ ing tasks. We will describe how learner interactions with AI-simulated pat
+ ients can generate interpretable evidence about reasoning processes\, incl
+ uding how students gather information\, update hypotheses\, document findi
+ ngs\, and respond to feedback. The seminar will focus on broader questions
+  at the intersection of AI\, medical education\, and learning science: how
+  to build AI systems that preserve instructor agency\, support mul
+END:VEVENT
+END:VCALENDAR

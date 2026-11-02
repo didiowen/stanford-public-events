@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54161263754671@didiowen
+DTSTAMP:20261005T181541Z
+DTSTART:20261113T000000Z
+DTEND:20261113T023000Z
+SUMMARY:[現場] Delivering Humanitarian Aid in a Contested World
+LOCATION:Encina Hall\, Bechtel Conference Center
+URL:https://events.stanford.edu/event/delivering-humanitarian-aid-in-a-cont
+ ested-world
+DESCRIPTION:https://events.stanford.edu/event/delivering-humanitarian-aid-i
+ n-a-contested-world\n報名/票券: https://app.smartsheet.com/b/form/01a0
+ 872afab87e4fb63479be86ac5f29\n\nJoin us for a two-part panel discussion wi
+ th IsraAID and partners exploring the future of humanitarian assistance in
+  an increasingly contested and conflict-ridden world. The first panel will
+  examine how aid organizations deliver relief when access\, neutrality\, a
+ nd safety are absent or precarious\, drawing on IsraAID's experience respo
+ nding to crises across the globe. The second panel will turn to the Middle
+  East\, focusing on the promise and practical challenges of Arab-Israeli c
+ ooperation in delivering humanitarian assistance to communities in need ar
+ ound the region.\n\nAGENDA\n3:30 - 4:00 PM: GATHERING AND REGISTRATION\n\n
+ 4:00 - 4:10 PM: INTRODUCTION\n\nSpeaker: Larry Diamond (Mosbacher Senior F
+ ellow in Global Democracy\, Freeman Spogli Institute for International Stu
+ dies\, Stanford University)\n\n4:10 - 4:50 PM: PANEL ONE — Delivering Hu
+ manitarian Assistance in 2026: Challenges and Opportunities\n\nSonali Kord
+ e (Senior Advisor\, All Hands and Hearts)Raphael Marcus (Deputy CEO\, Isra
+ AID)Moderator: David Cornfield (Anne T. and Robert M. Bass Professor of Pe
+ diatric Pulmonary Medicine\, Stanford University)\n\n4:55 - 6:00 PM: PANEL
+  TWO — Lessons from the Middle East: Arab-Israeli Cooperation in Humanit
+ arian Aid\n\nDr. Yaroup Ajlouni (President\, Jordan Health Aid Society Int
+ ernational)Diana Shehade-Nama (Director of Fundraising\, Marketing and Com
+ munications\, Rozana–Health Diplomacy)Yotam Polizer (Global CEO\, IsraAI
+ D)Dr. Khaula Sawah (President\, Union of Medical Care and Relief Organizat
+ ions-USA)Mode
+END:VEVENT
+END:VCALENDAR

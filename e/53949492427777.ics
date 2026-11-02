@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53949492427777@didiowen
+DTSTAMP:20260915T225812Z
+DTSTART:20261203T003000Z
+DTEND:20261203T013000Z
+SUMMARY:[現場] Book Event with Roland Betancourt and T.L. Taylor\, "Disne
+ yland and the Rise of Automation"
+LOCATION:Green Library\, Bing Wing\, 122
+URL:https://events.stanford.edu/event/book-event-with-roland-betancourt-and
+ -tl-taylor-disneyland-and-the-rise-of-automation
+DESCRIPTION:https://events.stanford.edu/event/book-event-with-roland-betanc
+ ourt-and-tl-taylor-disneyland-and-the-rise-of-automation\n報名/票券: h
+ ttps://docs.google.com/forms/d/e/1FAIpQLSdIh4Oe5gc56WhNKyXZ0kvVtQiTgrdns8_
+ WbXFBcnrHAQGhDQ/viewform?usp=publish-editor\n\nPlease join the Silicon Val
+ ley Archives in welcoming Roland Betancourt and T.L. Taylor as they discus
+ s Betancourt's latest book\, Disneyland and Rise of Automation\, on Decemb
+ er 2\, 2026\, at 4:30 p.m. \n\n \n\nDisneyland and the Rise of Automation 
+ argues that theme park rides are factory assembly lines in disguise\, ones
+  that manufacture subjects rather than products. The book traces the techn
+ ological systems that made this possible\, from limit switches and relay r
+ acks to programmable logic controllers and magnetic tape\, revealing how i
+ nnovations developed for wartime manufacturing and Cold War industry found
+  new life in the Happiest Place on Earth. It applies insights from the his
+ tory of technology to problems shared by historians\, media scholars\, and
+  critics of visual culture\, such as the aesthetics of automation and the 
+ politics of labor.\n\n  \n\nRoland Betancourt is a Chancellor’s Professo
+ r at the University of California\, Irvine. He is currently the Andrew W. 
+ Mellon Professor at the Center for Advanced Study in the Visual Arts at th
+ e National Gallery of Art. A 2023 Guggenheim Fellow\, he has published boo
+ ks on Byzantine visual culture\, gender\, and sexuality\, including the pr
+ ize-winning Byzantine Intersectionality (Princeton\, 2020).\n\n \n\nT.L. T
+ aylor is Professor of Comparative Media Studies at MITand affiliate facult
+ y member in Anthropology and Women’s and Gender Studies. She is a qualit
+ ative sociologist who has focused on the interrelations between culture an
+ d technology in online en
+END:VEVENT
+END:VCALENDAR

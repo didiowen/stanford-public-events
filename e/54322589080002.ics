@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54322589080002@didiowen
+DTSTAMP:20261023T235427Z
+DTSTART:20261211T010000Z
+DTEND:20261211T010000Z
+SUMMARY:[線上] Lower-Carb Makeovers: Carb Counting and Smart Swaps
+LOCATION:https://healthlibrary.stanford.edu/lectures-events.html#carb-count
+ ing
+URL:https://events.stanford.edu/event/lower-carb-makeovers-carb-counting-an
+ d-smart-swaps
+DESCRIPTION:https://events.stanford.edu/event/lower-carb-makeovers-carb-cou
+ nting-and-smart-swaps\n線上連結: https://healthlibrary.stanford.edu/le
+ ctures-events.html#carb-counting\n報名/票券: https://healthlibrary.sta
+ nford.edu/lectures-events.html#carb-counting\n\nJessica Shipley\, MS\, RD\
+ , CDCES\, presents a practical session on reducing dietary carbohydrates t
+ o support glycemic control. Learn carb counting\, portion control\, label 
+ reading\, lower-carb substitutions for common staples\, sample meal ideas\
+ , and strategies to tailor choices to individual needs and preferences.\n\
+ nJessica Shipley\, MS\, RD\, CDCES\, is a registered dietitian and certifi
+ ed diabetes care and education specialist at Stanford Health Care.
+END:VEVENT
+END:VCALENDAR

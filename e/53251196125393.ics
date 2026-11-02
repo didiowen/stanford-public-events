@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53251196125393@didiowen
+DTSTAMP:20261021T221217Z
+DTSTART:20261120T013000Z
+DTEND:20261120T030000Z
+SUMMARY:[現場] Holly Herndon & Mat Dryhurst: Protocol Art
+LOCATION:McMurtry Building\, Oshman Hall
+URL:https://events.stanford.edu/event/studio-lecture-series-holly-herndon-m
+ at-dryhurst
+DESCRIPTION:https://events.stanford.edu/event/studio-lecture-series-holly-h
+ erndon-mat-dryhurst\n報名/票券: https://hollyherndonxmatdryhurst.event
+ brite.com\n\nMade possible by the Millicent Greenwell Clapp Studio Art Ser
+ ies Fund\, this series invites an artist each quarter for a two-day visit 
+ consisting of studio critiques with our MFA students and an evening public
+  lecture. This series continues to provide a dynamic platform for artists 
+ to engage with the Stanford community\, fostering critical dialogue and cr
+ eative exploration.\n\nProtocol Art\n\nIn this lecture\, Herndon and Dryhu
+ rst discuss projects from their expansive practice and their concept of Pr
+ otocol Art\, an approach that treats the creation of and intervention in t
+ he systems\, protocols and rules shaping cultural production as an artisti
+ c medium.\n\nHolly Herndon and Mathew Dryhurst are Berlin-based artists re
+ nowned for their pioneering work in music\, machine learning\, and governa
+ nce. Their practice creates precedent-setting projects where technical sys
+ tems are artworks unto themselves\, operating at the intersection of art\,
+  technology\, and infrastructure — work they describe as Protocol Art: i
+ nterventions at the level of systems and protocols rather than objects\, a
+ rguing for agency at the infrastructure layer.\n\nTogether they run Herndo
+ n Dryhurst Studio\, and have co-produced critically acclaimed albums inclu
+ ding Platform (4AD/RVNG 2015) and PROTO (4AD/2019)\, and developed Holly+\
+ , a protocol for shared ownership and licensing of an artist's identity an
+ d intellectual property.\n\nIn 2022\, they co-founded Spawning\, an organi
+ zation that attempted to build a web-scale data permissions p
+END:VEVENT
+END:VCALENDAR

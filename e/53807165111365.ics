@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53807165111365@didiowen
+DTSTAMP:20260826T192000Z
+DTSTART:20270506T023000Z
+DTEND:20270506T040000Z
+SUMMARY:[現場] Reading with Nana Kwame Adjei-Brenyah\, part of the Lane L
+ ecture Series
+LOCATION:Jen-Hsun Huang Building (School of Engineering)\, Mackenzie Room
+URL:https://events.stanford.edu/event/reading-with-nana-kwame-adjei-brenyah
+ -part-of-the-lane-lecture-series
+DESCRIPTION:https://events.stanford.edu/event/reading-with-nana-kwame-adjei
+ -brenyah-part-of-the-lane-lecture-series\n報名/票券: https://docs.goog
+ le.com/forms/d/e/1FAIpQLSdfHFYVa1SeRTunZJxXJekffE3jcpOOiFAIqmdzJNE-AH2YbQ/
+ viewform?usp=publish-editor\n\nThe Creative Writing Program is pleased to 
+ announce the next event in the Lane Lecture Series: A Reading with Nana Kw
+ ame Adjei-Brenyah.\n\nThis event is open to Stanford affiliates and the ge
+ neral public. Registration is encouraged but not required. Register here\n
+ \n____\n\nNana Kwame Adjei-Brenyah was raised in Spring Valley\, New York\
+ , and now lives in the Bronx. His debut collection\, Friday Black\, was a 
+ New York Times bestseller\, won the PEN/Jean Stein Book Award and the Will
+ iam Saroyan International Prize for Writing\, and was a finalist for the N
+ ational Book Critics Circle’s John Leonard Award and the Dylan Thomas Pr
+ ize. His first novel Chain-Gang All-Stars was a finalist for the National 
+ Book Award for Fiction\, winner of the Inside Literary Prize\, shortlisted
+  for the Waterstones Debut Fiction Prize and the Books Are My Bag Awards\,
+  and selected as a New York Times Top Ten Books of the Year. Adjei-Brenyah
+  is a National Book Foundation’s ‘5 Under 35’ honoree.
+END:VEVENT
+END:VCALENDAR

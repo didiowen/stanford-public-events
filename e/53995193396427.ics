@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53995193396427@didiowen
+DTSTAMP:20260917T031952Z
+DTSTART:20270513T013000Z
+DTEND:20270513T030000Z
+SUMMARY:[現場] Stegner Fellow Reading with J.L. Chen and Heidi Kaloustian
+LOCATION:Stanford ChEM-H Building\, John A. and Cynthia Fry Gunn Rotunda\, 
+ E241
+URL:https://events.stanford.edu/event/copy-of-stegner-fellow-reading-with-d
+ aniel-lurie-and-katerina-ivanov-prado-7530
+DESCRIPTION:https://events.stanford.edu/event/copy-of-stegner-fellow-readin
+ g-with-daniel-lurie-and-katerina-ivanov-prado-7530\n報名/票券: https:/
+ /docs.google.com/forms/d/e/1FAIpQLSe_cyQG7aKsG3uFaiS_fhqIS4Pa3NA3fd58ZEaP4
+ NWJwCRtvw/viewform?usp=header\n\nThe Creative Writing Program is pleased t
+ o announce a reading with Stegner Fellows in Poetry and Fiction: J.L. Chen
+  and Heidi Kaloustian. \n\nThis event is open to Stanford affiliates and t
+ he general public. Registration is encouraged but not required. Register h
+ ere\n\n____\n\nJ.L. Chen was born in Shanghai\, lived in New York for near
+ ly a decade before making her home in Vancouver\, Canada\, where she write
+ s most mornings and dances into the night. Working in both English and Chi
+ nese\, she has published poetry and personal essays in ARC Poetry\, Litera
+ ry Review of Canada\, Tupelo Quarterly\, Northwest Review\, PRISM Internat
+ ional\, Queen's Quarterly\, subTerrain\, and more. A finalist for the 2025
+  Robert and Adele Schiff Award (Cincinnati Review) and longlisted for the 
+ 2025 CBC Poetry Prize\, Chen holds an MFA from the University of King's Co
+ llege and is at work on a poetry manuscript and a memoir. (Instagram @jlch
+ enwrites)\n\nHeidi Kaloustian is a writer from Michigan. She holds an MFA 
+ from the Iowa Writers' Workshop\, where she was the Fiction Editor of the 
+ literary journal The Iowa Review. She has been the recipient of an Avery H
+ opwood Award in Fiction\, a Kresge Fellowship in the Literary Arts\, and a
+  Robert J. Schulze Memorial Fellowship for a first novel. She is currently
+  at work on a novel and a collection of stories.
+END:VEVENT
+END:VCALENDAR

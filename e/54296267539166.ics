@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54296267539166@didiowen
+DTSTAMP:20261021T002430Z
+DTSTART:20261117T180000Z
+DTEND:20261117T193000Z
+SUMMARY:[線上] Using AI to Listen\, Learn\, and Act on Community Feedback
+LOCATION:
+URL:https://events.stanford.edu/event/using-ai-to-listen-learn-and-act-on-c
+ ommunity-feedback
+DESCRIPTION:https://events.stanford.edu/event/using-ai-to-listen-learn-and-
+ act-on-community-feedback\n報名/票券: https://ssir.org/webinars/entry/
+ ai-community-feedback\n\nMeaningful change begins with listening. Evidence
+  shows that when we genuinely understand people’s needs and act on what 
+ we hear\, we make better decisions that lead to better outcomes. So how ca
+ n AI help nonprofits and foundations listen to more people\, synthesize la
+ rge volumes of data\, and respond more effectively? Join SSIR and Feedback
+  Labs for a 90-minute interactive session exploring AI for feedback and li
+ stening at scale. \n\nBuilding on Feedback Labs’ research and experience
+ \, we’ll hear case studies from nonprofits and foundations that are usin
+ g AI to accelerate and scale listening without losing the nuance\, trust\,
+  and human connection that make listening meaningful. Participants will di
+ scuss what’s working\, what’s not\, and what responsible AI-enabled li
+ stening can look like in practice. Whether you’re already experimenting 
+ with AI for listening or just beginning to explore its potential\, you’l
+ l leave with practical ideas and questions to help you determine where AI 
+ can\, and can’t\, strengthen your organization’s feedback and listenin
+ g practices. \n\nJoin this interactive 90-minute program led by Alexis Ban
+ ks\, Director of Learning and Operations at Feedback Labs\, and Annie Grie
+ r\, Director of Community and Equity at Feedback Labs. \n\nYou can expect 
+ to: \n\nWalk away with an understanding of how to think about effective an
+ d responsible AI use in the context of community listening.Learn from peer
+ s who are using AI to accelerate\, scale\, and strengthen their feedback p
+ rocesses.Iden
+END:VEVENT
+END:VCALENDAR

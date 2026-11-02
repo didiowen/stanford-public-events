@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53630642907719@didiowen
+DTSTAMP:20260912T144720Z
+DTSTART:20261120T020000Z
+DTEND:20261120T030000Z
+SUMMARY:[現場] Anatomical Gift Program Donor Memorial Service
+LOCATION:Memorial Church
+URL:https://events.stanford.edu/event/anatomical-gift-program-donor-memoria
+ l-service
+DESCRIPTION:https://events.stanford.edu/event/anatomical-gift-program-donor
+ -memorial-service\n報名/票券: https://stanforduniversity.qualtrics.com
+ /jfe/form/SV_4Zxiwd4itU47Szc\n\nWe wish to express our deep appreciation f
+ or the invaluable contributions each donor has made to our program at Stan
+ ford University. Their generosity has left an indelible mark\, touching th
+ e lives of countless individuals\, and we come together annually to honor 
+ this profound impact through a special memorial service.\n\nIt is with utm
+ ost sincerity that we extend a heartfelt invitation to the families of tho
+ se donors who entrusted their loved ones to our care between November 2025
+  and November 2026 to join us for this significant occasion. We recognize 
+ the profound significance of this occasion and warmly welcome you to join 
+ us as we gather to honor and cherish the memory of the remarkable individu
+ als who have contributed to our program through their selfless gift.\n\nAd
+ ditional information regarding logistics and the event's specific details 
+ will be communicated to you at a later date. For those unable to attend in
+  person\, a recording of the service will be made available for viewing fo
+ llowing the event. \n\n \n\nThis event will begin at 6pm and doors will op
+ en at 5:30pm.
+END:VEVENT
+END:VCALENDAR

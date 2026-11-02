@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54358002386237@didiowen
+DTSTAMP:20261027T235436Z
+DTSTART:20270617T160000Z
+DTEND:20270617T170000Z
+SUMMARY:[線上] Roundtable: Deep Dive into Visiting & Short-Term Faculty T
+ itles
+LOCATION:
+URL:https://events.stanford.edu/event/roundtable-deep-dive-into-visiting-sh
+ ort-term-faculty-titles
+DESCRIPTION:https://events.stanford.edu/event/roundtable-deep-dive-into-vis
+ iting-short-term-faculty-titles\n\nRoundtable: Deep Dive into Visiting & S
+ hort-Term Faculty Titles
+END:VEVENT
+END:VCALENDAR

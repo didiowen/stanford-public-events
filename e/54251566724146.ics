@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54251566724146@didiowen
+DTSTAMP:20261015T225649Z
+DTSTART:20261114T200000Z
+DTEND:20261114T200000Z
+SUMMARY:[現場] Sunshine - Bryant Lin in conversation with Latha Palaniapp
+ an
+LOCATION:Hoover Pavilion\, Suite 201
+URL:https://events.stanford.edu/event/sunshine-bryant-lin-in-conversation-w
+ ith-latha-palaniappan
+DESCRIPTION:https://events.stanford.edu/event/sunshine-bryant-lin-in-conver
+ sation-with-latha-palaniappan\n報名/票券: https://stanforduniversity.q
+ ualtrics.com/jfe/form/SV_aaa9Vq5s5cyZJ8a\n\nLeading cancer researcher Brya
+ nt Lin\, MD\, distills the lessons for living that he’s learned as a phy
+ sician and as a patient\, after being diagnosed with his own terminal illn
+ ess. He will be joinined by Latha Palaniappan\, MD\, MS\, co-director\, Ce
+ nter for Asian Health and Education at Stanford University. \n\nLight lunc
+ h provided.
+END:VEVENT
+END:VCALENDAR

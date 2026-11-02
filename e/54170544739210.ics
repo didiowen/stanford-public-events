@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54170544739210@didiowen
+DTSTAMP:20261006T192457Z
+DTSTART:20261115T223000Z
+DTEND:20261116T000000Z
+SUMMARY:[現場] The Voice Studio of Kathryne Jennings – Sing On!
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/jennings-voice-studio-fall26
+DESCRIPTION:https://events.stanford.edu/event/jennings-voice-studio-fall26\
+ n\nJoin us for an afternoon of vocal music featuring students from the stu
+ dio of Kathryne Jennings as they present a diverse program spanning classi
+ cal art songs\, operatic arias\, and show-stopping musical theater favorit
+ es.\n\nAdmission Information\n\nFree admission
+END:VEVENT
+END:VCALENDAR

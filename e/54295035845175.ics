@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54295035845175@didiowen
+DTSTAMP:20261020T224757Z
+DTSTART:20270121T003000Z
+DTEND:20270121T020000Z
+SUMMARY:[現場] Slavic Colloquium - Sergei Chapnin: A Language No One Spea
+ ks: Church Slavonic between Liturgy\, Identity\, and Ideology
+LOCATION:Building 260\, Pigott Hall\, Rm. 216
+URL:https://events.stanford.edu/event/slavic-colloquium-sergei-chapnin-a-la
+ nguage-no-one-speaks-church-slavonic-between-liturgy-identity-and-ideology
+DESCRIPTION:https://events.stanford.edu/event/slavic-colloquium-sergei-chap
+ nin-a-language-no-one-speaks-church-slavonic-between-liturgy-identity-and-
+ ideology\n\nPlease join the next Slavic Colloquium event. Sergei Chapnin (
+ Fordham University) will present a talk titled "A Language No One Speaks: 
+ Church Slavonic between Liturgy\, Identity\, and Ideology." \n\nMore detai
+ ls to follow.
+END:VEVENT
+END:VCALENDAR

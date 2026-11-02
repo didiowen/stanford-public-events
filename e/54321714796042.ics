@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54321714796042@didiowen
+DTSTAMP:20261102T205428Z
+DTSTART:20261104T200000Z
+DTEND:20261104T210000Z
+SUMMARY:[混合] Lunch Club Series | Navigating Heritage: Chinook Art and P
+ ublic History Along the Columbia River
+LOCATION:Building 500\, Archaeology Center\, 106
+URL:https://events.stanford.edu/event/lunch-club-series-3721
+DESCRIPTION:https://events.stanford.edu/event/lunch-club-series-3721\n線
+ 上連結: https://stanford.zoom.us/webinar/register/WN_-XB5tRt_TACr_ppYR5
+ oBvQ\n\nLunch Club provides affiliates of the Stanford Archaeology Center 
+ with a community-oriented forum for engagement with current issues in arch
+ aeology. On Nov 4\, 2026\, we will host Dr.Jon Daehnke from University of 
+ California\, Santa Cruz.\n\nAbstract: \n\nIn this talk I explore the conte
+ sted nature of marking Indigenous history and continued presence/absence i
+ n settler colonial states. Specifically\, I look at monuments\, memorials\
+ , and other sites of public history and heritage along the Columbia River 
+ that offer reminders of Indigenous – and in this case\, specifically Chi
+ nook – occupation of the landscape. In part\, this work addresses the ch
+ allenges that the Chinook Indian Nation faces regarding the public represe
+ ntation of their own history\, especially at “official” sites of herit
+ age. But centrally in the work I explore how the Chinook are responding to
+ \, and actively shaping\, discussions and practice surrounding monuments\,
+  memorials\, and sites of heritage. In part this is through increased part
+ icipation in management of “official” sites of heritage. But it is als
+ o connected to the role that the revitalization of Chinookan art has playe
+ d in reclaiming heritage landscapes\, as well as opportunities for the Chi
+ nook to tell their own stories on their own lands.
+END:VEVENT
+END:VCALENDAR

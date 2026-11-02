@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54311591576467@didiowen
+DTSTAMP:20261022T190131Z
+DTSTART:20261118T201500Z
+DTEND:20261118T220000Z
+SUMMARY:[現場] Truisms\, Fiction and Women Writing: A lunch workshop with
+  author Marie Darrieussecq
+LOCATION:Building 260\, Pigott Hall\, Rm 216
+URL:https://events.stanford.edu/event/truisms-fiction-and-women-writing-a-l
+ unch-workshop-with-author-marie-darrieussecq
+DESCRIPTION:https://events.stanford.edu/event/truisms-fiction-and-women-wri
+ ting-a-lunch-workshop-with-author-marie-darrieussecq\n\nPlease join the De
+ partment of French and Italian for a lunch workshop with author Marie Darr
+ ieussecq.\n\nRSVP for the lunch workshop here.
+END:VEVENT
+END:VCALENDAR

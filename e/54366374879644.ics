@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54366374879644@didiowen
+DTSTAMP:20261028T222447Z
+DTSTART:20261113T003000Z
+DTEND:20261113T023000Z
+SUMMARY:[現場] The Idea that Made U.S.: Dialogues on Freedom: 25 Years Af
+ ter 9/11: The History of Surveillance\, Technology\, and Democracy
+LOCATION:Traitel Building\, Hauck Auditorium
+URL:https://events.stanford.edu/event/the-idea-that-made-us-dialogues-on-fr
+ eedom-25-years-after-911-the-history-of-surveillance-technology-and-democr
+ acy
+DESCRIPTION:https://events.stanford.edu/event/the-idea-that-made-us-dialogu
+ es-on-freedom-25-years-after-911-the-history-of-surveillance-technology-an
+ d-democracy\n報名/票券: https://forms.gle/UpQtqY2hNobxxcxU8\n\nA quart
+ er century after 9/11\, advances in surveillance and technology have trans
+ formed how the United States protects its security\, and raised enduring q
+ uestions about privacy\, government power\, and democratic accountability.
+ \n\nFormer FBI Director Christopher Wray and former Deputy National Securi
+ ty Advisor for Cyber and Emerging Technology Anne Neuberger join Hoover In
+ stitution senior fellow Amy Zegart to examine how the security landscape h
+ as changed since 9/11\, how emerging technologies are reshaping it once ag
+ ain\, and how a free society can navigate the challenges ahead.
+END:VEVENT
+END:VCALENDAR

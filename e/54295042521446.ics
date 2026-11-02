@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54295042521446@didiowen
+DTSTAMP:20261020T230357Z
+DTSTART:20270211T003000Z
+DTEND:20270211T020000Z
+SUMMARY:[現場] Slavic Colloquium - Vadim Shneyder: Marko Vovchok's Storie
+ s of Ukrainian Peasant Life and the Impasses of Realism
+LOCATION:Building 260\, Pigott Hall\, Rm. 216
+URL:https://events.stanford.edu/event/slavic-colloquium-vadim-shneyder-mark
+ o-vovchoks-stories-of-ukrainian-peasant-life-and-the-impasses-of-realism
+DESCRIPTION:https://events.stanford.edu/event/slavic-colloquium-vadim-shney
+ der-marko-vovchoks-stories-of-ukrainian-peasant-life-and-the-impasses-of-r
+ ealism\n\nPlease join the next Slavic Colloquium event. Vadim Shneyder (UC
+ LA) will present a talk titled "Marko Vovchok's Stories of Ukrainian Peasa
+ nt Life and the Impasses of Realism." \n\nMore details to follow.
+END:VEVENT
+END:VCALENDAR

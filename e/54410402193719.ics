@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54410402193719@didiowen
+DTSTAMP:20261102T215436Z
+DTSTART:20261120T200000Z
+DTEND:20261120T210000Z
+SUMMARY:[混合] CSCS William C. Dement Seminar Series: " Cortical inhibito
+ ry circuits regulating brain states and sleep" with Renata Batista-Brito\,
+  Ph.D.
+LOCATION:Li Ka Shing Center\, Room LK120
+URL:https://events.stanford.edu/event/cscs-william-c-dement-seminar-series-
+ cortical-inhibitory-circuits-regulating-brain-states-and-sleep-with-renata
+ -batista-brito-phd
+DESCRIPTION:https://events.stanford.edu/event/cscs-william-c-dement-seminar
+ -series-cortical-inhibitory-circuits-regulating-brain-states-and-sleep-wit
+ h-renata-batista-brito-phd\n線上資訊:\nZoom link: https://stanford.zo
+ om.us/j/99004753637?pwd=RWVUem1FbTNneFhlVFF1Z0l6Mi90UT09\n\nPlease join us
+  for this month's Center for Sleep and Circadian Sciences William C. Demen
+ t Seminar Series:\n\n"Cortical inhibitory circuits regulating brain states
+  and sleep"\n\nFriday\, November 20th\, 2026 at 12pm PST\n\nRenata Batista
+ -Brito\, Ph.D.\nAdjunct Associate Professor\, Albert Einstein College of M
+ edicine\n\nLocation: Li Ka Shing Center\, Room LK120 (291 Campus Drive\, S
+ tanford\, CA 94305)\n\nZoom link: https://stanford.zoom.us/j/99004753637?p
+ wd=RWVUem1FbTNneFhlVFF1Z0l6Mi90UT09
+END:VEVENT
+END:VCALENDAR

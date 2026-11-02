@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54124876661625@didiowen
+DTSTAMP:20261001T152436Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:[線上] 2027 Annual Conference in Menopause & Healthy Aging
+LOCATION:
+URL:https://events.stanford.edu/event/2027-annual-conference-in-menopause-h
+ ealthy-aging
+DESCRIPTION:https://events.stanford.edu/event/2027-annual-conference-in-men
+ opause-healthy-aging\n報名/票券: https://stanford.cloud-cme.com/course
+ /courseoverview?P=5&EID=59455\n\nOverviewThis conference will equip you wi
+ th the knowledge and tools to support your patients through the menopause 
+ transition and beyond. You'll learn from experts how to manage symptoms of
+  perimenopause and menopause — hot flashes\, sleep and mood disturbances
+ \, cognitive changes\, sexual dysfunction\, skin and hair issues - plus ho
+ w to address long term priorities like bone health\, heart health\, breast
+  cancer risk and the role of supplements.\n\nRegistrationThe webinar will 
+ be presented live on Pacific Standard Time. All sessions will be recorded 
+ and the recordings will be provided to all registrants to review until Aug
+ ust 31\, 2027\, including those who were not able to attend any of the liv
+ e sessions.\n\nRegistration fee includes course materials\, certificate of
+  participation\, and the webinar recordings. \n\nYou will receive the Zoom
+  information the week before the webinar. If you register within a week of
+  the webinar\, you will receive the Zoom information on Tuesday\, March 9t
+ h. \n\nEarly Bird Rates:\nPhysician - $495\nRN/AHP/Other:  $350\nNurse Pra
+ ctitioner (NP): $350\nNurse Rn/APRN: $350\nPA: $350\nPsychologist: $350\nS
+ ocial Worker: $350\n\nRegistration Rate After 12/10/2026:\nPhysician - $69
+ 5\nRN/AHP/Other:  $450\nNurse Practitioner (NP): $450\nNurse Rn/APRN: $450
+ \nPA: $450\nPsychologist: $450\nSocial Worker: $450\n\nRegistration fees m
+ ay be paid by credit card - Visa\, MasterCard\, or American Express. Your 
+ email address is used for critical information\, including registration co
+ nfirmation\, evaluation
+END:VEVENT
+END:VCALENDAR

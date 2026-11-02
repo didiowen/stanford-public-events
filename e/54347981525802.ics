@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54347981525802@didiowen
+DTSTAMP:20261102T123056Z
+DTSTART:20261106T010000Z
+DTEND:20261106T023000Z
+SUMMARY:[現場] Day of the Dead Celebrations | Lecture by Rubí Tsanda Hue
+ rta
+LOCATION:Native American Cultural Center\, Clubhouse
+URL:https://events.stanford.edu/event/day-of-the-dead-celebrations-day-3
+DESCRIPTION:https://events.stanford.edu/event/day-of-the-dead-celebrations-
+ day-3\n\nDay of the Dead Celebrations | Lecture by Rubí Tsanda Huerta\n\n
+ Rubí is an internationally recognized writer\, poet\, historian\, Indigen
+ ous interpreter\, and emerging actress from the P’urhépecha community o
+ f Santo Tomás in the municipality of Chilchota\, Michoacán. She is the a
+ uthor of three bilingual poetry collections in Spanish and P’urhépecha.
+  Her most recent publication appeared in the anthology La voluntad de la t
+ ierra\, edited by UNAM and the Instituto Cervantes de España.\n\nRubí wi
+ ll be hosted at the Stanford Humanities Center and will lead a series of e
+ vents in the context of the Day of the Dead.\n\nNov 2\, 2pm: What do altar
+ s and dead mean for P’urhépecha communities? Intimate conversation with
+  students and members of the Queer Student Resource Center.\n\nNov 3\, 4-5
+ pm: Conversation and Blessing with El Centro students.\n\nNov 5\, 5–6:30
+  pm: Lecture\, Dead and Life Celebrations in P’urhépecha Communities at
+  the Native American Cultural Center.
+END:VEVENT
+END:VCALENDAR

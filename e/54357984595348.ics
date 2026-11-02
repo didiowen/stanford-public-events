@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54357984595348@didiowen
+DTSTAMP:20261027T235435Z
+DTSTART:20270415T160000Z
+DTEND:20270415T170000Z
+SUMMARY:[線上] Roundtable: MedOnboard / MedACT
+LOCATION:
+URL:https://events.stanford.edu/event/roundtable-medonboard-medact
+DESCRIPTION:https://events.stanford.edu/event/roundtable-medonboard-medact\
+ n\nRoundtable: MedOnboard / MedACT
+END:VEVENT
+END:VCALENDAR

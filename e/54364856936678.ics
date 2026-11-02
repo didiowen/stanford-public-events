@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54364856936678@didiowen
+DTSTAMP:20261028T182435Z
+DTSTART:20261112T200000Z
+DTEND:20261112T210000Z
+SUMMARY:[現場] Stanford Baroque Recital
+LOCATION:Braun Music Center\, Braun Rehearsal Hall
+URL:https://events.stanford.edu/event/stanford-baroque-recital
+DESCRIPTION:https://events.stanford.edu/event/stanford-baroque-recital\n\nS
+ tanford harpsichordists\, recorder players\, and singers will perform baro
+ que music by Handel\, Byrd\, Purcell\, and more.\n\nAdmission Information\
+ n\nFree admission
+END:VEVENT
+END:VCALENDAR

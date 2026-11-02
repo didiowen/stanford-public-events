@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53878610016063@didiowen
+DTSTAMP:20260911T070444Z
+DTSTART:20270312T200000Z
+DTEND:20270312T210000Z
+SUMMARY:[混合] SDRC Friday Seminar 03/12/27
+LOCATION:Beckman Center\, B302
+URL:https://events.stanford.edu/event/sdrc-friday-seminar-031227
+DESCRIPTION:https://events.stanford.edu/event/sdrc-friday-seminar-031227\n
+ 線上資訊:\nZoom link: https://stanford.zoom.us/j/98479731295?pwd=NC9K
+ ZTZkUkZRNEdmRjNyY21qRk50Zz09\nMeeting ID: 98479731295\nPassword: 348339\
+ nIf the above link is not working\, please go to Zoom https://stanford.zo
+ om.us/j/ directly and enter the listed Meeting ID and password.\n\nDessi 
+ Zaharieva\, MsC\, PhD\nInstructor\, Department of Pediatrics\, Stanford Un
+ iversity\n\n"The Exercise and Glucose Challenge in Type 1 Diabetes: Tools 
+ for Safer\, More Confident Movement"
+END:VEVENT
+END:VCALENDAR

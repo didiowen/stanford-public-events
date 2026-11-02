@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54178976599441@didiowen
+DTSTAMP:20261007T180235Z
+DTSTART:20261201T233000Z
+DTEND:20261202T003000Z
+SUMMARY:[現場] Applied Physics/Physics Colloquium: Jo Dunkley - "The Simo
+ ns Observatory"
+LOCATION:Hewlett Teaching Center\, 201
+URL:https://events.stanford.edu/event/applied-physicsphysics-colloquium-jo-
+ dunkley-the-simons-observatory
+DESCRIPTION:https://events.stanford.edu/event/applied-physicsphysics-colloq
+ uium-jo-dunkley-the-simons-observatory\n\nAbstract: The Simons Observatory
+ \, a new millimeter-wave observatory in the Atacama\, is now gathering dat
+ a. With its smaller telescopes we are seeking a primordial signal imprinte
+ d by gravitational waves generated in the early universe. Its largest tele
+ scope is measuring the finer scales of the CMB with increased sensitivity\
+ , probing the initial conditions of the early universe as well as revealin
+ g the later-formed cosmic web of gas and dark matter through the gravitati
+ onal lensing and Sunyaev Zel’dovich effects. It will map half the sky at
+  arcminute resolution\, overlapping with a number of large-scale structure
+  surveys including Rubin. By surveying half the sky every couple of days\,
+  we also hope to see new types of transient astronomical events in millime
+ ter-wavelengths.  I will talk about the current status of SO\, and its sci
+ ence plans.\n\nJo Dunkley is the Joseph Henry Professor of Physics and Ast
+ rophysical Sciences at Princeton University. She works on the analysis and
+  interpretation of cosmological observations. She is currently the Spokesp
+ erson for the Simons Observatory collaboration. Previously she was a membe
+ r of NASA's WMAP science team and a scientist on the European Space Agency
+ ’s Planck satellite project\, and was the analysis leader for the Atacam
+ a Cosmology Telescope. She is a Fellow of the Royal Society.
+END:VEVENT
+END:VCALENDAR

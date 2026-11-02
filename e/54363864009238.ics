@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54363864009238@didiowen
+DTSTAMP:20261028T155432Z
+DTSTART:20270917T160000Z
+DTEND:20270917T170000Z
+SUMMARY:[線上] Roundtable: Faculty Professional Development Overview
+LOCATION:
+URL:https://events.stanford.edu/event/roundtable-faculty-professional-devel
+ opment-overview
+DESCRIPTION:https://events.stanford.edu/event/roundtable-faculty-profession
+ al-development-overview\n\nRoundtable: Faculty Professional Development Ov
+ erview
+END:VEVENT
+END:VCALENDAR

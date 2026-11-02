@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53806989976897@didiowen
+DTSTAMP:20261020T200849Z
+DTSTART:20261119T033000Z
+DTEND:20261119T050000Z
+SUMMARY:[現場] Reading with Martín Espada\, part of the Lane Lecture Ser
+ ies
+LOCATION:Faculty Club\, Cedar Room
+URL:https://events.stanford.edu/event/reading-with-martin-espada-part-of-th
+ e-lane-lecture-series
+DESCRIPTION:https://events.stanford.edu/event/reading-with-martin-espada-pa
+ rt-of-the-lane-lecture-series\n報名/票券: https://docs.google.com/form
+ s/d/e/1FAIpQLSdXNxJuw6WV94SSSMdM-SyQKPP_PdAHa8r4TTGcTvfa7Aw54w/viewform?us
+ p=header\n\nThe Creative Writing Program is pleased to announce the next e
+ vent in the Lane Lecture Series: A Reading with Martín Espada.\n\nThis ev
+ ent is open to Stanford affiliates and the general public. Registration is
+  encouraged but not required. Register here\n\n____\n\nMartín Espada has 
+ published more than twenty books as a poet\, editor\, essayist\, and trans
+ lator. His latest book of poems is called Jailbreak of Sparrows (2025). Hi
+ s previous book\, Floaters\, won the National Book Award for Poetry in 202
+ 1. He is the editor of What Saves Us: Poems of Empathy and Outrage in the 
+ Age of Trump (2019). Espada has received the Ruth Lilly Poetry Prize\, the
+  Shelley Memorial Award\, the PEN/Revson Fellowship\, a Letras Boricuas Fe
+ llowship\, and a Guggenheim Fellowship. His book of essays and poems\, Zap
+ ata’s Disciple (1998)\, was banned in Tucson as part of the Mexican-Amer
+ ican Studies Program outlawed by the state of Arizona. A former tenant law
+ yer in Greater Boston\, Espada is a professor of English at the University
+  of Massachusetts-Amherst.
+END:VEVENT
+END:VCALENDAR

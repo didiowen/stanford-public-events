@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54003301124014@didiowen
+DTSTAMP:20261006T171654Z
+DTSTART:20261114T033000Z
+DTEND:20261114T050000Z
+SUMMARY:[現場] Stanford Symphony Orchestra
+LOCATION:Bing Concert Hall
+URL:https://events.stanford.edu/event/symphony-orchestra-fall26-1
+DESCRIPTION:https://events.stanford.edu/event/symphony-orchestra-fall26-1\n
+ 報名/票券: https://live.stanford.edu/s/event?EventID=48201\n\nThe Stan
+ ford Symphony Orchestra\, conducted by Paul Phillips\, presents their 2026
+  Fall Concert program from the main stage of Bing Concert Hall.\n\nProgram
+ \n\nWang Lu – SurgeCalifornia premiereFranz Liszt – Orpheus (Symphonic
+  Poem No. 4)Sean Tan ‘27\, conductorPaul Phillips – Concordia MundiWor
+ ld premiereGustav Mahler – Symphony No. 1 in D Major\, “Titan”Please
+  join us before the concert for a special onstage Q&A with guest composer 
+ Wang Lu starting at 7:00 PM.\n\nAdmission Information\n\nGeneral – $37 |
+  Seniors (65+) and Non-Stanford Students – $32\nPrice shown reflects tot
+ al cost including $4 online/phone per-ticket fee.FREE admission for Stanfo
+ rd University students. One ticket per ID\, available beginning one hour p
+ rior to curtain at the venue.
+END:VEVENT
+END:VCALENDAR

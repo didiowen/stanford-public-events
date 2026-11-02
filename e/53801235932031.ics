@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53801235932031@didiowen
+DTSTAMP:20261102T120253Z
+DTSTART:20261105T200000Z
+DTEND:20261105T210000Z
+SUMMARY:[現場] Lunchtime Curator Talk | California Current: Art and Histo
+ ries from the Bay Area
+LOCATION:Cantor Arts Center\, Freidenrich Family Gallery (221)
+URL:https://events.stanford.edu/event/lunchtime-curator-talk-california-cur
+ rent-art-and-histories-from-the-bay-area
+DESCRIPTION:https://events.stanford.edu/event/lunchtime-curator-talk-califo
+ rnia-current-art-and-histories-from-the-bay-area\n報名/票券: https://t
+ hethirdplace.is/event/cacurrent1105\n\nJoin Aleesa Pitchamarn Alexander\, 
+ the Robert M. and Ruth L. Halperin Associate Curator of Modern and Contemp
+ orary Art\, on this special tour of California Current: Art and Histories 
+ from the Bay Area.\n\nRSVP here.\n\nHow does a community stay rooted in a 
+ region that’s constantly changing? California Current invites you to con
+ sider this question and others through its more than 60 works — many on 
+ view for the first time — that explore the interplay between Bay Area hi
+ story\, art\, and artists over the past century.\n\nTitled after the major
+  cold-water current that runs the length of the West Coast of North Americ
+ a\, California Current brings together paintings\, sculptures\, works on p
+ aper\, photographs\, and time-based media by Bay Area artists from the twe
+ ntieth century to the present. The exhibition traces a series of interconn
+ ected currents — ecological\, infrastructural\, technological\, personal
+ \, creative\, and political — that have shaped both artistic production 
+ and everyday life in Northern California.\n\nArranged thematically across 
+ time and media\, California Current places historical works in conversatio
+ n with contemporary ones\, emphasizing both continuity and change. Togethe
+ r\, they ask: What has drawn so many people to this region? What has allow
+ ed communities and creative practices to take root here? And what continue
+ s to keep so many of us — despite the Bay Area’s contradictions\, pres
+ sures\, and constant reinvention — deeply connected to this place? Prese
+ nted as part of the Further 
+END:VEVENT
+END:VCALENDAR

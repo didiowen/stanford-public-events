@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54095555997025@didiowen
+DTSTAMP:20260928T075757Z
+DTSTART:20261118T200000Z
+DTEND:20261118T211500Z
+SUMMARY:[現場] CMEMS: Esther von Stosch presents\, "Humans – Plants –
+  Landscapes"
+LOCATION:Building 260\, Pigott Hall\, 252
+URL:https://events.stanford.edu/event/cmems-esther-von-stosch-presents-huma
+ ns-plants-landscapes
+DESCRIPTION:https://events.stanford.edu/event/cmems-esther-von-stosch-prese
+ nts-humans-plants-landscapes\n\nOrganized and hosted by the Center for Med
+ ieval and Early Modern Studies (CMEMS).\n\nEsther von Stosch (German\, Sta
+ nford) presents\, "Humans – Plants – Landscapes: 'Wild' Transgressions
+  in Premodern Literature"\n\n \n\nThe CMEMS Workshop series meets most Wed
+ nesdays during the academic year. Lunch is provided. See the CMEMS website
+  for the list of upcoming speakers.
+END:VEVENT
+END:VCALENDAR

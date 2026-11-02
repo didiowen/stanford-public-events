@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54241029029127@didiowen
+DTSTAMP:20261102T122513Z
+DTSTART:20261105T030000Z
+DTEND:20261105T053000Z
+SUMMARY:[現場] DAAAS Movie Night: The Eyes of Ghana
+LOCATION:Building 80\, Auditorium
+URL:https://events.stanford.edu/event/daaas-movie-night-the-eyes-of-ghana
+DESCRIPTION:https://events.stanford.edu/event/daaas-movie-night-the-eyes-of
+ -ghana\n報名/票券: https://docs.google.com/forms/d/e/1FAIpQLSeD37EFcn2
+ sgzbXUo24K3DRu3uYHObFarnYzt5_peU3SnWyww/viewform?usp=dialog\n\nDear Commun
+ ity\,\n\nPlease join DAAAS Movie Nights for the screening of THE EYES OF G
+ HANA. This is an American documentary feature film directed by Ben Proudfo
+ ot and executive produced by Barack and Michelle Obama\, Higher Ground Med
+ ia. The film follows Chris Hesse\, the personal cameraman to revolutionary
+  leader Kwame Nkrumah\, the first president of Ghana\, who was deposed in 
+ a coup d'état in 1966. Having saved over 1\,000 rolls of film from Nkruma
+ h's enemies who sought to destroy them\, Hesse\, now in his 90's\, passes 
+ them on to a protégé and together they attempt to hold a public screenin
+ g of footage never seen in public before. The film screening will be follo
+ wed by a conversation with one of the film's producers\, Nana Adwoa Frimpo
+ ng facilitated by DAAAS's award-winning Professor Aaron Van Jordan.\n\nAbo
+ ut the Film\n\nKwame Nkrumah was the first president of Ghana and a key fi
+ gure in Africa’s liberation movement. Nkrumah was also a great lover of 
+ cinema and recognised the extraordinary political power of the moving imag
+ e. To this end\, he set up cinemas all around Ghana\, while ensuring that 
+ his every move was documented on film\, courtesy of his personal cinematog
+ rapher Chris Hesse\, who—together with clips from the vast archive he sh
+ ot—forms the vibrant centre of this delightful film. The Eyes of Ghana i
+ s an extraordinary document\, not just of Nkrumah’s life and Ghana’s i
+ ndependence\, but also of a 20th century that is starting to fade from vie
+ w\, even as its events continue to cascade li
+END:VEVENT
+END:VCALENDAR

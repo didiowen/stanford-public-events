@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54251654190408@didiowen
+DTSTAMP:20261102T122615Z
+DTSTART:20261111T200000Z
+DTEND:20261111T210000Z
+SUMMARY:[線上] Mental Health Technology + Innovation Hubinar: Integrating
+  AI into Virtual Reality for Mental Health Care (Panel)
+LOCATION:
+URL:https://events.stanford.edu/event/integrating-ai-virtual-reality-mental
+ -health-care
+DESCRIPTION:https://events.stanford.edu/event/integrating-ai-virtual-realit
+ y-mental-health-care\n報名/票券: https://stanford.zoom.us/webinar/regi
+ ster/WN_Y3GhpEwnSK6pqqjhaTntVA\n\nJoin us on November 11th\, 12-1pm PT for
+  a panel on "Integrating AI into Virtual Reality for Mental Health Care".\
+ n\nVirtual and augmented reality are increasingly being used to deliver ex
+ posure-based treatments for anxiety related disorders\, trauma\, addiction
+ \, and other mental health conditions. Advances in artificial intelligence
+  are now expanding what these technologies can do\, enabling more interact
+ ive\, adaptive\, and personalized therapeutic experiences. In this panel\,
+  experts spanning clinical research and digital health will explore the ev
+ olving role of AI in virtual and augmented reality for mental health care.
+  Panelists will share examples of AI-enabled tools designed to address rea
+ l-world clinical needs\, including interactive virtual characters\, person
+ alized exposure environments\, and systems that can adapt treatment based 
+ on patient response. \n\nThe discussion will examine where AI can meaningf
+ ully enhance therapeutic XR\, what aspects of human interaction and real-w
+ orld exposure these technologies are unable to replicate\, and how clinici
+ ans can remain appropriately involved as systems become more adaptive. Pan
+ elists will also consider the guardrails needed for responsible use\, the 
+ potential role of wearable data in personalization\, and the practical cha
+ llenges of moving promising tools from research and development into evide
+ nce-based clinical practice.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54356846744763@didiowen
+DTSTAMP:20261027T202615Z
+DTSTART:20261112T180000Z
+DTEND:20261112T220000Z
+SUMMARY:[現場] World Diabetes Day Wellness Fair
+LOCATION:Bass Promenade South and Spieker Plaza
+URL:https://events.stanford.edu/event/world-diabetes-day-wellness-fair
+DESCRIPTION:https://events.stanford.edu/event/world-diabetes-day-wellness-f
+ air\n\nJoin Stanford Health Care's Diabetes Care Program and the Stanford 
+ Health Library in recognition of World Diabetes Day.\n\nCome explore healt
+ h resources\, interactive demonstrations\, and information on diabetes man
+ agement.\n\nFree screenings: Come by for complimentary blood glucose check
+ s\, blood pressure screenings\, and diabetes risk assessments.\n\nFood and
+  nutrition: Enjoy live food demonstrations\, explore healthy living tips\,
+  and gather nutrition education.\n\nTechnology and research: Discover the 
+ latest diabetes technologies\, research\, and wellness tools.\n\nSupport a
+ nd resources: Connect with experts specializing in medication education\, 
+ mental well-being\, wellness\, advocacy\, health equity\, and prevention.
+END:VEVENT
+END:VCALENDAR

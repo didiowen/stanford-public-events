@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53286228266729@didiowen
+DTSTAMP:20260628T203617Z
+DTSTART:20270119T191500Z
+DTEND:20270119T201500Z
+SUMMARY:[現場] January Museum Minis: Storytime at the Anderson
+LOCATION:Anderson Collection\, The Denning Family Resource Center 
+URL:https://events.stanford.edu/event/January-museum-minis-storytime-at-the
+ -anderson
+DESCRIPTION:https://events.stanford.edu/event/January-museum-minis-storytim
+ e-at-the-anderson\n\nMuseum Minis is a welcoming monthly storytime at the 
+ Anderson Collection for children ages 0–5 and their caregivers. Each ses
+ sion features two engaging\, age-appropriate books inspired by the essenti
+ al elements of art—line\, color\, shape\, and texture—introducing youn
+ g children to these ideas and connecting them to artworks in the museum’
+ s collection. Together\, families are invited to look closely\, notice det
+ ails\, and experience the museum environment in an accessible\, joyful way
+ . The Anderson Collection is home to works by artists such as Jackson Poll
+ ock\, Mark Rothko\, Joan Mitchell\, and Nick Cave. The morning concludes w
+ ith a light snack and time to connect.\n\n \n\nOur storyteller\, Maria\, i
+ s a Visitor Experience Assistant and Museum Engagement Guide at the Anders
+ on Collection. She brings a deep love of art\, storytelling\, and communit
+ y to her work\, and believes that every artwork — and every person — h
+ olds a story worth sharing. Outside the museum\, she enjoys prioritizing w
+ ellness and slowing down with a good cup of tea.\n\nNo RSVP necessary\, wa
+ lk-ins welcome!
+END:VEVENT
+END:VCALENDAR

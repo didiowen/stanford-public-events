@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53728556259619@didiowen
+DTSTAMP:20260817T202426Z
+DTSTART:20261124T150000Z
+DTEND:20261124T160000Z
+SUMMARY:[混合] Professional Development Grand Rounds
+LOCATION:Li Ka Shing Center\, LK130
+URL:https://events.stanford.edu/event/professional-development-grand-rounds
+DESCRIPTION:https://events.stanford.edu/event/professional-development-gran
+ d-rounds\n\nDr. Michael Awad\, Stanford Department of Surgery's new Vice C
+ hair of Education\, presents the annual Professional Development Grand Rou
+ nds.
+END:VEVENT
+END:VCALENDAR

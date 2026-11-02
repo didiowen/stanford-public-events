@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54171062791647@didiowen
+DTSTAMP:20261006T205437Z
+DTSTART:20261116T033000Z
+DTEND:20261116T050000Z
+SUMMARY:[現場] Faculty Recital: Clara Christian\, piano
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/clara-christian-faculty-recital
+DESCRIPTION:https://events.stanford.edu/event/clara-christian-faculty-recit
+ al\n\nClara Christian\, one of our new faculty members in the Department o
+ f Music\, performs a solo piano recital featuring works by Beethoven\, Mes
+ siaen\, Rachmaninoff\, and more.\n\nAdmission Information\n\nFree admissio
+ n
+END:VEVENT
+END:VCALENDAR

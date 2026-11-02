@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54284169883038@didiowen
+DTSTAMP:20261019T153617Z
+DTSTART:20261201T193000Z
+DTEND:20261201T201500Z
+SUMMARY:[線上] Anatomical Gift Program Information Session
+LOCATION:
+URL:https://events.stanford.edu/event/anatomical-gift-program-information-s
+ ession
+DESCRIPTION:https://events.stanford.edu/event/anatomical-gift-program-infor
+ mation-session\n線上資訊:\nhttps://stanford.zoom.us/j/97991341160?pwd=
+ xiklSyOVBeZEYa2uCms1HNM9uGzQTe.1\n報名/票券: https://stanford.zoom.us/
+ meeting/register/3h1K7lHwQOWl7kVj5gh3jQ\n\nJoin the Anatomical Gift Progra
+ m Q&A to learn how anatomical donations advance medical education and surg
+ ical training at Stanford. Program staff will outline step-by-step enrollm
+ ent procedures\, donor eligibility\, consent and documentation required\, 
+ timelines\, and the logistics of donation and aftercare. Attendees are wel
+ come to ask any questions during a facilitated Q&A. \n\nThis session is op
+ en to community members considering anatomical donation\, family members w
+ ho are seeking information for family planning\, or healthcare professiona
+ ls wanting to understand Stanford's processes. Space is limited\; please r
+ egister in advance to secure your place and ensure enough time for questio
+ ns during the presentation.
+END:VEVENT
+END:VCALENDAR

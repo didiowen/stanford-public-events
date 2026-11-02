@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54294878918166@didiowen
+DTSTAMP:20261020T230320Z
+DTSTART:20270304T003000Z
+DTEND:20270304T020000Z
+SUMMARY:[現場] Slavic Colloquium: Julia Verkholantsev: Etymology as Histo
+ rical Knowledge in Medieval and Early Modern Historiography: Why Libuše M
+ arried a Ploughman and Wanda Refused a Foreign King
+LOCATION:Building 260\, Pigott Hall\, Rm. 216
+URL:https://events.stanford.edu/event/slavic-colloquium-julia-verkholantsev
+ -etymology-as-historical-knowledge-in-medieval-and-early-modern-historiogr
+ aphy-why-libuse-married-a-ploughman-and-wanda-refused-a-foreign-king
+DESCRIPTION:https://events.stanford.edu/event/slavic-colloquium-julia-verkh
+ olantsev-etymology-as-historical-knowledge-in-medieval-and-early-modern-hi
+ storiography-why-libuse-married-a-ploughman-and-wanda-refused-a-foreign-ki
+ ng\n\nPlease join the upcoming Slavic Colloquium event. Julia Verkholantse
+ v (University of Pennsylvania) will present a talk titled "Etymology as Hi
+ storical Knowledge in Medieval and Early Modern Historiography: Why Libuš
+ e Married a Ploughman and Wanda Refused a Foreign King."\n\nMore details t
+ o follow.
+END:VEVENT
+END:VCALENDAR

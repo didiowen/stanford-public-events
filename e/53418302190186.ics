@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53418302190186@didiowen
+DTSTAMP:20260713T185438Z
+DTSTART:20261207T163000Z
+DTEND:20261208T013000Z
+SUMMARY:[現場] Global Health Research Methods Workshop
+LOCATION:Stanford Research Park
+URL:https://events.stanford.edu/event/global-health-research-methods-worksh
+ op-2026
+DESCRIPTION:https://events.stanford.edu/event/global-health-research-method
+ s-workshop-2026\n報名/票券: https://docs.google.com/forms/d/e/1FAIpQLS
+ eq6JTQbPFLjaK4MlVNDR1emvOabtonfYKdn0-SFiAe7W8UsA/viewform\n\nThis two day 
+ all-day\, in-person workshop is for Stanford* School of Medicine fellows\,
+  residents\, medical students\, and faculty interested in developing resea
+ rch skills applicable to global health. The workshop provides a basic over
+ view and roadmap to help people interested in conducting global health res
+ earch develop their study question into a concept note that can form the b
+ asis for a study proposal.  The workshop focuses on essential skills to de
+ velop a competitive proposal and budget\, including how to approach global
+  health research opportunities\, how to engage with collaborators\, consid
+ eration of sample size\, and analytical approach.
+END:VEVENT
+END:VCALENDAR

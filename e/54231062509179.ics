@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54231062509179@didiowen
+DTSTAMP:20261013T152453Z
+DTSTART:20261205T033000Z
+DTEND:20261205T050000Z
+SUMMARY:[現場] Ensemble OH?: Here I Love You
+LOCATION:Dinkelspiel Auditorium
+URL:https://events.stanford.edu/event/ensemble-oh-here-i-love-you
+DESCRIPTION:https://events.stanford.edu/event/ensemble-oh-here-i-love-you\n
+ \nEnsemble OH? presents an evening concert in Dinkelspiel Auditorium featu
+ ring musical selections by Maurice Ravel\, George Gershwin\, Phillip Glass
+ \, and more.\n\nAdmission Information\n\nFree admission.
+END:VEVENT
+END:VCALENDAR

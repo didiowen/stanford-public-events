@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54357955121873@didiowen
+DTSTAMP:20261027T233859Z
+DTSTART:20270218T170000Z
+DTEND:20270218T180000Z
+SUMMARY:[線上] Roundtable: Faculty Search Applicant Outreach
+LOCATION:
+URL:https://events.stanford.edu/event/roundtable-faculty-search-applicant-o
+ utreach
+DESCRIPTION:https://events.stanford.edu/event/roundtable-faculty-search-app
+ licant-outreach\n\nRoundtable: Faculty Search Applicant Outreach
+END:VEVENT
+END:VCALENDAR

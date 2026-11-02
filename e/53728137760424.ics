@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53728137760424@didiowen
+DTSTAMP:20261102T115553Z
+DTSTART:20261103T150000Z
+DTEND:20261103T160000Z
+SUMMARY:[混合] General Surgery Alumni Lectureship
+LOCATION:Li Ka Shing Center\, LK130
+URL:https://events.stanford.edu/event/general-surgery-alumni-lectureship-dr
+ -daniela-ladner
+DESCRIPTION:https://events.stanford.edu/event/general-surgery-alumni-lectur
+ eship-dr-daniela-ladner\n\nThe Division of General Surgery Residency Progr
+ am invited Alumna Dr. Daniela Ladner to present their annual Alumni Lectur
+ e.
+END:VEVENT
+END:VCALENDAR

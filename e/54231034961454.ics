@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54231034961454@didiowen
+DTSTAMP:20261013T152450Z
+DTSTART:20261206T223000Z
+DTEND:20261207T000000Z
+SUMMARY:[現場] Annual Azure Family Holiday Concert
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/azure-family-holiday-concert-2026
+DESCRIPTION:https://events.stanford.edu/event/azure-family-holiday-concert-
+ 2026\n\nThe Annual Azure Family Holiday Concert is a free\, friendly and e
+ ngaging performance for families with children and young adults on the Aut
+ ism spectrum. These concerts\, established by Stephen Prutsman who has gon
+ e on to create Azure concert series all over the world\, are approximately
+  one hour in length and family members and caregivers of all ages are welc
+ ome to attend.\n\nAdmission Information\n\nFree admission
+END:VEVENT
+END:VCALENDAR

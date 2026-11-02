@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53552340531136@didiowen
+DTSTAMP:20260731T224113Z
+DTSTART:20270428T000000Z
+DTEND:20270428T020000Z
+SUMMARY:[現場] 7th Annual Marvin A. Karasek Lecture in Dermatology
+LOCATION:Cardinal Hall\, 104/105
+URL:https://events.stanford.edu/event/7th-annual-marvin-a-karasek-lecture-i
+ n-dermatology
+DESCRIPTION:https://events.stanford.edu/event/7th-annual-marvin-a-karasek-l
+ ecture-in-dermatology\n\nMore details to come.
+END:VEVENT
+END:VCALENDAR

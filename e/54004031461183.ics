@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54004031461183@didiowen
+DTSTAMP:20261102T121334Z
+DTSTART:20261105T200000Z
+DTEND:20261105T211500Z
+SUMMARY:[線上] Marcela Ibáñez — Authoritarian Aid and Democratic Atti
+ tudes: Backlash\, Not Diffusion
+LOCATION:https://stanford.zoom.us/j/97375161734?pwd=x4DaCfRGRry3yOGjLfhQbWT
+ pXWrc2R.1
+URL:https://events.stanford.edu/event/marcela-ibanez-cddrl-research-seminar
+DESCRIPTION:https://events.stanford.edu/event/marcela-ibanez-cddrl-research
+ -seminar\n線上連結: https://stanford.zoom.us/j/97375161734?pwd=x4DaCfR
+ GRry3yOGjLfhQbWTpXWrc2R.1\n\nHow does the local presence of an authoritari
+ an power shape citizens' commitment to democracy? Existing theories sugges
+ t engagement with authoritarian states should weaken democratic commitment
+  through norm diffusion\, accommodation\, or authoritarian learning. This 
+ paper challenges that expectation by examining Chinese development finance
+  in Latin America. Using geocoded data\, it estimates the subnational effe
+ ct of exposure to Chinese aid on democratic attitudes. Exposure increases 
+ support for democracy rather than undermining it. The effect is strongest 
+ in authoritarian and weakly democratic settings and absent in consolidated
+  democracies. Exposure does not improve perceptions of China or the United
+  States\, casting doubt on soft power or foreign-comparison explanations. 
+ Instead\, the paper argues that visible Chinese projects make incumbents' 
+ authoritarian character more salient\, triggering an accountability respon
+ se. These findings recast authoritarian external influence as a contingent
+  catalyst for democratic reinforcement.\n\nABOUT THE SPEAKER\n\nMarcela Ib
+ áñez is a Visiting Postdoctoral Fellow at CDDRL and is a Postdoctoral Re
+ searcher at the Chair of Political Economy and Development at the Universi
+ ty of Zurich. She holds a Ph.D. in Political Science from the University o
+ f Mannheim. Her work lies at the intersection of political economy\, devel
+ opment\, and vulnerability reduction. Her research interests include inequ
+ ality in low and middle-income economies\, sustainability and de
+END:VEVENT
+END:VCALENDAR

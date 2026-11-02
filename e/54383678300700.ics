@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54383678300700@didiowen
+DTSTAMP:20261030T212447Z
+DTSTART:20261117T200000Z
+DTEND:20261117T220000Z
+SUMMARY:[現場] Bechtel International Center: Resource Fair
+LOCATION:Bechtel International Center
+URL:https://events.stanford.edu/event/bechtel-international-center-resource
+ -fair
+DESCRIPTION:https://events.stanford.edu/event/bechtel-international-center-
+ resource-fair\n\nJoin us at the Bechtel International Center as we officia
+ lly kick off International Education Week!\n\nCampus partners\, student gr
+ oups\, cultural tables\, and performances will be the highlights with spec
+ ial snacks. Please join us as we celebrate global education and cultural e
+ xchange.
+END:VEVENT
+END:VCALENDAR

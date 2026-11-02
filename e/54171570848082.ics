@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54171570848082@didiowen
+DTSTAMP:20261006T215421Z
+DTSTART:20261205T033000Z
+DTEND:20261205T050000Z
+SUMMARY:[現場] Festival of Lessons & Carols
+LOCATION:Memorial Church
+URL:https://events.stanford.edu/event/lessons-and-carols-1-fall26
+DESCRIPTION:https://events.stanford.edu/event/lessons-and-carols-1-fall26\n
+ \nJoin the Stanford Chamber Chorale and the Stanford Memorial Church Choir
+  for the annual Festival of Lessons and Carols based on the service as ori
+ ginally devised at Truro Cathedral\, Cornwall\, in 1880 and subsequently m
+ ade famous by the services presented at King’s College\, Cambridge. Door
+ s open at 6:30pm.\n\nAdmission Information\n\nFree admission
+END:VEVENT
+END:VCALENDAR

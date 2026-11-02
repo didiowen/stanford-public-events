@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54012791662998@didiowen
+DTSTAMP:20261028T232430Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:[現場] Two Views of the Chinese Coast
+LOCATION:David Rumsey Map Center (Green Library)
+URL:https://events.stanford.edu/event/two-views-of-the-chinese-coast
+DESCRIPTION:https://events.stanford.edu/event/two-views-of-the-chinese-coas
+ t\n報名/票券: https://appointments.library.stanford.edu/event/17680622
+ \n\nJoin us for "Two Views of the Chinese Coast\," a talk by Kären Wigen\
+ , the Frances & Charles Field Professor in Stanford's Department of Histor
+ y\, at the David Rumsey Map Center. When cartographic collections began to
+  appear online in the 1990s\, historians of East Asia were quick to seize 
+ on maps as subjects for research. Over the next thirty years\, a sophistic
+ ated field of critical map studies developed\, illuminating the lively lan
+ dscape of cartographic production across the early modern Sinosphere. Whil
+ e map-focused research made rapid strides\, a gap gradually opened between
+  cartographic research (the history of maps) and what we might call map-in
+ formed history (history with maps). \n\nThis talk attempts to address that
+  gap by investigating two works from Stanford University Libraries’ coll
+ ections: a Qing-era scroll painting of the Pacific coast\, housed in the D
+ avid Rumsey Map Collection\, and a British map of the same shoreline from 
+ 1859\, owned by a private collector and held digitally within the Barry La
+ wrence Ruderman Map Collection. During the 19th century\, both maps served
+  as tools of military planning\; where the Qing scroll was likely consulte
+ d for coastal defense\, the British chart was designed for a naval attack.
+  By putting them in dialogue with each other\, the talk suggests how cross
+ -cultural map comparison can help us tell more complex\, entangled stories
+  about Euro-Asian interaction.\n\nSpeaker Bio\n\nKären Wigen teaches Japa
+ nese history and the history of cartography. A ge
+END:VEVENT
+END:VCALENDAR

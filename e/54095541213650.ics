@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54095541213650@didiowen
+DTSTAMP:20261102T121708Z
+DTSTART:20261111T200000Z
+DTEND:20261111T211500Z
+SUMMARY:[現場] CMEMS: Vera Keller presents "Even better suited for the ar
+ ts and disciplines than one who uses his eyes"
+LOCATION:Building 260\, Pigott Hall\, 252
+URL:https://events.stanford.edu/event/cmems-vera-keller-presents-even-bette
+ r-suited-for-the-arts-and-disciplines-than-one-who-uses-his-eyes
+DESCRIPTION:https://events.stanford.edu/event/cmems-vera-keller-presents-ev
+ en-better-suited-for-the-arts-and-disciplines-than-one-who-uses-his-eyes\n
+ \nOrganized and hosted by the Center for Medieval and Early Modern Studies
+  (CMEMS).\n\nVera Keller (University of Oregon) presents\, "'Even better s
+ uited for the arts and disciplines than one who uses his eyes': The Constr
+ uction of the Blind Scholar in Early Modern Europe"\n\nWith a response fro
+ m Valentina Serio (History\, Stanford). \n\n \n\nThe CMEMS Workshop series
+  meets most Wednesdays during the academic year. Lunch is provided. See th
+ e CMEMS website for the list of upcoming speakers.
+END:VEVENT
+END:VCALENDAR

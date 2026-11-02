@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54047926358295@didiowen
+DTSTAMP:20261001T203932Z
+DTSTART:20261215T000000Z
+DTEND:20261215T013000Z
+SUMMARY:[現場] YoungJu Jo | Data-driven discovery and control of neural c
+ omputations
+LOCATION:Stanford Neurosciences Building\, James Lin and Nisa Leung Seminar
+  Room\, E153
+URL:https://events.stanford.edu/event/cnds-seminar-youngju-jo
+DESCRIPTION:https://events.stanford.edu/event/cnds-seminar-youngju-jo\n\nAb
+ stract\n\nThe brain is a nonlinear dynamical system whose evolving populat
+ ion activity gives rise to computations that guide behavior. We will prese
+ nt a data-driven systems neuroscience framework that integrates large-scal
+ e neurophysiology\, interpretable dynamical systems modeling\, and targete
+ d perturbations in cognitive animal models. This approach has enabled the 
+ discovery of cell-type-specific and brain-wide dynamical structures underl
+ ying reward and memory computations\, including attractor manifolds that i
+ ntegrate past rewards and steer future decision-making. To enable causal t
+ ests and model-guided control of these computations\, we have developed op
+ tical and genetic technologies for cellular-resolution\, bidirectional con
+ trol of neural populations\, along with optimal control approaches for des
+ igning perturbations. Together\, these converging advances set the stage f
+ or a closed-loop strategy to measure\, model\, and control neural dynamics
+  and computations\, toward the long-term vision of writing complex informa
+ tion into the brain.\n\nBio \n\nYoungJu Jo is an Assistant Professor and t
+ he Brody Family Faculty Fellow in the Department of Electrical Engineering
+  and Computer Sciences and the Helen Wills Neuroscience Institute at the U
+ niversity of California\, Berkeley. His laboratory develops and applies ne
+ xt-generation neurotechnologies to measure\, model\, and control neural dy
+ namics and computations in behaving animals. He completed his postdoctoral
+  training in Bioengineering in 2026\, 
+END:VEVENT
+END:VCALENDAR

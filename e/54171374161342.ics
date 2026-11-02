@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54171374161342@didiowen
+DTSTAMP:20261006T212426Z
+DTSTART:20261203T033000Z
+DTEND:20261203T050000Z
+SUMMARY:[現場] Stanford New Ensemble: Wind Power
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/stanford-new-ensemble-fall26
+DESCRIPTION:https://events.stanford.edu/event/stanford-new-ensemble-fall26\
+ n\nThe Stanford New Ensemble\, under the direction of Joo-Mee Lee\, presen
+ ts an evening concert in Campbell Recital Hall showcasing 20th-century wor
+ ks for woodwinds\, performed by talented student soloists.\n\nAdmission In
+ formation\n\nFree Admission
+END:VEVENT
+END:VCALENDAR

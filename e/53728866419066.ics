@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53728866419066@didiowen
+DTSTAMP:20260817T205434Z
+DTSTART:20261201T150000Z
+DTEND:20261201T160000Z
+SUMMARY:[混合] Salvatierra Lecture
+LOCATION:Li Ka Shing Center\, LK130
+URL:https://events.stanford.edu/event/salvatierra-lecture
+DESCRIPTION:https://events.stanford.edu/event/salvatierra-lecture\n\nThe Di
+ vision of Abdominal Transplantation invited Dr. Nancy Ascher to present th
+ e annual Salvatierra Lecture. Ascher is the first woman to perform a liver
+  transplant and is a former UCSF Department of Surgery Chair (1999-2016).
+END:VEVENT
+END:VCALENDAR

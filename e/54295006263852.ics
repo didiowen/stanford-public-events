@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54295006263852@didiowen
+DTSTAMP:20261020T230139Z
+DTSTART:20270512T233000Z
+DTEND:20270513T010000Z
+SUMMARY:[現場] Slavic Colloquium - Maxim Shrayer: Scornful Paris/Mournful
+  Chicago: Creation of the Past by the American Nina Berberova
+LOCATION:Building 260\, Pigott Hall\, Rm. 216
+URL:https://events.stanford.edu/event/slavic-colloquium-maxim-shrayer-scorn
+ ful-parismournful-chicago-creation-of-the-past-by-the-american-nina-berber
+ ova
+DESCRIPTION:https://events.stanford.edu/event/slavic-colloquium-maxim-shray
+ er-scornful-parismournful-chicago-creation-of-the-past-by-the-american-nin
+ a-berberova\n\nPlease join the next Slavic Colloquium event. Maxim Shrayer
+  (Boston College) will present a talk titled "Scornful Paris/Mournful Chic
+ ago: Creation of the Past by the American Nina Berberova."\n\nMore details
+  to follow.
+END:VEVENT
+END:VCALENDAR

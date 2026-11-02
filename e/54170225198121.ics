@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54170225198121@didiowen
+DTSTAMP:20261006T185457Z
+DTSTART:20261207T033000Z
+DTEND:20261207T050000Z
+SUMMARY:[現場] Stanford Flute Ensemble
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/flute-ensemble-fall26
+DESCRIPTION:https://events.stanford.edu/event/flute-ensemble-fall26\n\nThe 
+ Stanford Flute Ensemble\, under the direction of Karen Van Dyke\, performs
+  their 2026 Fall concert program.\n\nAdmission Information\n\nFree admissi
+ on
+END:VEVENT
+END:VCALENDAR

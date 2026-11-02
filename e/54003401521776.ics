@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54003401521776@didiowen
+DTSTAMP:20261027T170809Z
+DTSTART:20261115T033000Z
+DTEND:20261115T050000Z
+SUMMARY:[混合] Stanford Afro-Latin Jazz Ensemble
+LOCATION:Dinkelspiel Auditorium
+URL:https://events.stanford.edu/event/salje-fall26
+DESCRIPTION:https://events.stanford.edu/event/salje-fall26\n線上連結: h
+ ttps://music.stanford.edu/salje_live\n報名/票券: https://live.stanford
+ .edu/s/event?EventID=48801\n\nThe acclaimed Stanford Afro-Latin Jazz Ensem
+ ble\, directed by Murray Low\, presents their first performance of the aca
+ demic year! We are exciting to playing for you again.   As usual\, the gro
+ up have a complete new set of music prepared covering all aspects of the i
+ diom - classic and modern salsa\, boleros\, samba\, rumba\, Latin jazz\, a
+ nd much more! Works include those written or performed by icons such as Ru
+ bén Blades\, Los Van Van\, Celia Cruz\, Elis Regina\, Gilberto Gil\, and 
+ even Michael Jackson! There is something for everyone. The music is guaran
+ teed to perk up your ears - and dancing in the aisles is encouraged.\n\nAd
+ mission Information\n\nGeneral – $32 | Seniors (65+) and Non-Stanford St
+ udents – $27\nPrice shown reflects total cost including $4 online/phone 
+ per-ticket fee.FREE admission for Stanford University students. One ticket
+  per ID\, available beginning one hour prior to curtain at the venue.This 
+ event will be livestreamed.
+END:VEVENT
+END:VCALENDAR

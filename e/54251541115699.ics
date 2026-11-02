@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54251541115699@didiowen
+DTSTAMP:20261023T203412Z
+DTSTART:20261113T033000Z
+DTEND:20261113T050000Z
+SUMMARY:[現場] MRC Public Lecture: Tadashi Tokieda
+LOCATION:GSB Knight - Arbuckle / Cemex\, Cemex Auditorium
+URL:https://events.stanford.edu/event/mrc-public-lecture-tadashi-tokieda
+DESCRIPTION:https://events.stanford.edu/event/mrc-public-lecture-tadashi-to
+ kieda\n報名/票券: https://docs.google.com/forms/d/e/1FAIpQLSeGj8Br_-rX
+ KmiwkZ_h2qhBqgQqH5YwW1drPkYg8G9ajpl_ng/viewform\n\nIf planning to attend\,
+  please submit an RSVP here.\n\nThe Stanford Mathematics Research Center p
+ resents Surprises from rubbing the wrong way\, a lecture given by Tadashi 
+ Tokieda\, Professor of Mathematics at Stanford University\, as part of the
+  MRC Public Lecture series.\n\nFriction\, stickiness\, jamming . . . Don
+ ’t we frown on these conditions as spoilers of life? This lecture\, howe
+ ver\, will perform baffling experiments that pop out of these conditions\,
+  and probe their subtle physics via simple mathematics. You’ll be able t
+ o enjoy many of the experiments with friends and family as easy magic.\n\n
+ Tadashi Tokieda is starting his 10th year as a member of the Stanford math
+  department\, after vagabonding across careers — painter\, philologist\,
+  precarious plumber\, physicist. He likes to collect counter‑intuitive p
+ henomena which he discovers\, designs\, or learns about from others\, and 
+ to share them in outreach\, e.g. via the YouTube channel Numberphile. T^2 
+ spoke in that capacity at the quadrennial International Congress of Mathem
+ aticians 2018\, 2022\, 2026.\n\nThis lecture is free and open to the publi
+ c.\n\nSee the full event poster here.\n\nYou can find more information abo
+ ut speaker Tadashi Tokieda on the Stanford Math Department website.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54293143894548@didiowen
+DTSTAMP:20261022T180038Z
+DTSTART:20261120T013000Z
+DTEND:20261120T013000Z
+SUMMARY:[現場] Displaced Modernisms Reading Group: First Meeting
+LOCATION:Building 260\, Pigott Hall\, Rm. 216
+URL:https://events.stanford.edu/event/displaced-modernisms-reading-group-fi
+ rst-meeting
+DESCRIPTION:https://events.stanford.edu/event/displaced-modernisms-reading-
+ group-first-meeting\n\nDisplaced Modernisms Reading Group First Meeting! J
+ oin special guest Margarita Nafpaktitis\, Slavic librarian\, for our first
+  meeting. Come look closely\, talk art\, and explore together! Fresh eyes.
+  New perspectives. No prep required.
+END:VEVENT
+END:VCALENDAR

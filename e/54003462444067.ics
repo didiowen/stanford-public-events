@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54003462444067@didiowen
+DTSTAMP:20261006T162310Z
+DTSTART:20261121T033000Z
+DTEND:20261121T050000Z
+SUMMARY:[現場] Stanford Symphonic Chorus & Peninsula Symphony
+LOCATION:Bing Concert Hall
+URL:https://events.stanford.edu/event/symphonic-chorus-peninsula-symphony-f
+ all26-1
+DESCRIPTION:https://events.stanford.edu/event/symphonic-chorus-peninsula-sy
+ mphony-fall26-1\n報名/票券: https://live.stanford.edu/s/event?EventID=
+ 49401\n\nThe Stanford Symphonic Chorus\, under the direction of Stephen M.
+  Sano\, presents their 2026 Fall Concert program from the main stage of Bi
+ ng Concert Hall with the Stanford Chamber Chorale and the Peninsula Sympho
+ ny Orchestra conducted by Mitchell Sardou Klein.\n\nProgram\n\nWilliam Wal
+ ton – Crown ImperialAnna Clyne – This MomentRalph Vaughan Williams –
+  Serenade to MusicEdward Elgar – Cockaigne OvertureRalph Vaughan William
+ s – Toward the Unknown RegionAdmission Information\n\nGeneral – $37 | 
+ Seniors (65+) and Non-Stanford Students – $32\nPrice shown reflects tota
+ l cost including $4 online/phone per-ticket fee.FREE admission for Stanfor
+ d University students. One ticket per ID\, available beginning one hour pr
+ ior to curtain at the venue.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53790868744168@didiowen
+DTSTAMP:20261102T120124Z
+DTSTART:20261108T020000Z
+DTEND:20261108T020000Z
+SUMMARY:[現場] 16th Bita Prize for Persian Arts: Sima Bina
+LOCATION:In person at Stanford
+URL:https://events.stanford.edu/event/16th-bita-prize-for-persian-arts-cele
+ brating-sima-bina
+DESCRIPTION:https://events.stanford.edu/event/16th-bita-prize-for-persian-a
+ rts-celebrating-sima-bina\n報名/票券: https://16th-bita-prize.eventbri
+ te.com\n\nJoin us for the 16th Bita Prize for Persian Arts celebrating acc
+ laimed Iranian musician Sima Bina.\n\nSima Bina is a renowned Iranian folk
+  singer\, songwriter\, and researcher. She is celebrated for her contribut
+ ions to preserving and promoting Persian folk music and culture.\n\nSima B
+ ina was born in 1945\, in Khorasan\, Iran. Her passion for folk music emer
+ ged from her childhood experiences\, as she grew up surrounded by traditio
+ nal Persian melodies and rhythms. She began singing at an early age and wa
+ s particularly drawn to the rich tapestry of regional folk songs from diff
+ erent parts of Iran.\n\nHer professional career grew in the 1960s when she
+  started performing publicly and recording albums. Bina's distinctive voic
+ e and her ability to interpret traditional songs with authenticity quickly
+  earned her recognition within Iran and abroad.\n\nBina is also a dedicate
+ d researcher and educator. Throughout her career\, Bina has tirelessly wor
+ ked to collect\, document\, and preserve Persian folk music\, traveling to
+  remote regions of Iran to learn from local musicians and record their son
+ gs. She has amassed an extensive repertoire of folk songs representing var
+ ious ethnic groups and regions of Iran\, from Kurdish lullabies to Baluchi
+  melodies. She has published books on Persian folk music and has lectured 
+ at universities and cultural institutions around the world\, sharing her k
+ nowledge and passion for Iranian musical heritage.\n\nBina's impact on Per
+ sian folk music extends beyond her own performances
+END:VEVENT
+END:VCALENDAR

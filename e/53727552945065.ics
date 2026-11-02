@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53727552945065@didiowen
+DTSTAMP:20261102T115545Z
+DTSTART:20270608T140000Z
+DTEND:20270608T150000Z
+SUMMARY:[混合] Surgery M&M
+LOCATION:Li Ka Shing Center\, LK130
+URL:https://events.stanford.edu/event/surgery-mm-26-27
+DESCRIPTION:https://events.stanford.edu/event/surgery-mm-26-27\n\n
+END:VEVENT
+END:VCALENDAR

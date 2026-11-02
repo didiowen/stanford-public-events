@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54098975869555@didiowen
+DTSTAMP:20261102T121727Z
+DTSTART:20270127T183000Z
+DTEND:20270127T200000Z
+SUMMARY:[現場] International Spouse Coffee ☕️
+LOCATION:Bechtel International Center\, Assembly room 
+URL:https://events.stanford.edu/event/international-spouse-coffee-6560
+DESCRIPTION:https://events.stanford.edu/event/international-spouse-coffee-6
+ 560\n\nYou are welcome to join our International Spouse Coffee anytime fro
+ m 10:30 a.m. to noon enjoying coffee\, cookies & great conversations.\n\nT
+ he Coffee events are ideal opportunities to make new friends & learn more 
+ about Bechtel’s programs\, classes & workshops\, the Stanford campus\, a
+ nd helpful resources in the nearby communities. No registration is require
+ d - just stop by! Every Wednesday from 10:30 a.m. to 12:00 p.m. at the Bec
+ htel International Center\, Assembly room. \n\nJoin us for our Special Int
+ ernational Spouse Coffee events: Welcome Coffee - September 23\, Mid Autum
+ n festival - October 14\, 2026 \, Diwali -  November 11\, 2026 and Interna
+ tional Volunteer Day - December 9\, 2026\,  10:30 AM - 12:00 PM at the Ass
+ embly room\, Bechtel International Center.
+END:VEVENT
+END:VCALENDAR

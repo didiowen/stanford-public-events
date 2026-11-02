@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54321924632772@didiowen
+DTSTAMP:20261023T215459Z
+DTSTART:20270224T200000Z
+DTEND:20270224T210000Z
+SUMMARY:[混合] Distinguished Lecture Series Lunch Talk | From Plans to Pe
+ ople: Rough-and-Ready Reconstructions of a Bronze Age Citadel
+LOCATION:Building 500\, Archaeology Center\, 106
+URL:https://events.stanford.edu/event/distinguished-lecture-series-lunch-ta
+ lk-from-plans-to-people-rough-and-ready-reconstructions-of-a-bronze-age-ci
+ tadel
+DESCRIPTION:https://events.stanford.edu/event/distinguished-lecture-series-
+ lunch-talk-from-plans-to-people-rough-and-ready-reconstructions-of-a-bronz
+ e-age-citadel\n線上連結: https://stanford.zoom.us/webinar/register/WN_
+ O5L3NyY1RbezMITLQsAL6w\n\nEach quarter\, the Stanford Archaeology Center i
+ nvites prominent archaeologists from around the globe to be in residence f
+ or a week as a Distinguished Lecturer. During their residency\, the Distin
+ guished Lecturer gives two lectures and interacts with faculty\, postdocto
+ ral scholars and students. Stanford Archaeology Center will host Prof. Chr
+ istopher H. Roosevelt from  Koc University over two days (Feb 24 and Feb 2
+ 5 for the Winter Quarter of this academic year. \n\n \n\nAbstract:\n \n\nV
+ isual and numeric reconstructions of archaeological sites can become their
+  most evocative and indelible portraits. A bird's-eye view or a population
+  figure often conveys a palpable sense of an ancient community and outlive
+ s the data used to produce it. Because such reconstructions are so easily 
+ convincing and lasting\, their resolution should match that of their under
+ lying datasets. Yet the history of archaeology\, from Çatalhöyük to Tro
+ y and beyond\, is rife with disputed reconstructions and corrected populat
+ ion estimates. We should question not how accurate such reconstructions mu
+ st be\, but what resolution the evidence can honestly support.\n\nUsing re
+ cent work of the Kaymakçı Archaeological Project in western Anatolia\, t
+ his lecture presents a combined approach to visual and numerical reconstru
+ ctions of a second-millennium BCE citadel and its population that privileg
+ es the spatial and chronological resolution of its datasets over the photo
+ realism or exactitude of its outputs. Aerial and ground-based remote
+END:VEVENT
+END:VCALENDAR

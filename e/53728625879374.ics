@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53728625879374@didiowen
+DTSTAMP:20260817T202428Z
+DTSTART:20270202T150000Z
+DTEND:20270202T160000Z
+SUMMARY:[混合] PCSA/ASC Presentations
+LOCATION:Li Ka Shing Center
+URL:https://events.stanford.edu/event/pcsaasc-presentations
+DESCRIPTION:https://events.stanford.edu/event/pcsaasc-presentations\n\nVice
+  Chair of Research Dr. Arden Morris hosts our annual practice session for 
+ trainees presenting at the Pacific Coast Surgical Association's Annual Mee
+ ting or the Academic Surgical Congress.
+END:VEVENT
+END:VCALENDAR

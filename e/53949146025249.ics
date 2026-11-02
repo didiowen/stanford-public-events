@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53949146025249@didiowen
+DTSTAMP:20260912T151802Z
+DTSTART:20261209T020000Z
+DTEND:20261209T020000Z
+SUMMARY:[現場] 2026 Fall MFA Documentary Film Screening
+LOCATION:McMurtry Building\, Oshman Hall
+URL:https://events.stanford.edu/event/2026-fall-mfa-documentary-film-screen
+ ing
+DESCRIPTION:https://events.stanford.edu/event/2026-fall-mfa-documentary-fil
+ m-screening\n\nThe Department of Art & Art History presents a fall screeni
+ ng of six short films by first-year graduate students in the Documentary F
+ ilm & Video MFA program. Q&A with filmmakers and a small reception to imme
+ diately follow the screening. \n\nVISITOR INFORMATION: Oshman Hall is loca
+ ted in the McMurtry Building on Stanford campus at 355 Roth Way. Visitor p
+ arking is free after 4pm on weekdays\, except by the Oval. Alternatively\,
+  take the Caltrain to Palo Alto Transit Center and ride the free Stanford 
+ Marguerite Shuttle. If you need a disability-related accommodation or whee
+ lchair access information\, please contact Julianne White at jgwhite@stanf
+ ord.edu. This event is open to Stanford affiliates and the general public.
+  Admission is free. Seating is limited to 125 attendees and will be alloca
+ ted on a first-come\, first-served basis.
+END:VEVENT
+END:VCALENDAR

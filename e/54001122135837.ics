@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54001122135837@didiowen
+DTSTAMP:20260917T232324Z
+DTSTART:20270129T203000Z
+DTEND:20270129T220000Z
+SUMMARY:[現場] Noon Concert: Voice Students of Nova Jiménez
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/noon-jimenez-win27
+DESCRIPTION:https://events.stanford.edu/event/noon-jimenez-win27\n\nJoin us
+  for our Noon Concert Series\, where student musicians from a variety of i
+ nstrumental and vocal studios take the stage. Each performance offers a vi
+ brant showcase of emerging talent\, celebrating music in a relaxed midday 
+ setting.﻿\n\nAdmission Information\n\nFree admissionParking permits are 
+ required for weekday campus parking. We recommend downloading the ParkMobi
+ le app before arriving.
+END:VEVENT
+END:VCALENDAR

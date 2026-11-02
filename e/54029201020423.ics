@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54029201020423@didiowen
+DTSTAMP:20260920T212556Z
+DTSTART:20261115T013000Z
+DTEND:20261115T033000Z
+SUMMARY:[現場] Tracing What Remains: Memory\, Place\, and Chinese America
+ n Histories
+LOCATION:Anderson Collection\, Denning Family Resource Center
+URL:https://events.stanford.edu/event/tracing-what-remains-memory-place-and
+ -chinese-american-histories
+DESCRIPTION:https://events.stanford.edu/event/tracing-what-remains-memory-p
+ lace-and-chinese-american-histories\n報名/票券: https://docs.google.co
+ m/forms/d/e/1FAIpQLSf8K9K_f55rlureRm8AbFnJ8YkMQsXCDllfpsdkWjyLMuhYAg/viewf
+ orm?usp=preview\n\nPresented in conjunction with Patty Chang's surfacing\,
+  Tracing What Remains: Memory\, Place\, and Chinese American Histories bri
+ ngs together films that examine the histories of Chinese communities acros
+ s Northern California through landscape\, memory\, and acts of remembrance
+ . Moving between documentary\, historical narrative\, and poetic reflectio
+ n\, these films trace the enduring presence of communities whose lives and
+  labor were systematically erased from the historical record.\n\nFrom the 
+ displaced Chinese fishing villages of the San Francisco Bay to the expulsi
+ on of Chinese residents from Eureka\, these works reveal how places can ho
+ ld memory even when official histories do not. Together\, they ask how art
+ ists can recover forgotten stories\, map absences\, and imagine new ways o
+ f bearing witness to the past.\n\nFollowing the screening\, filmmakers\, C
+ hisa Hughes (Many Moons) and Rene Yung (Chinese Whispers) will join in con
+ versation with surfacing co-curator\, Kelsey Chen to discuss filmmaking as
+  a practice of historical recovery\, the relationship between place and me
+ mory\, and the ongoing work of preserving Chinese American histories.\n\nR
+ SVP HERE\n\nFilms\n\nMany Moons \n\n2023 | 21:43 minutes\n\nIn the county 
+ which once boasted it was “free of Chinamen\,” Chinese community membe
+ rs search for those who may have survived Humboldt's 1885 expulsion and 60
+  years of enforced exclusion– the only known survivor being Charlie Moon
+ \, whose descendants are Native tribal members. Framed by the words of a g
+ host
+END:VEVENT
+END:VCALENDAR

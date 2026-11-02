@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54178864866614@didiowen
+DTSTAMP:20261007T175425Z
+DTSTART:20261216T200000Z
+DTEND:20261216T210000Z
+SUMMARY:[混合] Fireside Chat with Anne Wojcicki
+LOCATION:Assembly Hall
+URL:https://events.stanford.edu/event/fireside-chat-with-anne-wojcicki-7984
+DESCRIPTION:https://events.stanford.edu/event/fireside-chat-with-anne-wojci
+ cki-7984\n線上資訊:\nAccess dial in details at https://medicine.stanf
+ ord.edu/education/grand-rounds.html\n\nStanford Department of Medicine wou
+ ld like to invite all Stanford community members to attend this instance o
+ f the Medicine Grand Rounds (MGR) series\, which will feature Anne Wojcick
+ i\, a pioneering force in consumer genomics and personalized medicine who 
+ co-founded 23andMe to democratize access to genetic information\, and who 
+ is now leading its next chapter through the not-for-profit TTAM Research I
+ nstitute.
+END:VEVENT
+END:VCALENDAR

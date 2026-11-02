@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54001198182467@didiowen
+DTSTAMP:20260917T232911Z
+DTSTART:20270519T193000Z
+DTEND:20270519T210000Z
+SUMMARY:[現場] Noon Concert: Cello Students of Christopher Costanza
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/noon-costanza-spr27
+DESCRIPTION:https://events.stanford.edu/event/noon-costanza-spr27\n\nJoin u
+ s for our Noon Concert Series\, where student musicians from a variety of 
+ instrumental and vocal studios take the stage. Each performance offers a v
+ ibrant showcase of emerging talent\, celebrating music in a relaxed midday
+  setting.﻿\n\nAdmission Information\n\nFree admissionParking permits are
+  required for weekday campus parking. We recommend downloading the ParkMob
+ ile app before arriving.
+END:VEVENT
+END:VCALENDAR

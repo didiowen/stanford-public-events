@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54365766240476@didiowen
+DTSTAMP:20261028T205441Z
+DTSTART:20261118T230000Z
+DTEND:20261119T010000Z
+SUMMARY:[現場] Drop-In Samizdat* Workshop (*DIY Unofficial\, Unsanctioned
+ \, Limited Edition Publication)
+LOCATION:Hohbach Hall\, lobby/interactive zone
+URL:https://events.stanford.edu/event/samizdat-november-2026
+DESCRIPTION:https://events.stanford.edu/event/samizdat-november-2026\n\nTak
+ e a seat at a manual typewriter and create a limited edition\, uncensored\
+ , unofficial publication to circulate from hand to hand.  Just like Easter
+ n European dissidents used to do in the 1960's and 70's.  (Here's an old-s
+ chool\, digitized example from Stanford Libraries' collections.)  Typewrit
+ ers\, carbon paper\, onionskin paper all provided.  Hohbach Hall lobby (Gr
+ een Library\, 1st floor\, near the reference desk)\, 3-5PM.
+END:VEVENT
+END:VCALENDAR

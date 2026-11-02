@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53994312442198@didiowen
+DTSTAMP:20261102T121254Z
+DTSTART:20261107T010000Z
+DTEND:20261107T030000Z
+SUMMARY:[現場] First Fridays at IDA (Social)
+LOCATION:Harmony House
+URL:https://events.stanford.edu/event/first-fridays-at-ida-social
+DESCRIPTION:https://events.stanford.edu/event/first-fridays-at-ida-social\n
+ \nJoin us at Harmony House for IDA’s monthly First Fridays! A gathering 
+ space for artists\, students\, and community to connect\, unwind\, and cre
+ ate together. Each month\, we open our doors at the Harmony House  for an 
+ evening of conversation\, art-making\, and chill vibes over food and drink
+ s. Whether you’re here to meet new people\, share your work\, or just ha
+ ng out\, First Fridays are a chance to slow down and be in creative commun
+ ity.
+END:VEVENT
+END:VCALENDAR

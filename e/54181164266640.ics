@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54181164266640@didiowen
+DTSTAMP:20261007T235427Z
+DTSTART:20270122T220000Z
+DTEND:20270123T014500Z
+SUMMARY:[現場] Arts +AI in the Evolving Research University
+LOCATION:Jen-Hsun Huang Building (School of Engineering)\, Mackenzie Room (
+ 3rd floor)
+URL:https://events.stanford.edu/event/arts-ai-in-the-evolving-research-univ
+ ersity
+DESCRIPTION:https://events.stanford.edu/event/arts-ai-in-the-evolving-resea
+ rch-university\n\nJoin faculty members from Stanford and MIT for presentat
+ ions and discussions on centering the arts as a core component of the rese
+ arch university's response to paradigm-breaking advances in AI.  How does 
+ art engage what most makes us human\, and does AI change the equation? How
+  will the arts drive the evolution of higher education that AI demands? Ho
+ w will arts integration save research universities from becoming institute
+ s of applied AI?\n\n2:00 - 5:45PM\, reception to follow.\n\n \n\nAdditiona
+ l details coming soon
+END:VEVENT
+END:VCALENDAR

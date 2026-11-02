@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54001177628404@didiowen
+DTSTAMP:20260917T232800Z
+DTSTART:20270528T193000Z
+DTEND:20270528T210000Z
+SUMMARY:[現場] Noon Concert: Piano Students of Melinda Lee Masur
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/noon-masur-spr27
+DESCRIPTION:https://events.stanford.edu/event/noon-masur-spr27\n\nJoin us f
+ or our Noon Concert Series\, where student musicians from a variety of ins
+ trumental and vocal studios take the stage. Each performance offers a vibr
+ ant showcase of emerging talent\, celebrating music in a relaxed midday se
+ tting.﻿\n\nAdmission Information\n\nFree admissionParking permits are re
+ quired for weekday campus parking. We recommend downloading the ParkMobile
+  app before arriving.
+END:VEVENT
+END:VCALENDAR

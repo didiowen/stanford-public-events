@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53809600871429@didiowen
+DTSTAMP:20260826T235420Z
+DTSTART:20261202T200000Z
+DTEND:20261202T210000Z
+SUMMARY:[混合] Medicine Grand Rounds with Sharon Inouye\, MD\, MPH
+LOCATION:Li Ka Shing Center\, Berg Hall
+URL:https://events.stanford.edu/event/medicine-grand-rounds-with-sharon-ino
+ uye-md-mph
+DESCRIPTION:https://events.stanford.edu/event/medicine-grand-rounds-with-sh
+ aron-inouye-md-mph\n線上資訊:\nAccess dial in details at https://medi
+ cine.stanford.edu/education/grand-rounds.html\n\nStanford Department of Me
+ dicine would like to invite all Stanford community members to attend this 
+ instance of the Medicine Grand Rounds (MGR) series\, which will feature Sh
+ aron Inouye\, MD\, MPH\, a Harvard geriatrician and Editor-in-Chief of JAM
+ A Internal Medicine who created the Confusion Assessment Method\, the worl
+ d's most widely used delirium diagnostic tool\, and the Hospital Elder Lif
+ e Program\, transforming hospital care for aging patients worldwide.
+END:VEVENT
+END:VCALENDAR

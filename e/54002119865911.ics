@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54002119865911@didiowen
+DTSTAMP:20261102T121320Z
+DTSTART:20261106T193000Z
+DTEND:20261106T210000Z
+SUMMARY:[現場] First Fridays Collab Lab
+LOCATION:Braun Music Center\, Braun Rehearsal Hall
+URL:https://events.stanford.edu/event/collab-lab-nov6
+DESCRIPTION:https://events.stanford.edu/event/collab-lab-nov6\n\nNo scores\
+ , no charts\, no pressure – just collaboration!\n\nWhether you are a sea
+ soned musician\, a shower singer\, or someone who enjoys clapping on the o
+ ff-beat – this space is for you! The Collab Lab is an open playground to
+  create spontaneous sound. Come to listen\, respond\, noodle\, experiment\
+ , and  build a creative community across genres and skill levels.\n\nOpen 
+ to Stanford faculty\, staff\, and students of all skill levels/instruments
+ /voices.\n\nAdmission Information\n\nFree admissionParking permits are req
+ uired for weekday campus parking. We recommend downloading the ParkMobile 
+ app before arriving.
+END:VEVENT
+END:VCALENDAR

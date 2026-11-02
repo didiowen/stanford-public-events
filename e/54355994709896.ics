@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54355994709896@didiowen
+DTSTAMP:20261102T123127Z
+DTSTART:20261110T190000Z
+DTEND:20261110T200000Z
+SUMMARY:[線上] Team Science in Child Health Research: When the Whole is G
+ reater than the Sum of the Parts with Dr. Mary Leonard
+LOCATION:https://stanford.zoom.us/meeting/register/uWnqvBKATe6zgzKXo5vY_w#/
+ registration
+URL:https://events.stanford.edu/event/team-science-in-child-health-research
+DESCRIPTION:https://events.stanford.edu/event/team-science-in-child-health-
+ research\n線上連結: https://stanford.zoom.us/meeting/register/uWnqvBKA
+ Te6zgzKXo5vY_w#/registration\n報名/票券: https://stanford.zoom.us/meet
+ ing/register/uWnqvBKATe6zgzKXo5vY_w#/registration\n\nThe Laurie J. Girand 
+ Center for Biomedical Ethics is pleased to announce Dr. Mary Leonard as ou
+ r Team Science Tuesday speaker for the Fall Quarter for a presentation tit
+ led “Team Science in Child Health Research: When the Whole is Greater th
+ an the Sum of the Parts.” We invite you to join us on Zoom on Tuesday\, 
+ November 10\, 2026 at 11:00am. \n\nMary B. Leonard\, MD\, MSCE is the Arli
+ ne and Pete Harman Professor and Chair\, Department of Pediatrics at Stanf
+ ord University\, Director of the Stanford Maternal and Child Health Resear
+ ch Institute (MCHRI)\, and Physician-in-Chief of Lucile Packard Children
+ ’s Hospital. Her research examines how chronic diseases—including kidn
+ ey disease\, inflammatory bowel disease\, rheumatologic conditions\, and c
+ hildhood cancer—impair bone and muscle development across the lifespan. 
+ Answering these questions requires partnership with colleagues in multiple
+  pediatric subspecialties\, as well as in biostatistics\, epidemiology\, a
+ nthropology\, physics\, engineering\, and bioengineering\, whose expertise
+  underpins the advanced imaging and analytic methods central to her work. 
+ This collaborative model has allowed her to translate mechanistic findings
+  into clinical trials and population-level studies while training investig
+ ators from many disciplines in patient-oriented research.\n\nIf you have a
+ ny questions\, please reach out to Nicole Foti (nfoti@stanford.edu) or Dap
+ hne Martschenko (daphnem@stanford.edu) .\n\nRegister now.
+END:VEVENT
+END:VCALENDAR
