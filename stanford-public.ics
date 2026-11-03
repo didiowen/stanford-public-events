@@ -605,7 +605,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-52825362201674@didiowen
-DTSTAMP:20260529T113432Z
+DTSTAMP:20261103T121639Z
 DTSTART:20261113T000000Z
 DTEND:20261113T003000Z
 SUMMARY:[現場] Tour Denning House\, home to Knight-Hennessy Scholars
@@ -9269,7 +9269,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53954321811562@didiowen
-DTSTAMP:20261102T082249Z
+DTSTAMP:20261103T082602Z
 DTSTART:20270126T000000Z
 DTEND:20270126T011500Z
 SUMMARY:[現場] Simon DeDeo | Proofs and reasons in the age of artificial 
@@ -10325,7 +10325,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54003275129201@didiowen
-DTSTAMP:20261102T121332Z
+DTSTAMP:20261102T222441Z
 DTSTART:20261108T033000Z
 DTEND:20261108T050000Z
 SUMMARY:[混合] Stanford Philharmonia
@@ -10334,19 +10334,20 @@ URL:https://events.stanford.edu/event/philharmonia-fall26
 DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  public-events/e/54003275129201.ics\nhttps://events.stanford.edu/event/phil
  harmonia-fall26\n線上連結: https://music.stanford.edu/philharmonia_liv
- e\n\nThe Stanford Philharmonia\, conducted by Paul Phillips\, presents the
- ir 2026 Fall Concert program from the main stage of Bing Concert Hall feat
- uring guest composer Melody Eötvös.\n\nProgram\n\nClaude Debussy – Pet
- ite Suite (arranged by Henri Büsser)Darius Milhaud – Stanford Sérénad
- eCindy Liu ‘28\, oboe soloistMelody Eötvös – Red Dirt | Silver RainC
- alifornia premiereLudwig van Beethoven – Symphony No. 1 in C Major\, Op.
-  21Please join us before the concert for a special onstage Q&A with guest 
- composer Melody Eötvös starting at 7:00 PM.\n\nAdmission Information \nT
- ickets available soon!\n\nGeneral – $37 | Seniors (65+) and Non-Stanford
-  Students – $32\nPrice shown reflects total cost including $4 online/pho
- ne per-ticket fee.FREE admission for Stanford University students. One tic
- ket per ID\, available beginning one hour prior to curtain at the venue.Th
- is event will be livestreamed.
+ e\n報名/票券: https://live.stanford.edu/s/event?EventID=48001\n\nThe S
+ tanford Philharmonia\, conducted by Paul Phillips\, presents their 2026 Fa
+ ll Concert program from the main stage of Bing Concert Hall featuring gues
+ t composer Melody Eötvös.\n\nProgram\n\nClaude Debussy – Petite Suite 
+ (arranged by Henri Büsser)Darius Milhaud – Stanford SérénadeCindy Liu
+  ‘28\, oboe soloistMelody Eötvös – Red Dirt | Silver RainWest Coast 
+ premiereLudwig van Beethoven – Symphony No. 1 in C Major\, Op. 21Please 
+ join us before the concert for a special onstage Q&A with Paul Phillips an
+ d guest composer Melody Eötvös starting at 7:00 PM.\n\nAdmission Informa
+ tion \n\nGeneral – $37 | Seniors (65+) and Non-Stanford Students – $32
+ \nPrice shown reflects total cost including $4 online/phone per-ticket fee
+ .FREE admission for Stanford University students. One ticket per ID\, avai
+ lable beginning one hour prior to curtain at the venue.This event will be 
+ livestreamed.
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54003301124014@didiowen
@@ -10561,7 +10562,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54003482219170@didiowen
-DTSTAMP:20261021T163514Z
+DTSTAMP:20261102T223734Z
 DTSTART:20261205T223000Z
 DTEND:20261206T000000Z
 SUMMARY:[現場] 2026 Holiday Musicale
@@ -10572,11 +10573,11 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  day-musicale-2026\n報名/票券: https://live.stanford.edu/s/event?EventI
  D=48602\n\nJoin us for an afternoon of beautiful music sure to fill you wi
  th holiday spirit and cheer\, featuring performances by Stanford Philharmo
- nia and the Stanford Chamber Chorale.\n\nAdmission Information\n\nGeneral 
- – $32 | Seniors (65+) and Non-Stanford Students – $27\nPrice shown ref
- lects total cost including $4 online/phone per-ticket fee.FREE admission f
- or Stanford University students. One ticket per ID\, available beginning o
- ne hour prior to curtain at the venue.
+ nia and the Stanford Early Music Singers.\n\nAdmission Information\n\nGene
+ ral – $32 | Seniors (65+) and Non-Stanford Students – $27\nPrice shown
+  reflects total cost including $4 online/phone per-ticket fee.FREE admissi
+ on for Stanford University students. One ticket per ID\, available beginni
+ ng one hour prior to curtain at the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54003495284522@didiowen
@@ -12712,7 +12713,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54124995976202@didiowen
-DTSTAMP:20261026T164621Z
+DTSTAMP:20261103T020604Z
 DTSTART:20261118T200000Z
 DTEND:20261118T213000Z
 SUMMARY:[現場] The Greek and Arabic Reception of Ptolemy's Almagest betwe
@@ -13430,47 +13431,6 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  e
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54189645462697@didiowen
-DTSTAMP:20261101T121133Z
-DTSTART:20261103T000000Z
-DTEND:20261103T013000Z
-SUMMARY:[混合] Book Talk: Chrystia Freeland — Unreliable Boyfriend: An 
- Insider’s View of Dealing with a Chaotic Superpower\, Plutocrats\, and O
- ther Complicated People
-LOCATION:Encina Hall
-URL:https://events.stanford.edu/event/book-talk-chrystia-freeland-unreliabl
- e-boyfriend-an-insiders-view-of-dealing-with-a-chaotic-superpower-plutocra
- ts-and-other-complicated-people
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/54189645462697.ics\nhttps://events.stanford.edu/event/book
- -talk-chrystia-freeland-unreliable-boyfriend-an-insiders-view-of-dealing-w
- ith-a-chaotic-superpower-plutocrats-and-other-complicated-people\n線上
- 連結: https://stanford.zoom.us/j/96625253979?pwd=KqJdckdVxlr3gHBjPayBLbb
- pyVFZQS.1\n線上資訊:\nPassword if prompted: 123456\n報名/票券: htt
- ps://app.smartsheet.com/b/form/01a11c60b90c7da7a88e2c34197ffce5\n\nHow sho
- uld allies deal with a superpower they can no longer rely on? Former Canad
- ian Deputy Prime Minister Chrystia Freeland joins CDDRL to discuss her new
-  book\, "Unreliable Boyfriend: An Insider's View of Dealing with a Chaotic
-  Superpower\, Plutocrats\, and Other Complicated People."\n\nFreeland has 
- seen these questions from two sides. As a foreign correspondent\, she cove
- red the rise of Russia's oligarchs in the 1990s. As a senior Canadian offi
- cial\, she helped renegotiate the trade agreement between Canada\, the U.S
- . and Mexico. The book draws on both careers to examine how power operates
-  inside government\, why trade\, security and democracy can no longer be t
- reated separately\, and how democracies might build coalitions strong enou
- gh to resist authoritarian states and domestic oligarchs.\n\nFreeman Spogl
- i Institute (FSI) Satre Family Senior Fellow and Mosbacher Director of CDD
- RL\, Kathryn Stoner will moderate the conversation\, focusing on democrati
- c resilience\, international political economy\, U.S. foreign policy\, Rus
- sia and Ukraine.  Audience Q&A will follow. Books will be available for pu
- rchase at the event.  \n\nABOUT THE SPEAKER\n\nChrystia Freeland is Canada
- ’s former Deputy Prime Minister\, Foreign Minister\, and Minister of Fin
- ance. With a background in Russian history\, she first gained internationa
- l acclaim as a foreign correspondent and editor for the Financial Times an
- d Reuters\, and later served as the deputy editor of The Globe and Mail. H
- er first book\, Sale of the Century\, told 
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54196035364531@didiowen
 DTSTAMP:20261030T203141Z
 DTSTART:20261117T000000Z
@@ -14049,40 +14009,6 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  or healthcare professionals wanting to understand Stanford's processes. Sp
  ace is limited\; please register in advance to secure your place and ensur
  e enough time for questions during the presentation.
-END:VEVENT
-BEGIN:VEVENT
-UID:stanford-54287265784196@didiowen
-DTSTAMP:20261101T121542Z
-DTSTART:20261102T200000Z
-DTEND:20261102T213000Z
-SUMMARY:[現場] Policed: A Latinx History of State Violence
-LOCATION:Humanities Center\, Board Room
-URL:https://events.stanford.edu/event/policed-a-latinx-history-of-state-vio
- lence
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/54287265784196.ics\nhttps://events.stanford.edu/event/poli
- ced-a-latinx-history-of-state-violence\n\nSpanning the nineteenth century 
- to the present\, Policed: A Latinx History of State Violence\, examines ho
- w policing became a key component in the formation of Latinx identity and 
- political consciousness\, and still lies at the heart of many pressing iss
- ues confronting Latinx communities today\, including immigration\, employm
- ent\, health\, and housing. More than simply telling a story of police bru
- tality and harassment\, Marisol LeBrón powerfully shows that Latinx peopl
- e have continually resisted state violence and worked to build a more libe
- rated future.\n\nJoin the Global Studies in Migration and Diaspora Worksho
- p in learning more about and discussing LeBrón's forthcoming book. The ev
- ent will take place at Stanford Humanities Center (Board Room). RSVP here 
- for lunch.\n\nMarisol LeBrón is an Associate Professor of Critical Race a
- nd Ethnic Studies at the University of California\, Santa Cruz. An interdi
- sciplinary scholar\, LeBrón’s research and teaching focus on social ine
- quality\, policing\, violence\, and protest. She is the author of Against 
- Muerto Rico: Lessons from the Verano Boricua (2021) and Policing Life and 
- Death: Race\, Violence\, and Resistance in Puerto Rico (2019). LeBrón is 
- an active contributor to popular conversations about policing as well as P
- uerto Rico and its diaspora. She has published op-eds in The Washington Po
- st\, The Guardian and Truthout and has been interviewed by a number of new
- s outlets. Dr. LeBrón is one of the co-creators and project leaders for t
- he "Puerto Rico 
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54287642110827@didiowen
@@ -15362,7 +15288,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54400058337177@didiowen
-DTSTAMP:20261101T182506Z
+DTSTAMP:20261103T014131Z
 DTSTART:20261118T004500Z
 DTEND:20261118T030000Z
 SUMMARY:[現場] Malês:  Film Screening and Conversation
@@ -15370,17 +15296,18 @@ LOCATION:Bolivar House\, Conference Room
 URL:https://events.stanford.edu/event/males-film-screening-and-conversation
 DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  public-events/e/54400058337177.ics\nhttps://events.stanford.edu/event/male
- s-film-screening-and-conversation\n\nThis event is a collaboration among t
- he San Francisco' Consulate General of Brazil\, Stanford Program on Intern
- ational and Cross-Cultural Education\, Stanford Language Center\, Departme
- nt of Iberian and Latin American Cultures\, and the Center for Latin Ameri
- can Studies. \n\nScreening of Antônio Pitanga's 2024 historical film tell
- ing the homonymous 1835 uprising of enslaved Muslim workers in Salvador\, 
- Bahia\, Brazil.\n\nA couple about to get married is kidnapped from their h
- omeland in Africa and brought to Brazil as slaves. Separated by fate\, the
- y both struggle to survive the horrors of slavery and become involved in t
- he largest Brazilian slave uprising.\n\nHors d'oeuvre and conversation wil
- l follow the screening
+ s-film-screening-and-conversation\n\nThis event is a collaboration between
+  the Consulate General of Brazil in San Francisco and Stanford University\
+ , through its Program on International and Cross-Cultural Education\, Glob
+ al Studies Division\, Language Center\, Abbasi Program in Islamic Studies\
+ , Center for African Studies\, Department of Iberian and Latin American Cu
+ ltures\, and Center for Latin American Studies.\n\nScreening of Antônio P
+ itanga's 2024 historical film telling the homonymous 1835 uprising of ensl
+ aved Muslim workers in Salvador\, Bahia\, Brazil.\n\nA couple about to get
+  married is kidnapped from their homeland in Africa and brought to Brazil 
+ as slaves. Separated by fate\, they both struggle to survive the horrors o
+ f slavery and become involved in the largest Brazilian slave uprising.\n\n
+ Hors d'oeuvre and conversation will follow the screening.
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54409686628220@didiowen
@@ -15463,5 +15390,103 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  T\n\nRebecca Buchanan\, PhD\n\nPostdoctoral Scholar\, Psychiatry\n\nZoom l
  ink: https://stanford.zoom.us/j/91908447378?pwd=VzY1TlJNaFdVVWdYWlZ3c0dEaW
  lUZz09
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54410804942386@didiowen
+DTSTAMP:20261102T231926Z
+DTSTART:20261106T230000Z
+DTEND:20261107T000000Z
+SUMMARY:[現場] Lecture: Visiting Composer – Melody Eötvös
+LOCATION:Braun Music Center\, Room 103
+URL:https://events.stanford.edu/event/guest-lecture-eotvos
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54410804942386.ics\nhttps://events.stanford.edu/event/gues
+ t-lecture-eotvos\n\nVisiting composer Melody Eötvös will give a presenta
+ tion on her music\, including Red Dirt | Silver Rain\, which will be perfo
+ rmed by Stanford Philharmonia on November 7.\n\nProfessor Eötvös's appea
+ rance\, and the West Coast premiere of her composition Red Dirt | Silver R
+ ain by Stanford Philharmonia on November 7\, are supported by the Stanford
+  University Department of Music and the third national Virginia B. Toulmin
+  Foundation Orchestral Commissions Program Consortium\, an initiative of t
+ he League of American Orchestras\, in partnership with American Composers 
+ Orchestra and the Virginia B. Toulmin Foundation. \n\nAdmission Informatio
+ n\n\nFree admission
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54410817374487@didiowen
+DTSTAMP:20261102T232437Z
+DTSTART:20261113T230000Z
+DTEND:20261114T000000Z
+SUMMARY:[現場] Lecture: Visiting Composer – Wang Lu
+LOCATION:Braun Music Center\, Room 103
+URL:https://events.stanford.edu/event/guest-lecture-lu
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54410817374487.ics\nhttps://events.stanford.edu/event/gues
+ t-lecture-lu\n\nVisiting composer Wang Lu will give a presentation on her 
+ music\, including Surge\, which will be performed by the Stanford Symphony
+  Orchestra on November 13 and 15.\n\nProfessor Lu's appearance\, and the t
+ he West Coast premiere of her composition Surge by the Stanford Symphony O
+ rchestra on November 13 and 15\, are supported by the Stanford University 
+ Department of Music.\n\nAdmission Information\n\nFree admission
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54411409617637@didiowen
+DTSTAMP:20261103T002604Z
+DTSTART:20261113T220000Z
+DTEND:20261114T000000Z
+SUMMARY:[混合] Special Seminar and Fireside Chat: Understanding Work Usin
+ g AI
+LOCATION:Gates Computer Science Building\, 119
+URL:https://events.stanford.edu/event/special-seminar-and-fireside-chat-und
+ erstanding-work-using-ai
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54411409617637.ics\nhttps://events.stanford.edu/event/spec
+ ial-seminar-and-fireside-chat-understanding-work-using-ai\n報名/票券: 
+ https://digitaleconomy.stanford.edu/event/special-seminar-and-fireside-cha
+ t-understanding-work-using-ai/\n\nThe government has maintained crucial da
+ ta infrastructure that allow jobseekers to find jobs\, employers to hire\,
+  and researchers to predict the future of work. This infrastructure is tes
+ ted by rapid changes brought about by AI\, and at the same time\, is empow
+ ered by the use of AI.\n\nPhil Lewis from the National Center for O*NET De
+ velopment will talk about data infrastructure the US Department of Labor p
+ rovides and how AI is used to update it. A panel with Diyi Yang from the S
+ tanford Computer Science Department and DEL’s Erik Brynjolfsson will dis
+ cuss the opportunities of a new partnership between Stanford and the Natio
+ nal Center for O*NET Development.
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54411448205345@didiowen
+DTSTAMP:20261103T005431Z
+DTSTART:20261117T200000Z
+DTEND:20261117T211500Z
+SUMMARY:[現場] German Studies Lecture Series: Jutta Eming - How Do You Da
+ nce a Cabinet of Curiosities?
+LOCATION:Building 260\, Pigott Hall\, Rm 216
+URL:https://events.stanford.edu/event/german-studies-lecture-series-jutta-e
+ ming-how-do-you-dance-a-cabinet-of-curiosities
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54411448205345.ics\nhttps://events.stanford.edu/event/germ
+ an-studies-lecture-series-jutta-eming-how-do-you-dance-a-cabinet-of-curios
+ ities\n\nPlease join German Studies Lecture Series for How Do You Dance a 
+ Cabinet of Curiosities? A conversation with Professor Jutta Eming (Freie U
+ niversität Berlin).\n\nAs a collection and exhibition convention\, a Cabi
+ net of Curiosity or Wunderkammer is regarded as a historical intermediate 
+ stage between the medieval treasury and the modern museum. It was widespre
+ ad throughout Europe from the 16th to 18th century until its holdings bega
+ n to be distributed to newly founded natural history\, art\, or ethnologic
+ al museums in the 18th and 19th century. Taking a recent choreography as a
+  starting point\, this talk introduces the view that the Wunderkammer is n
+ ot primarily an early modern form of collection\, but a cultural-historica
+ l phenomenon that spans epochs and is part of a continuum of discourses on
+  the marvelous. This includes the fact that the Wunderkammer has obviously
+  become a broader cultural studies topic and forms a reference for a varie
+ ty of recent academic and non-academic trends. In premodern times these ca
+ binets constitute a European view of the world with curiosity in “monstr
+ ous” races on its margins\, and a practice of perception in which narrat
+ ion\, appropriation\, collecting\, and presentation are closely linked. In
+  recent times this interest in curiosity has flipped in emancipatory ways:
+  The Wunderkammer now seems to provide a space in which humans negotiate t
+ he limits of binary identity and redefine their place in the world.\n\nRSV
+ P for the Jutta Eming event here.
 END:VEVENT
 END:VCALENDAR

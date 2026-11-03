@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54411409617637@didiowen
+DTSTAMP:20261103T002604Z
+DTSTART:20261113T220000Z
+DTEND:20261114T000000Z
+SUMMARY:[混合] Special Seminar and Fireside Chat: Understanding Work Usin
+ g AI
+LOCATION:Gates Computer Science Building\, 119
+URL:https://events.stanford.edu/event/special-seminar-and-fireside-chat-und
+ erstanding-work-using-ai
+DESCRIPTION:https://events.stanford.edu/event/special-seminar-and-fireside-
+ chat-understanding-work-using-ai\n報名/票券: https://digitaleconomy.st
+ anford.edu/event/special-seminar-and-fireside-chat-understanding-work-usin
+ g-ai/\n\nThe government has maintained crucial data infrastructure that al
+ low jobseekers to find jobs\, employers to hire\, and researchers to predi
+ ct the future of work. This infrastructure is tested by rapid changes brou
+ ght about by AI\, and at the same time\, is empowered by the use of AI.\n\
+ nPhil Lewis from the National Center for O*NET Development will talk about
+  data infrastructure the US Department of Labor provides and how AI is use
+ d to update it. A panel with Diyi Yang from the Stanford Computer Science 
+ Department and DEL’s Erik Brynjolfsson will discuss the opportunities of
+  a new partnership between Stanford and the National Center for O*NET Deve
+ lopment.
+END:VEVENT
+END:VCALENDAR

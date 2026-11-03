@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54410817374487@didiowen
+DTSTAMP:20261102T232437Z
+DTSTART:20261113T230000Z
+DTEND:20261114T000000Z
+SUMMARY:[現場] Lecture: Visiting Composer – Wang Lu
+LOCATION:Braun Music Center\, Room 103
+URL:https://events.stanford.edu/event/guest-lecture-lu
+DESCRIPTION:https://events.stanford.edu/event/guest-lecture-lu\n\nVisiting 
+ composer Wang Lu will give a presentation on her music\, including Surge\,
+  which will be performed by the Stanford Symphony Orchestra on November 13
+  and 15.\n\nProfessor Lu's appearance\, and the the West Coast premiere of
+  her composition Surge by the Stanford Symphony Orchestra on November 13 a
+ nd 15\, are supported by the Stanford University Department of Music.\n\nA
+ dmission Information\n\nFree admission
+END:VEVENT
+END:VCALENDAR
