@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54417723061858@didiowen
+DTSTAMP:20261104T120645Z
+DTSTART:20261110T003000Z
+DTEND:20261110T013000Z
+SUMMARY:[混合] HAI & AI Governance Lab | A Conversation with Jacob Coxon 
+ & Rob Reich
+LOCATION:Gates Computer Science Building\, 119
+URL:https://events.stanford.edu/event/hai-ai-governance-lab-a-conversation-
+ with-jacob-coxon-rob-reich
+DESCRIPTION:https://events.stanford.edu/event/hai-ai-governance-lab-a-conve
+ rsation-with-jacob-coxon-rob-reich\n線上連結: https://stanford.zoom.us
+ /webinar/register/WN_qdIdwR18Td-r5-938442yQ#/registration\n報名/票券: 
+ https://hai.stanford.edu/events/a-conversation-with-jacob-coxon-rob-reich\
+ n\nThis in-person event is open to current Stanford faculty\, students\, a
+ nd staff. ID will be required at check in. Other guests are invited to joi
+ n the webinar.\n\nThe companies building artificial intelligence have prom
+ ised to transform the world. But who gets to decide what that transformati
+ on looks like and what happens when people who have worked inside those co
+ mpanies question their direction? Jacob Coxon recently made a very public 
+ decision to leave Anthropic\, a company that has made the responsible deve
+ lopment of AI central to its identity. His departure opens a window into a
+  greater debate about technological ambition\, institutional accountabilit
+ y\, and the responsibilities of the companies building these increasingly 
+ powerful systems. In this conversation\, Coxon will join Stanford Professo
+ r Rob Reich to discuss his departure from Anthropic and the questions it r
+ aises about safety\, power\, and principles in the AI industry.\n\nSpace i
+ s limited\; registration is available first-come\, first served.
+END:VEVENT
+END:VCALENDAR

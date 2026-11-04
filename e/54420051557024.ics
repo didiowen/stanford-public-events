@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54420051557024@didiowen
+DTSTAMP:20261103T235424Z
+DTSTART:20270323T150000Z
+DTEND:20270324T000000Z
+SUMMARY:[現場] Stanford Cancer Institute Research Conference
+LOCATION:Li Ka Shing Center\, Berg Hall
+URL:https://events.stanford.edu/event/stanford-cancer-institute-research-co
+ nference-1484
+DESCRIPTION:https://events.stanford.edu/event/stanford-cancer-institute-res
+ earch-conference-1484\n報名/票券: https://web.cvent.com/event/dcfdf34f
+ -20c7-4246-bbb7-5b0445824293/register\n\nFor 20 years\, the Stanford Cance
+ r Institute Research Conference has brought our cancer research community 
+ together to share exciting innovations\, spark new ideas\, and foster cros
+ s-disciplinary collaborations.
+END:VEVENT
+END:VCALENDAR
