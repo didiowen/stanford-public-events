@@ -4,19 +4,21 @@ PRODID:-//didiowen//stanford-public-events//EN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mine-54410430024156@didiowen
-DTSTAMP:20261102T215436Z
+DTSTAMP:20261104T211110Z
 DTSTART:20261201T200000Z
 DTEND:20261201T210000Z
-SUMMARY:[線上] CSCS Community Series with Rebecca Buchanan\, PhD
+SUMMARY:[線上] CSCS Community Series: "Effects of oligodendroglia and mye
+ lin integrity on sleep" with Rebecca Buchanan\, PhD
 LOCATION:
 URL:https://events.stanford.edu/event/cscs-community-series-with-rebecca-bu
  chanan-phd
 DESCRIPTION:https://events.stanford.edu/event/cscs-community-series-with-re
  becca-buchanan-phd\n線上資訊:\nZoom link: https://stanford.zoom.us/j/9
  1908447378?pwd=VzY1TlJNaFdVVWdYWlZ3c0dEaWlUZz09\n\nPlease join us for this
-  month's Center for Sleep and Circadian Sciences Community Series:\n\nTitl
- e TBA\n\nTuesday\, December 1st\, 2026 at 12pm PST\n\nRebecca Buchanan\, P
- hD\n\nPostdoctoral Scholar\, Psychiatry\n\nZoom link: https://stanford.zoo
- m.us/j/91908447378?pwd=VzY1TlJNaFdVVWdYWlZ3c0dEaWlUZz09
+  month's Center for Sleep and Circadian Sciences Community Series:\n\n"Eff
+ ects of oligodendroglia and myelin integrity on sleep"\n\nTuesday\, Decemb
+ er 1st\, 2026 at 12pm PST\n\nRebecca Buchanan\, PhD\n\nPostdoctoral Schola
+ r\, Psychiatry\n\nZoom link: https://stanford.zoom.us/j/91908447378?pwd=Vz
+ Y1TlJNaFdVVWdYWlZ3c0dEaWlUZz09
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54427374962578@didiowen
+DTSTAMP:20261104T200249Z
+DTSTART:20261110T160000Z
+DTEND:20261110T170000Z
+SUMMARY:[現場] Pediatric Grand Rounds (CME): Beyond Blood: Transplant and
+  Gene-Edited Cell Therapy for Neurodegenerative Disease in Children
+LOCATION:Center for Academic Medicine \, Grand Rounds Room 
+URL:https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-wh
+ en-governments-swipe-left-australias-social-media-policy
+DESCRIPTION:https://events.stanford.edu/event/copy-of-pediatric-grand-round
+ s-cme-when-governments-swipe-left-australias-social-media-policy\n\nBeyond
+  Blood: Transplant and Gene-Edited Cell Therapy for Neurodegenerative Dise
+ ase in Children\n\n\nPRESENTER:\nNatalia Gomez-Ospina\, MD\, PhD\nAssistan
+ t Professor of Pediatrics\, Medical Genetics\nStanford School of Medicine\
+ n\n \n\nSESSION DESCRIPTION\nAllogeneic hematopoietic stem cell transplant
+ ation is standard of care for a small number of neurodegenerative inherite
+ d disorders — metachromatic leukodystrophy\, Krabbe disease\, X-linked a
+ drenoleukodystrophy\, and severe MPS type 1 — yet outcomes remain disapp
+ ointing for most patients. Donor-derived cells repopulate the CNS slowly a
+ nd incompletely\, so neurologic decline often outpaces engraftment\, while
+  myeloablative conditioning and graft-versus-host disease impose morbidity
+  that narrows the risk-benefit window. With newborn screening now detectin
+ g many of these disorders before symptom onset\, the principal constraint 
+ on outcomes is no longer early diagnosis but the limitations of available 
+ therapy. This session reviews two developments that may substantially impr
+ ove outcomes for these patients. The first is a conditioning strategy that
+  pairs brain-penetrant chemotherapy with transient CSF1R inhibition\, whic
+ h in preclinical models achieves near-complete microglial replacement with
+ in weeks rather than months. The second is autologous transplantation of h
+ ematopoietic stem cells gene-edited at the CCR5 safe harbor to secrete sup
+ raphysiologic enzyme\, eliminating the need for a matched donor and the ri
+ sk of GVHD. Data will be presented acros
+END:VEVENT
+END:VCALENDAR
