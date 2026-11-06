@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54438180058341@didiowen
+DTSTAMP:20261106T012418Z
+DTSTART:20261120T180000Z
+DTEND:20261120T180000Z
+SUMMARY:[線上] Immigration Pathways Beyond F-1
+LOCATION:
+URL:https://events.stanford.edu/event/immigration-pathways-beyond-f-1
+DESCRIPTION:https://events.stanford.edu/event/immigration-pathways-beyond-f
+ -1\n報名/票券: https://stanford.zoom.us/webinar/register/WN_MJptdjjERO
+ KuC0BOzjc1yw#/registration\n\nIn this webinar\, immigration attorneys will
+  discuss immigration pathways available to foreign national students beyon
+ d F-1 status\, including nonimmigrant work visa options\, immigrant visa (
+ lawful permanent residence) options\, and related immigration issues. The 
+ webinar will provide the knowledge and tools needed to strategically and i
+ ntentionally plan your U.S. immigration journey beyond F-1 status.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54437727733631@didiowen
+DTSTAMP:20261106T012609Z
+DTSTART:20261118T210000Z
+DTEND:20261118T210000Z
+SUMMARY:[線上] Slavic Languages and Literatures - A Ukrainian Century: É
+ migré Poets in Prague
+LOCATION:
+URL:https://events.stanford.edu/event/slavic-languages-and-literatures-a-uk
+ rainian-century-emigre-poets-in-prague
+DESCRIPTION:https://events.stanford.edu/event/slavic-languages-and-literatu
+ res-a-ukrainian-century-emigre-poets-in-prague\n\nPlease join us for the t
+ hird Zoom of our series\, dedicated to the interwar emigre poetry of Pragu
+ e\, where a fascinating group of Ukrainian poets and political activists c
+ amped out during the late 1920s and 1930s\, featuring Amelia Glaser and Ai
+ nsley Morse\, UCSD colleagues and translators of Vasyl Khmeliuk\, Olena Te
+ liha\, Yevhen Malaniuk\, and Natalia Livytska-Kholodna\, who will read fro
+ m their work and discuss the innovative poetics of the Prague scene. Conve
+ ning the discussion will be Ostap Kin\, co-editor of A Ukrainian Century: 
+ Poems\, 1900–1999\, an anthology forthcoming in Fall 2027 from World Poe
+ try Books.\n\nCo-sponsored by the Department of Slavic Languages and Liter
+ atures at Stanford University and the Institute of Arts and Humanities\, R
+ ussian\, East European\, and Eurasian Studies at UC San Diego.
+END:VEVENT
+END:VCALENDAR

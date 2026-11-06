@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54438062895197@didiowen
+DTSTAMP:20261106T005430Z
+DTSTART:20261117T013000Z
+DTEND:20261117T030000Z
+SUMMARY:[現場] Aditya Balasubramanian | Before Public Works: Roads in Lat
+ e Company Period India
+LOCATION:Humanities Center\, SHC Board Room
+URL:https://events.stanford.edu/event/aditya-balasubramanian-before-public-
+ works-roads-in-late-company-period-india
+DESCRIPTION:https://events.stanford.edu/event/aditya-balasubramanian-before
+ -public-works-roads-in-late-company-period-india\n\nJoin the Stanford Huma
+ nities Center and Center for South Asia in welcoming Dr. Aditya Balasubram
+ anian (Australian National University) to campus\, who will share his rese
+ arch through the Eurasian Empires Research Workshop.\n\nThis event is taki
+ ng place on Monday\, November 16th from 5:30-7:00pm at the Stanford Humani
+ ties Center.
+END:VEVENT
+END:VCALENDAR
