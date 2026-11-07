@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54445649547777@didiowen
+DTSTAMP:20261107T122428Z
+DTSTART:20261113T200000Z
+DTEND:20261113T210000Z
+SUMMARY:[混合] SDRC Friday Seminar 11/13/26
+LOCATION:Beckman Center\, B302
+URL:https://events.stanford.edu/event/sdrc-friday-seminar
+DESCRIPTION:https://events.stanford.edu/event/sdrc-friday-seminar\n線上
+ 資訊:\nFor Zoom attendees:\nZoom link: https://stanford.zoom.us/j/984797
+ 31295?pwd=NC9KZTZkUkZRNEdmRjNyY21qRk50Zz09\nMeeting ID: 98479731295\nPass
+ word: 348339\nIf the above link is not working\, please go to Zoom https:
+ //stanford.zoom.us/j/ directly and enter the listed Meeting ID and passwo
+ rd.\n\nJessie Wong\, PhD\nClinical Associate Professor\, Department of Ped
+ iatrics\, Stanford University\n\n"An Integrative Approach to Diabetes Risk
+  Detection and Device Distress"
+END:VEVENT
+END:VCALENDAR

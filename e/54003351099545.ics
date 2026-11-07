@@ -4,20 +4,21 @@ PRODID:-//didiowen//stanford-public-events//EN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mine-54003351099545@didiowen
-DTSTAMP:20261105T195424Z
+DTSTAMP:20261107T002435Z
 DTSTART:20261114T033000Z
 DTEND:20261114T050000Z
-SUMMARY:[混合] Stanford Jazz Orchestra
+SUMMARY:[混合] Stanford Jazz Orchestra with Debora & Dani Gurgel
 LOCATION:Dinkelspiel Auditorium
 URL:https://events.stanford.edu/event/jazz-orchestra-fall26
 DESCRIPTION:https://events.stanford.edu/event/jazz-orchestra-fall26\n線上
  連結: https://music.stanford.edu/sjo_live\n報名/票券: https://live.s
  tanford.edu/s/event?EventID=48401\n\nThe Stanford Jazz Orchestra\, under t
  he direction of Michael Galisatus\, performs their 2026 Fall Concert from 
- the main stage of Dinkelspiel Auditorium.\n\nAdmission Information\n\nGene
- ral – $32 | Seniors (65+) and Non-Stanford Students – $27\nPrice shown
-  reflects total cost including $4 online/phone per-ticket fee.FREE admissi
- on for Stanford University students. One ticket per ID\, available beginni
- ng one hour prior to curtain at the venue.This event will be livestreamed.
+ the main stage of Dinkelspiel Auditorium with special guests Debora & Dani
+  Gurgel.\n\nAdmission Information\n\nGeneral – $32 | Seniors (65+) and N
+ on-Stanford Students – $27\nPrice shown reflects total cost including $4
+  online/phone per-ticket fee.FREE admission for Stanford University studen
+ ts. One ticket per ID\, available beginning one hour prior to curtain at t
+ he venue.This event will be livestreamed.
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54445790003374@didiowen
+DTSTAMP:20261106T215438Z
+DTSTART:20261204T003000Z
+DTEND:20261204T015000Z
+SUMMARY:[混合] The Genesis Mission AI Project: From Materials Development
+  to Autonomous Labs and Beyond
+LOCATION:Bishop Auditorium
+URL:https://events.stanford.edu/event/data-center-expansion-challenges-and-
+ solutions-for-thermal-management-and-materials-access
+DESCRIPTION:https://events.stanford.edu/event/data-center-expansion-challen
+ ges-and-solutions-for-thermal-management-and-materials-access\n報名/票
+ 券: https://asia.stanford.edu/course/topics-in-international-technology-m
+ anagement/2026-critical-materials/deepmaterials/\n\n---\n\nOur series on 
+ “Topics in International Technology Management | Challenges and Solution
+ s for Critical Materials in Energy and Electronics" begins September 24\, 
+ 2026 and continues until December 3\, 2026. Seminars will be held most Thu
+ rsdays\, 4:30 PM – 5:50 PM.  The series is available to Stanford student
+ s for credit\; register for MATSCI 402A “Topics in International Technol
+ ogy Management\,” also cross-listed as EE-402A\, EASTASN 402A and EALC-4
+ 02A\, 1 unit S/NC. \n\nTo attend by Zoom\, please register here.\n\nTo att
+ end in-person\, please register over Eventbrite here.
+END:VEVENT
+END:VCALENDAR

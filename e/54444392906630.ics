@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54444392906630@didiowen
+DTSTAMP:20261106T181350Z
+DTSTART:20261119T013000Z
+DTEND:20261119T033000Z
+SUMMARY:[混合] Three L.A.S.E.R. talks: Media Art\, AI\, The Self and Cons
+ ciousness
+LOCATION:The Hub at Stanford Research Park
+URL:https://events.stanford.edu/event/three-laser-talks-media-art-ai-the-se
+ lf-and-consciousness
+DESCRIPTION:https://events.stanford.edu/event/three-laser-talks-media-art-a
+ i-the-self-and-consciousness\n\nPlease park at 3165 Porter Dr (free)\n\nTh
+ e LASERs (Leonardo Art Science Evening Rendezvous) are an international pr
+ ogram of evening gatherings that bring artists and scientists together for
+  informal presentations and conversation with an audience. This evening\, 
+ chaired by cultural historian Piero Scaruffi\, will feature these talks:\n
+ \n- Liat Berdugo (Media Artist) on "Technologies of the Surface: Embodying
+  the Gestural Interfaces of Everyday Technology"\n\n- Julia Markel on "Whi
+ ch self does AI remember?"\n\n- Vinod Menon (Professor of Psychiatry & Beh
+ avioral Sciences) on "The Default Mode Network\, the Self\, and Consciousn
+ ess in the Age of AI"\n\nLiat Berdugo is a multidisciplinary artist and wr
+ iter whose work investigates the relationship between technology\, visuali
+ ty\, politics\, and power. She is an Associate Professor of Art + Architec
+ ture at the University of San Francisco. Her work has been exhibited in th
+ e USA\, Europe and Australia. Her book\, The Weaponized Camera in the Midd
+ le East\, was published in 2021. Along with Emily Martinez\, she is one ha
+ lf of the art collective\, Anxious to Make\, and is the co-founder of the 
+ Living Room Light Exchange\, a monthly new media art series.\n\nJulia Mark
+ el is currently a final-year PhD student in Computer Science at Stanford\,
+  advised by James Landay. Her research interests are in human-computer int
+ eraction with a focus on human-centered AI. She is currently working on pr
+ ojects that span philosophy of the self and AI\, specifically investigatin
+ g how 
+END:VEVENT
+END:VCALENDAR
