@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54471654919634@didiowen
+DTSTAMP:20261109T220936Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:[現場] Poetry on the Porch with Stephanie Horvath and Hieu Minh N
+ guyen
+LOCATION:Mariposa House\, Front Lawn
+URL:https://events.stanford.edu/event/poetry-on-the-porch-with-stephanie-ho
+ rvath-and-hieu-minh-nguyen
+DESCRIPTION:https://events.stanford.edu/event/poetry-on-the-porch-with-step
+ hanie-horvath-and-hieu-minh-nguyen\n報名/票券: https://forms.gle/pTpor
+ 2hCFwK8TKn47\n\nJoin us for an afternoon of poetry on the porch\, in celeb
+ ration of Creative Writing lecturers Stephanie Horvath and Hieu Minh Nguye
+ n\, as they launch their newest poetry collections Field of Vision and Sta
+ ying Still.\n\nThis event is open to Stanford affiliates and the general p
+ ublic. Refreshments provided and books available for purchase. Registratio
+ n is encouraged but not required\; register here.\n\n____\n\nIn Horvath's 
+ Field of Vision\, we traverse the thresholds of past and future\, reality 
+ and dream\, as we accompany the speaker through deserts\, forests\, rivers
+ \, and coasts. These poems capture\, viscerally and intimately\, a sense o
+ f deep time in the rural landscape—dark\, damp dirt on one’s hands\, a
+  desert over which vultures circle\, the decay of wet leaves on a forest f
+ loor. A meditation on the horror and resplendence of nature\, Field of Vis
+ ion invokes the ancient history that weaves into each of our individual hi
+ stories—the earth\, the animals\, the fossils\, the primordial echoes th
+ at shape us all.\n\nThe highly anticipated follow-up to the award-winning 
+ poetry collection Not Here\, Nguyen’s Staying Still centers on the quest
+ ion of how: How do our anxieties around the idea of belonging estrange us 
+ from the very world we seek to belong in? How impossible does it feel to s
+ tay still and face ourselves? From the intimate longing of queer boyhood t
+ o the collective expectations imposed upon children of refugees\, these po
+ ems face head-on the rejections\, grief\, and violence we fear in fracture
+END:VEVENT
+END:VCALENDAR

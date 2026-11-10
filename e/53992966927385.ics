@@ -4,7 +4,7 @@ PRODID:-//didiowen//stanford-public-events//EN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mine-53992966927385@didiowen
-DTSTAMP:20261007T173850Z
+DTSTAMP:20261109T185335Z
 DTSTART:20261209T200000Z
 DTEND:20261209T210000Z
 SUMMARY:[混合] Improbable Research and the Ig Nobel Prizes
@@ -19,6 +19,8 @@ DESCRIPTION:https://events.stanford.edu/event/medicine-grand-rounds-with-ma
  hams\, the founder of the Ig Nobel Prize\, awarded annually to research th
  at "first makes you laugh\, then makes you think\," and the editor of Anna
  ls of Improbable Research\, whose career is dedicated to celebrating scien
- ce at its most surprising and delightfully absurd.
+ ce at its most surprising and delightfully absurd.\n\nCE accreditation inf
+ o here.\n\nCME Activity ID: 58653\n\nMOC Credit (1): Complete this form af
+ ter each session\; reflective statement (1-2 sentences) required.
 END:VEVENT
 END:VCALENDAR

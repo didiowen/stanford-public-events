@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54472726245246@didiowen
+DTSTAMP:20261110T002424Z
+DTSTART:20261113T213000Z
+DTEND:20261113T213000Z
+SUMMARY:[現場] Film Screening: Prisoner No. 626710 is Present\, or Qaidi
+  No. 626710 Haazir Hai
+LOCATION:McMurtry Building\, 115
+URL:https://events.stanford.edu/event/film-screening-prisoner-no-626710-is-
+ present-orqaidi-no-626710-haazir-hai
+DESCRIPTION:https://events.stanford.edu/event/film-screening-prisoner-no-62
+ 6710-is-present-orqaidi-no-626710-haazir-hai\n\nThis event is co-sponsored
+  by the Center for South Asia and the Department of Art and Art History.\n
+ \nPrisoner No. 626710 is Present chronicles the arrest and prolonged incar
+ ceration of activist Umar Khalid\, accused of orchestrating the 2020 New D
+ elhi riots. Through archival footage and personal accounts\, Lalit Vachani
+  explores Khalid’s activism\, the impact of his imprisonment on his part
+ ner Banojyotsna Lahiri\, and the broader crackdown on dissent under the Mo
+ di government. The film situates Khalid’s story within the larger politi
+ cal repression of civil rights movements and Muslim voices in India.
+END:VEVENT
+END:VCALENDAR

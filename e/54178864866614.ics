@@ -4,7 +4,7 @@ PRODID:-//didiowen//stanford-public-events//EN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mine-54178864866614@didiowen
-DTSTAMP:20261007T175425Z
+DTSTAMP:20261109T185419Z
 DTSTART:20261216T200000Z
 DTEND:20261216T210000Z
 SUMMARY:[混合] Fireside Chat with Anne Wojcicki
@@ -18,6 +18,8 @@ DESCRIPTION:https://events.stanford.edu/event/fireside-chat-with-anne-wojci
  i\, a pioneering force in consumer genomics and personalized medicine who 
  co-founded 23andMe to democratize access to genetic information\, and who 
  is now leading its next chapter through the not-for-profit TTAM Research I
- nstitute.
+ nstitute.\n\nCE accreditation info here.\n\nCME Activity ID: 58654\n\nMOC 
+ Credit (1): Complete this form after each session\; reflective statement (
+ 1-2 sentences) required.
 END:VEVENT
 END:VCALENDAR

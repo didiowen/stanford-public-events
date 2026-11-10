@@ -4,7 +4,7 @@ PRODID:-//didiowen//stanford-public-events//EN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mine-53604059427397@didiowen
-DTSTAMP:20261109T114618Z
+DTSTAMP:20261109T193314Z
 DTSTART:20261110T200000Z
 DTEND:20261110T211500Z
 SUMMARY:[現場] Biosecurity in an Age of AI: Frontier Safety\, Anticipator
@@ -14,25 +14,25 @@ URL:https://events.stanford.edu/event/biosecurity-in-an-age-of-ai-frontier-
  safety-anticipatory-governance-and-defensive-innovation-jassi-pannu
 DESCRIPTION:https://events.stanford.edu/event/biosecurity-in-an-age-of-ai-f
  rontier-safety-anticipatory-governance-and-defensive-innovation-jassi-pann
- u\n報名/票券: https://stanforduniversity.qualtrics.com/jfe/form/SV_54M
- qs4aFf2ub1FI\n\nAbout the event: This talk will discuss recent advancement
- s in AI for biology\, and relevant security and oversight considerations. 
- It will also discuss how policy can be used to incentivize and shape techn
- ology development for defensive purposes\, clarifying how the colloquial "
- defensive acceleration" or d/acc concept in AI circles relates to formal o
- ffense-defense balance concepts.\n\nAbout the speaker: Dr. Pannu is an Ass
- istant Professor at the Johns Hopkins Bloomberg School of Public Health an
- d Senior Scholar at the Center for Health Security. She is currently Direc
- tor of Frontier Safety at the Chan Zuckerberg Biohub\, a philanthropic res
- earch organization focused on AI for biology. Dr. Pannu’s primary areas 
- of research include biosecurity\, pandemic preparedness\, and emerging tec
- hnology security and governance. Dr. Pannu previously worked on AI-enabled
-  diagnostics at Google and has served as a subject-matter expert for the N
- ational Academies of Sciences\, the EU AI Office\, and the Bipartisan Comm
- ission on Biodefense\, among others. She serves on the board of Blueprint 
- Biosecurity\, a nonprofit dedicated to achieving breakthroughs in humanity
- 's ability to prevent pandemics. Dr. Pannu regularly briefs government off
- icials and policymakers on emerging technologies with security implication
- s\, including artificial intelligence and synthetic biology.
+ u\n\nThis event has reached full capacity. Registration is closed.\n\nAbou
+ t the event: This talk will discuss recent advancements in AI for biology\
+ , and relevant security and oversight considerations. It will also discuss
+  how policy can be used to incentivize and shape technology development fo
+ r defensive purposes\, clarifying how the colloquial "defensive accelerati
+ on" or d/acc concept in AI circles relates to formal offense-defense balan
+ ce concepts.\n\nAbout the speaker: Dr. Pannu is an Assistant Professor at 
+ the Johns Hopkins Bloomberg School of Public Health and Senior Scholar at 
+ the Center for Health Security. She is currently Director of Frontier Safe
+ ty at the Chan Zuckerberg Biohub\, a philanthropic research organization f
+ ocused on AI for biology. Dr. Pannu’s primary areas of research include 
+ biosecurity\, pandemic preparedness\, and emerging technology security and
+  governance. Dr. Pannu previously worked on AI-enabled diagnostics at Goog
+ le and has served as a subject-matter expert for the National Academies of
+  Sciences\, the EU AI Office\, and the Bipartisan Commission on Biodefense
+ \, among others. She serves on the board of Blueprint Biosecurity\, a nonp
+ rofit dedicated to achieving breakthroughs in humanity's ability to preven
+ t pandemics. Dr. Pannu regularly briefs government officials and policymak
+ ers on emerging technologies with security implications\, including artifi
+ cial intelligence and synthetic biology.
 END:VEVENT
 END:VCALENDAR
