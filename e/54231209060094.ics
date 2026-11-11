@@ -4,10 +4,10 @@ PRODID:-//didiowen//stanford-public-events//EN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mine-54231209060094@didiowen
-DTSTAMP:20261109T122039Z
+DTSTAMP:20261110T171852Z
 DTSTART:20261111T203000Z
-DTEND:20261111T220000Z
-SUMMARY:[現場] Mighty Like A Moose – Stephen Prutsman & The Dolphins Qu
+DTEND:20261111T210000Z
+SUMMARY:[現場] Mighty Like a Moose – Stephen Prutsman & The Dolphins Qu
  artet
 LOCATION:Braun Music Center\, Campbell Recital Hall
 URL:https://events.stanford.edu/event/mighty-like-a-moose-prutsman-dolphins
@@ -23,8 +23,8 @@ DESCRIPTION:https://events.stanford.edu/event/mighty-like-a-moose-prutsman-
  ne the possibilities of quartet playing. In April 2026\, they won Gold Pri
  ze and Audience Prize at the Chesapeake Chamber Music Competition\, establ
  ishing their presence as a world-class ensemble in the classical music sce
- ne. Read more here!\n\nAmission Information\n\nFree admissionParking permi
- ts are required for weekday campus parking. We recommend downloading the P
- arkMobile app before arriving.
+ ne. Read more here!\n\nAdmission Information\n\nFree admissionParking perm
+ its are required for weekday campus parking. We recommend downloading the 
+ ParkMobile app before arriving.
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54481993753237@didiowen
+DTSTAMP:20261110T235429Z
+DTSTART:20261201T230000Z
+DTEND:20261202T010000Z
+SUMMARY:[現場] Terman Library Presents: Textile Destress
+LOCATION:Y2E2 Building\, 335
+URL:https://events.stanford.edu/event/terman-library-presents-textile-destr
+ ess-8847
+DESCRIPTION:https://events.stanford.edu/event/terman-library-presents-texti
+ le-destress-8847\n\nLooking to take a break before finals week? Or want to
+  work on your embroidery skills? Terman Engineering Library (happily) pres
+ ents a session covering the basics of embroidery featuring a guest instruc
+ tor from Green Library. Participants will leave with a finished embroidery
+  design and all materials are included free of charge!
+END:VEVENT
+END:VCALENDAR
