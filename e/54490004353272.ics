@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54490004353272@didiowen
+DTSTAMP:20261112T121508Z
+DTSTART:20261120T200000Z
+DTEND:20261120T200000Z
+SUMMARY:[混合] Building Evidentiary Infrastructure During an Active War: 
+ Lessons from the Ukraine War Archive
+LOCATION:Encina Commons\, Room 123
+URL:https://events.stanford.edu/event/building-evidentiary-infrastructure-d
+ uring-an-active-war-lessons-from-the-ukraine-war-archive
+DESCRIPTION:https://events.stanford.edu/event/building-evidentiary-infrastr
+ ucture-during-an-active-war-lessons-from-the-ukraine-war-archive\n\nRussia
+ 's full-scale invasion of Ukraine has become the most extensively document
+ ed war in history\, generating millions of photographs\, videos\, witness 
+ testimonies and open-source records every day. Preserving this material is
+  no longer simply an archival challenge: it is fundamental to future justi
+ ce\, historical memory and understanding contemporary wars. In this sessio
+ n\, Maksym Demydenko\, Co-Founder and Executive Director of the Ukraine Wa
+ r Archive (UWA)\, will explore how UWA has built one of the world's larges
+ t independent digital archives documenting the war in Ukraine. Drawing on 
+ practical experience\, he will discuss the challenges of preserving digita
+ l evidence during an ongoing conflict\, from provenance\, metadata and int
+ eroperability to AI-assisted evidence management and the ethical responsib
+ ilities of maintaining sensitive records at scale. The session will examin
+ e how archives are evolving from passive repositories into active evidenti
+ ary infrastructures that support investigators\, journalists and future ac
+ countability processes. It will also consider how the Ukrainian experience
+  can help archivists and records professionals prepare for future digital 
+ conflicts.\n\nThis event is only open to Stanford students\, staff\, facul
+ ty & affiliates.\n\nIn-person RSVP here.\nVirtual webinar registration her
+ e. \n\nMaksym Demydenko is Co-Founder and Executive Director of the Ukrain
+ e War Archive (UWA)\, an independent non-profit organisation dedicated to 
+ preserving digital evidence of Russ
+END:VEVENT
+END:VCALENDAR
