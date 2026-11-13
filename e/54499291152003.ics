@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54499291152003@didiowen
+DTSTAMP:20261112T225417Z
+DTSTART:20261209T003000Z
+DTEND:20261209T023000Z
+SUMMARY:[現場] Celebrating the Winners of the 2026 Saroyan Prize
+LOCATION:Green Library\, Bing Wing\, 5th floor\, Bender Room
+URL:https://events.stanford.edu/event/2026-saroyan-prize
+DESCRIPTION:https://events.stanford.edu/event/2026-saroyan-prize\n報名/
+ 票券: https://forms.gle/rJfz4qazRpBpysFK9\n\nPlease join us as we celebr
+ ate the winners of the 2026 William Saroyan International Prize for Writin
+ g!\n\nJustin Haynes\nfiction winner and author of\nIbis\n&\nChloe Dalton\n
+ nonfiction winner and author of\nRaising Hare\n(Chloe will be presenting v
+ ia recorded remarks)\n\nTuesday\, December 8\, 2026\n4:30 to 6:30 pm\nGree
+ n Library\, 5th floor\, Bender Room\n\nThe event will feature remarks and 
+ readings by Justin Haynes in person and Chloe Dalton via pre-recorded vide
+ o. Both authors’ books will be available for purchase.\n\nPlease registe
+ r if you would like to attend.\n\nJustin Haynes’ debut novel\, Ibis (Abr
+ ams\, 2025)\, and Chloe Dalton’s memoir\, Raising Hare (Pantheon Books\,
+  2025) are the recipients of the 2026 William Saroyan International Prize 
+ for Writing administered by Stanford University Libraries and the William 
+ Saroyan Foundation. The biennial prize honors the life and legacy of novel
+ ist\, playwright\, and short-story author William Saroyan by encouraging a
+ nd recognizing new and emerging writers.\n\nLearn more about the winners a
+ nd their books.
+END:VEVENT
+END:VCALENDAR

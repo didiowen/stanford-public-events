@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//didiowen//stanford-public-events//EN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:mine-54001252224950@didiowen
-DTSTAMP:20260917T233205Z
-DTSTART:20270312T203000Z
-DTEND:20270312T220000Z
+UID:mine-54497219083818@didiowen
+DTSTAMP:20261112T172432Z
+DTSTART:20270311T203000Z
+DTEND:20270311T220000Z
 SUMMARY:[現場] Noon Concert: Piano Students of Sandra Shen
 LOCATION:Braun Music Center\, Campbell Recital Hall
 URL:https://events.stanford.edu/event/noon-shen-win27
