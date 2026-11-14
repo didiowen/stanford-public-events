@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/Los_Angeles
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:stanford-54127760847492@didiowen
-DTSTAMP:20261001T232424Z
+DTSTAMP:20261113T233536Z
 DTSTART:20261205T033000Z
 DTEND:20261205T053000Z
 SUMMARY:[現場] Festival of Lessons & Carols
@@ -24,7 +24,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54127760884357@didiowen
-DTSTAMP:20261001T232424Z
+DTSTAMP:20261113T233536Z
 DTSTART:20261206T033000Z
 DTEND:20261206T053000Z
 SUMMARY:[現場] Festival of Lessons & Carols
@@ -40,7 +40,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53613550873705@didiowen
-DTSTAMP:20261113T122252Z
+DTSTAMP:20261114T114142Z
 DTSTART:20261122T220000Z
 DTEND:20261122T230000Z
 SUMMARY:[現場]  Public Tour | Cantor Highlights in Spanish
@@ -196,26 +196,8 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
   please contact seminar@blackstarprojects.org.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-53261076733106@didiowen
-DTSTAMP:20261112T113432Z
-DTSTART:20261113T200000Z
-DTEND:20261113T210000Z
-SUMMARY:[現場] Drop-In Drawing @ The Anderson
-LOCATION:Anderson Collection
-URL:https://events.stanford.edu/event/anderson-friday-drop-in-drawing
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/53261076733106.ics\nhttps://events.stanford.edu/event/ande
- rson-friday-drop-in-drawing\n\nNo experience? No problem. Drop-In Drawing 
- happens every 2nd and 4th Friday — just show up\, grab a pencil\, and sk
- etch your way through the galleries.\n\nIt's free\, it's easy\, and there'
- s no wrong way to do it. All materials provided\, all ages welcome\, zero 
- pressure.\n\nClick the "+" to see more upcoming Drop-in Drawing dates.\n\n
- <<<<<---------------------------------------------------------------------
- ------
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54472291624983@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20261127T200000Z
 DTEND:20261127T210000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -233,7 +215,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076734131@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20261211T200000Z
 DTEND:20261211T210000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -251,7 +233,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076735156@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270108T200000Z
 DTEND:20270108T210000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -269,7 +251,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076736181@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270122T200000Z
 DTEND:20270122T210000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -287,7 +269,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076737206@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270212T200000Z
 DTEND:20270212T210000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -305,7 +287,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076738231@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270226T200000Z
 DTEND:20270226T210000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -323,7 +305,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076739256@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270312T200000Z
 DTEND:20270312T210000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -341,7 +323,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076741305@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270326T190000Z
 DTEND:20270326T200000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -359,7 +341,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076742330@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270409T190000Z
 DTEND:20270409T200000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -377,7 +359,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076743355@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270423T190000Z
 DTEND:20270423T200000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -395,7 +377,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076744380@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270514T190000Z
 DTEND:20270514T200000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -413,7 +395,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076745405@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270528T190000Z
 DTEND:20270528T200000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -431,7 +413,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076746430@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270611T190000Z
 DTEND:20270611T200000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -449,7 +431,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076748479@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270625T190000Z
 DTEND:20270625T200000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -467,7 +449,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076749504@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270709T190000Z
 DTEND:20270709T200000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -485,7 +467,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076752577@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270723T190000Z
 DTEND:20270723T200000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -503,7 +485,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076754626@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270813T190000Z
 DTEND:20270813T200000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -521,7 +503,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076755651@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270827T190000Z
 DTEND:20270827T200000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -539,7 +521,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076756676@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270910T190000Z
 DTEND:20270910T200000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -557,7 +539,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53261076758725@didiowen
-DTSTAMP:20261112T113432Z
+DTSTAMP:20261114T113536Z
 DTSTART:20270924T190000Z
 DTEND:20270924T200000Z
 SUMMARY:[現場] Drop-In Drawing @ The Anderson
@@ -629,7 +611,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-52853945971574@didiowen
-DTSTAMP:20261113T111641Z
+DTSTAMP:20261114T112840Z
 DTSTART:20261118T163000Z
 DTEND:20261118T220000Z
 SUMMARY:[線上] Suicide Assessment and Treatment: An Update for Profession
@@ -700,7 +682,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53251196125393@didiowen
-DTSTAMP:20261113T121721Z
+DTSTAMP:20261114T113529Z
 DTSTART:20261120T013000Z
 DTEND:20261120T030000Z
 SUMMARY:[現場] Holly Herndon & Mat Dryhurst: Protocol Art
@@ -735,7 +717,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53286213436273@didiowen
-DTSTAMP:20261113T121738Z
+DTSTAMP:20261114T113547Z
 DTSTART:20261116T191500Z
 DTEND:20261116T201500Z
 SUMMARY:[現場] November Museum Minis: Storytime at the Anderson
@@ -1053,41 +1035,6 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  annual-marvin-a-karasek-lecture-in-dermatology\n\nMore details to come.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-53568260119599@didiowen
-DTSTAMP:20261112T113908Z
-DTSTART:20261113T213000Z
-DTEND:20261113T213000Z
-SUMMARY:[現場] Time Doesn’t Stop: History\, Crisis\, and the Future of 
- Leftist Political Projects in South America
-LOCATION:Bolivar House
-URL:https://events.stanford.edu/event/el-tiempo-no-para-memoria-y-historia-
- para-pensar-proyectos-de-futuro-en-el-cono-sur
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/53568260119599.ics\nhttps://events.stanford.edu/event/el-t
- iempo-no-para-memoria-y-historia-para-pensar-proyectos-de-futuro-en-el-con
- o-sur\n\nCo-sponsored by the Consulate General of Uruguay in San Francisco
- \n\nIn this lecture\, authors Aldo Marchesi y Vania Markarian will present
-  their book El tiempo no para. The book aims to trace the history of the i
- dea of human rights and to understand the impact of that concept on the de
- velopment of democracies at the close of the 20th century and in progressi
- ve governments of the 21st century. It further puts forth questions on the
-  limits of the language of human rights when considering the contemporary 
- crisis. \n\nAldo Marchesi holds a PhD in History from New York University 
- and is a Professor in the Department of Theory and Historiography at the I
- nstitute for History at The University of the Republic\, as well as a memb
- er of the Center for Uruguayan Interdisciplinary Studies. Together with co
- lleagues from other disciplines\, he recently founded the Institute for Re
- search on Social Justice and Inequality. He is a member of the National Sy
- stem of Researchers in Uruguay. He has served as a visiting professor at u
- niversities and research centers in the United States\, Chile\, Argentina\
- , Colombia\, and China. His work has focused on the recent history of Urug
- uay and the Southern Cone. He has published numerous articles and books. H
- is first book\, reissued in 2023\, was El Uruguay Inventado: La política 
- audiovisual durante la dictadura. His most recent book\, a regional histor
- y of the armed Left in the Southern Cone\, was published in Spanish and En
- glish under the title Hacer la revolución (Ma
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-53619872697622@didiowen
 DTSTAMP:20260805T204252Z
 DTSTART;VALUE=DATE:20270219
@@ -1157,7 +1104,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53630642907719@didiowen
-DTSTAMP:20261113T122326Z
+DTSTAMP:20261114T114218Z
 DTSTART:20261120T020000Z
 DTEND:20261120T030000Z
 SUMMARY:[現場] Anatomical Gift Program Donor Memorial Service
@@ -1185,29 +1132,8 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
   at 6pm and doors will open at 5:30pm.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-53694860301350@didiowen
-DTSTAMP:20261113T122512Z
-DTSTART:20261113T193000Z
-DTEND:20261113T203000Z
-SUMMARY:[現場] Public Tour |  Auguste Rodin
-LOCATION:Cantor Arts Center
-URL:https://events.stanford.edu/event/copy-of-cancelled-public-tour-auguste
- -rodin-565
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/53694860301350.ics\nhttps://events.stanford.edu/event/copy
- -of-cancelled-public-tour-auguste-rodin-565\n\nJoin us for a tour of our i
- ndoor and outdoor Rodin Sculptures! Our collection spans three galleries\,
-  an outdoor sculpture garden\, and features nearly 100 Rodin sculptures es
- sential to telling his story and representing his groundbreaking engagemen
- t with the body.\n\nIMAGE: Auguste Rodin (France\, 1840–1917)\, The Age 
- of Bronze (L’Âge d’airain)\, 1875-1876. Bronze\, cast c. 1920. Gift o
- f the B. Gerald Cantor Collection\, 1983.300\n\nPublic Tours: Fridays and 
- Saturdays at 11:30am \n\nAdmission Info\n\nTours do not require a reservat
- ion and are free of charge.\n\nFirst come\, first served!
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-53694860302375@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20261114T193000Z
 DTEND:20261114T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1228,7 +1154,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860302376@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20261120T193000Z
 DTEND:20261120T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1249,7 +1175,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860303401@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20261121T193000Z
 DTEND:20261121T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1270,7 +1196,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860304426@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20261127T193000Z
 DTEND:20261127T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1291,7 +1217,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860305451@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20261128T193000Z
 DTEND:20261128T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1312,7 +1238,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860305452@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20261204T193000Z
 DTEND:20261204T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1333,7 +1259,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860306477@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20261205T193000Z
 DTEND:20261205T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1354,7 +1280,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860307502@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20261211T193000Z
 DTEND:20261211T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1375,7 +1301,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860308527@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20261212T193000Z
 DTEND:20261212T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1395,8 +1321,50 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  ion and are free of charge.\n\nFirst come\, first served!
 END:VEVENT
 BEGIN:VEVENT
+UID:stanford-54508400409840@didiowen
+DTSTAMP:20261114T114422Z
+DTSTART:20261226T193000Z
+DTEND:20261226T203000Z
+SUMMARY:[現場] Public Tour |  Auguste Rodin
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/copy-of-cancelled-public-tour-auguste
+ -rodin-565
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54508400409840.ics\nhttps://events.stanford.edu/event/copy
+ -of-cancelled-public-tour-auguste-rodin-565\n\nJoin us for a tour of our i
+ ndoor and outdoor Rodin Sculptures! Our collection spans three galleries\,
+  an outdoor sculpture garden\, and features nearly 100 Rodin sculptures es
+ sential to telling his story and representing his groundbreaking engagemen
+ t with the body.\n\nIMAGE: Auguste Rodin (France\, 1840–1917)\, The Age 
+ of Bronze (L’Âge d’airain)\, 1875-1876. Bronze\, cast c. 1920. Gift o
+ f the B. Gerald Cantor Collection\, 1983.300\n\nPublic Tours: Fridays and 
+ Saturdays at 11:30am \n\nAdmission Info\n\nTours do not require a reservat
+ ion and are free of charge.\n\nFirst come\, first served!
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54508400410865@didiowen
+DTSTAMP:20261114T114422Z
+DTSTART:20270102T193000Z
+DTEND:20270102T203000Z
+SUMMARY:[現場] Public Tour |  Auguste Rodin
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/copy-of-cancelled-public-tour-auguste
+ -rodin-565
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54508400410865.ics\nhttps://events.stanford.edu/event/copy
+ -of-cancelled-public-tour-auguste-rodin-565\n\nJoin us for a tour of our i
+ ndoor and outdoor Rodin Sculptures! Our collection spans three galleries\,
+  an outdoor sculpture garden\, and features nearly 100 Rodin sculptures es
+ sential to telling his story and representing his groundbreaking engagemen
+ t with the body.\n\nIMAGE: Auguste Rodin (France\, 1840–1917)\, The Age 
+ of Bronze (L’Âge d’airain)\, 1875-1876. Bronze\, cast c. 1920. Gift o
+ f the B. Gerald Cantor Collection\, 1983.300\n\nPublic Tours: Fridays and 
+ Saturdays at 11:30am \n\nAdmission Info\n\nTours do not require a reservat
+ ion and are free of charge.\n\nFirst come\, first served!
+END:VEVENT
+BEGIN:VEVENT
 UID:stanford-53694860308528@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270108T193000Z
 DTEND:20270108T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1417,7 +1385,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860309553@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270109T193000Z
 DTEND:20270109T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1438,7 +1406,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860310578@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270115T193000Z
 DTEND:20270115T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1459,7 +1427,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860311603@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270116T193000Z
 DTEND:20270116T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1480,7 +1448,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860312628@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270122T193000Z
 DTEND:20270122T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1501,7 +1469,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860313653@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270123T193000Z
 DTEND:20270123T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1522,7 +1490,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860314678@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270129T193000Z
 DTEND:20270129T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1543,7 +1511,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860314679@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270130T193000Z
 DTEND:20270130T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1564,7 +1532,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860315704@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270205T193000Z
 DTEND:20270205T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1585,7 +1553,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860316729@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270206T193000Z
 DTEND:20270206T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1606,7 +1574,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860317754@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270212T193000Z
 DTEND:20270212T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1627,7 +1595,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860317755@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270213T193000Z
 DTEND:20270213T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1648,7 +1616,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860318780@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270219T193000Z
 DTEND:20270219T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1669,7 +1637,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860319805@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270220T193000Z
 DTEND:20270220T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1690,7 +1658,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860320830@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270226T193000Z
 DTEND:20270226T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1711,7 +1679,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860321855@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270227T193000Z
 DTEND:20270227T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1732,7 +1700,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860321856@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270305T193000Z
 DTEND:20270305T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1753,7 +1721,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860322881@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270306T193000Z
 DTEND:20270306T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1774,7 +1742,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860323906@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270312T193000Z
 DTEND:20270312T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1795,7 +1763,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860324931@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270313T193000Z
 DTEND:20270313T203000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1816,7 +1784,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860324932@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270319T183000Z
 DTEND:20270319T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1837,7 +1805,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860325957@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270320T183000Z
 DTEND:20270320T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1858,7 +1826,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860326982@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270326T183000Z
 DTEND:20270326T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1879,7 +1847,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860328007@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270327T183000Z
 DTEND:20270327T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1900,7 +1868,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860329032@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270402T183000Z
 DTEND:20270402T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1921,7 +1889,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860330057@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270403T183000Z
 DTEND:20270403T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1942,7 +1910,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860331082@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270409T183000Z
 DTEND:20270409T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1963,7 +1931,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860335179@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270410T183000Z
 DTEND:20270410T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -1984,7 +1952,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860336204@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270416T183000Z
 DTEND:20270416T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2005,7 +1973,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860337229@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270417T183000Z
 DTEND:20270417T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2026,7 +1994,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860339278@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270423T183000Z
 DTEND:20270423T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2047,7 +2015,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860340303@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270424T183000Z
 DTEND:20270424T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2068,7 +2036,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860341328@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270430T183000Z
 DTEND:20270430T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2089,7 +2057,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860341329@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270501T183000Z
 DTEND:20270501T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2110,7 +2078,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860342354@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270507T183000Z
 DTEND:20270507T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2131,7 +2099,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860343379@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270508T183000Z
 DTEND:20270508T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2152,7 +2120,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860344404@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270514T183000Z
 DTEND:20270514T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2173,7 +2141,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860345429@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270515T183000Z
 DTEND:20270515T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2194,7 +2162,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860345430@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270521T183000Z
 DTEND:20270521T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2215,7 +2183,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860346455@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270522T183000Z
 DTEND:20270522T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2236,7 +2204,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860347480@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270528T183000Z
 DTEND:20270528T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2257,7 +2225,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860348505@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270529T183000Z
 DTEND:20270529T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2278,7 +2246,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860349530@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270604T183000Z
 DTEND:20270604T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2299,7 +2267,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860349531@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270605T183000Z
 DTEND:20270605T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2320,7 +2288,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860350556@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270611T183000Z
 DTEND:20270611T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2341,7 +2309,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860351581@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270612T183000Z
 DTEND:20270612T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2362,7 +2330,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860352606@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270618T183000Z
 DTEND:20270618T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2383,7 +2351,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860352607@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270619T183000Z
 DTEND:20270619T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2404,7 +2372,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860353632@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270625T183000Z
 DTEND:20270625T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2425,7 +2393,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860354657@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270626T183000Z
 DTEND:20270626T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2446,7 +2414,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860355682@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270702T183000Z
 DTEND:20270702T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2467,7 +2435,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860356707@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270703T183000Z
 DTEND:20270703T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2488,7 +2456,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860356708@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270709T183000Z
 DTEND:20270709T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2509,7 +2477,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860357733@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270710T183000Z
 DTEND:20270710T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2530,7 +2498,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860358758@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270716T183000Z
 DTEND:20270716T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2551,7 +2519,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860359783@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270717T183000Z
 DTEND:20270717T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2572,7 +2540,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860360808@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270723T183000Z
 DTEND:20270723T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2593,7 +2561,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860360809@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270724T183000Z
 DTEND:20270724T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2614,7 +2582,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860361834@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270730T183000Z
 DTEND:20270730T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2635,7 +2603,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860362859@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270731T183000Z
 DTEND:20270731T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2656,7 +2624,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860363884@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270806T183000Z
 DTEND:20270806T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2677,7 +2645,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860363885@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270807T183000Z
 DTEND:20270807T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2698,7 +2666,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860364910@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270813T183000Z
 DTEND:20270813T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2719,7 +2687,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860365935@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270814T183000Z
 DTEND:20270814T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2740,7 +2708,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860366960@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270820T183000Z
 DTEND:20270820T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2761,7 +2729,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860367985@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270821T183000Z
 DTEND:20270821T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2782,7 +2750,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860367986@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270827T183000Z
 DTEND:20270827T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2803,7 +2771,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53694860369011@didiowen
-DTSTAMP:20261113T122512Z
+DTSTAMP:20261114T114422Z
 DTSTART:20270828T183000Z
 DTEND:20270828T193000Z
 SUMMARY:[現場] Public Tour |  Auguste Rodin
@@ -2824,7 +2792,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53695215989203@didiowen
-DTSTAMP:20261113T122513Z
+DTSTAMP:20261114T114422Z
 DTSTART:20261115T220000Z
 DTEND:20261115T230000Z
 SUMMARY:[現場] Public Tour | Cantor Highlights in Chinese
@@ -3000,7 +2968,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53728348826147@didiowen
-DTSTAMP:20261113T122550Z
+DTSTAMP:20261114T114504Z
 DTSTART:20261117T150000Z
 DTEND:20261117T160000Z
 SUMMARY:[混合] Norton Lecture
@@ -3131,7 +3099,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430748353@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20261114T210000Z
 DTEND:20261114T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3153,7 +3121,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430749378@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20261115T210000Z
 DTEND:20261115T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3175,7 +3143,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430750403@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20261121T210000Z
 DTEND:20261121T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3197,7 +3165,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430751428@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20261122T210000Z
 DTEND:20261122T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3219,7 +3187,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430752453@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20261128T210000Z
 DTEND:20261128T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3241,7 +3209,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430753478@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20261129T210000Z
 DTEND:20261129T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3263,7 +3231,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430755527@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20261205T210000Z
 DTEND:20261205T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3285,7 +3253,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430756552@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20261206T210000Z
 DTEND:20261206T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3307,7 +3275,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430757577@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20261212T210000Z
 DTEND:20261212T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3329,7 +3297,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430758602@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20261213T210000Z
 DTEND:20261213T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3351,7 +3319,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430759627@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20261219T210000Z
 DTEND:20261219T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3373,7 +3341,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430760652@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20261220T210000Z
 DTEND:20261220T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3394,8 +3362,96 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  es. Thank you!
 END:VEVENT
 BEGIN:VEVENT
+UID:stanford-54508366861454@didiowen
+DTSTAMP:20261114T114530Z
+DTSTART:20261226T210000Z
+DTEND:20261226T220000Z
+SUMMARY:[現場] Public Tour | A Closer Look
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/public-tour-a-closer-look
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54508366861454.ics\nhttps://events.stanford.edu/event/publ
+ ic-tour-a-closer-look\n\nDiscover new details\, perspectives\, and connect
+ ions with Cantor’s “A Closer Look” tours. Led by a Stanford Student 
+ Guide or volunteer Museum Engagement Guide\, each tour focuses on three to
+  four artworks organized around a theme\, providing participants with oppo
+ rtunities for contemplation and conversation.\n\nFirst come\, first served
+ . Tours do not require a reservation and are free of charge. The tour will
+  last between 45 minutes and an hour\, depending on the flow of conversati
+ on! Please check in at the visitor services desk* in the main museum lobby
+ .\n\n*If you plan to bring a large group with you (10 people or more)\, pl
+ ease notify us one week in advance via this form so we can inform our Guid
+ es. Thank you!
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54508366862479@didiowen
+DTSTAMP:20261114T114530Z
+DTSTART:20261227T210000Z
+DTEND:20261227T220000Z
+SUMMARY:[現場] Public Tour | A Closer Look
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/public-tour-a-closer-look
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54508366862479.ics\nhttps://events.stanford.edu/event/publ
+ ic-tour-a-closer-look\n\nDiscover new details\, perspectives\, and connect
+ ions with Cantor’s “A Closer Look” tours. Led by a Stanford Student 
+ Guide or volunteer Museum Engagement Guide\, each tour focuses on three to
+  four artworks organized around a theme\, providing participants with oppo
+ rtunities for contemplation and conversation.\n\nFirst come\, first served
+ . Tours do not require a reservation and are free of charge. The tour will
+  last between 45 minutes and an hour\, depending on the flow of conversati
+ on! Please check in at the visitor services desk* in the main museum lobby
+ .\n\n*If you plan to bring a large group with you (10 people or more)\, pl
+ ease notify us one week in advance via this form so we can inform our Guid
+ es. Thank you!
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54508375769475@didiowen
+DTSTAMP:20261114T114530Z
+DTSTART:20270102T210000Z
+DTEND:20270102T220000Z
+SUMMARY:[現場] Public Tour | A Closer Look
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/public-tour-a-closer-look
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54508375769475.ics\nhttps://events.stanford.edu/event/publ
+ ic-tour-a-closer-look\n\nDiscover new details\, perspectives\, and connect
+ ions with Cantor’s “A Closer Look” tours. Led by a Stanford Student 
+ Guide or volunteer Museum Engagement Guide\, each tour focuses on three to
+  four artworks organized around a theme\, providing participants with oppo
+ rtunities for contemplation and conversation.\n\nFirst come\, first served
+ . Tours do not require a reservation and are free of charge. The tour will
+  last between 45 minutes and an hour\, depending on the flow of conversati
+ on! Please check in at the visitor services desk* in the main museum lobby
+ .\n\n*If you plan to bring a large group with you (10 people or more)\, pl
+ ease notify us one week in advance via this form so we can inform our Guid
+ es. Thank you!
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54508375770500@didiowen
+DTSTAMP:20261114T114530Z
+DTSTART:20270103T210000Z
+DTEND:20270103T220000Z
+SUMMARY:[現場] Public Tour | A Closer Look
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/public-tour-a-closer-look
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54508375770500.ics\nhttps://events.stanford.edu/event/publ
+ ic-tour-a-closer-look\n\nDiscover new details\, perspectives\, and connect
+ ions with Cantor’s “A Closer Look” tours. Led by a Stanford Student 
+ Guide or volunteer Museum Engagement Guide\, each tour focuses on three to
+  four artworks organized around a theme\, providing participants with oppo
+ rtunities for contemplation and conversation.\n\nFirst come\, first served
+ . Tours do not require a reservation and are free of charge. The tour will
+  last between 45 minutes and an hour\, depending on the flow of conversati
+ on! Please check in at the visitor services desk* in the main museum lobby
+ .\n\n*If you plan to bring a large group with you (10 people or more)\, pl
+ ease notify us one week in advance via this form so we can inform our Guid
+ es. Thank you!
+END:VEVENT
+BEGIN:VEVENT
 UID:stanford-53737430764751@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270109T210000Z
 DTEND:20270109T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3417,7 +3473,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430765776@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270110T210000Z
 DTEND:20270110T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3439,7 +3495,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430766801@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270116T210000Z
 DTEND:20270116T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3461,7 +3517,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430767826@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270117T210000Z
 DTEND:20270117T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3483,7 +3539,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430768851@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270123T210000Z
 DTEND:20270123T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3505,7 +3561,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430770900@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270124T210000Z
 DTEND:20270124T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3527,7 +3583,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430771925@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270130T210000Z
 DTEND:20270130T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3549,7 +3605,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430772950@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270131T210000Z
 DTEND:20270131T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3571,7 +3627,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430773975@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270206T210000Z
 DTEND:20270206T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3593,7 +3649,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430775000@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270207T210000Z
 DTEND:20270207T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3615,7 +3671,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430777049@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270213T210000Z
 DTEND:20270213T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3637,7 +3693,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430778074@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270214T210000Z
 DTEND:20270214T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3659,7 +3715,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430779099@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270220T210000Z
 DTEND:20270220T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3681,7 +3737,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430780124@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270221T210000Z
 DTEND:20270221T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3703,7 +3759,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430781149@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270227T210000Z
 DTEND:20270227T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3725,7 +3781,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430782174@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270228T210000Z
 DTEND:20270228T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3747,7 +3803,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430784223@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270306T210000Z
 DTEND:20270306T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3769,7 +3825,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430785248@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270307T210000Z
 DTEND:20270307T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3791,7 +3847,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430786273@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270313T210000Z
 DTEND:20270313T220000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3813,7 +3869,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430787298@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270314T200000Z
 DTEND:20270314T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3835,7 +3891,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430788323@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270320T200000Z
 DTEND:20270320T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3857,7 +3913,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430789348@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270321T200000Z
 DTEND:20270321T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3879,7 +3935,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430791397@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270327T200000Z
 DTEND:20270327T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3901,7 +3957,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430792422@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270328T200000Z
 DTEND:20270328T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3923,7 +3979,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430793447@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270403T200000Z
 DTEND:20270403T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3945,7 +4001,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430794472@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270404T200000Z
 DTEND:20270404T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3967,7 +4023,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430795497@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270410T200000Z
 DTEND:20270410T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -3989,7 +4045,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430796522@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270411T200000Z
 DTEND:20270411T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4011,7 +4067,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430797547@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270417T200000Z
 DTEND:20270417T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4033,7 +4089,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430799596@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270418T200000Z
 DTEND:20270418T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4055,7 +4111,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430800621@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270424T200000Z
 DTEND:20270424T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4077,7 +4133,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430801646@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270425T200000Z
 DTEND:20270425T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4099,7 +4155,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430802671@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270501T200000Z
 DTEND:20270501T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4121,7 +4177,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430804720@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270502T200000Z
 DTEND:20270502T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4143,7 +4199,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430805745@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270508T200000Z
 DTEND:20270508T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4165,7 +4221,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430806770@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270509T200000Z
 DTEND:20270509T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4187,7 +4243,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430807795@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270515T200000Z
 DTEND:20270515T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4209,7 +4265,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430808820@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270516T200000Z
 DTEND:20270516T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4231,7 +4287,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430809845@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270522T200000Z
 DTEND:20270522T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4253,7 +4309,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430810870@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270523T200000Z
 DTEND:20270523T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4275,7 +4331,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430811895@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270529T200000Z
 DTEND:20270529T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4297,7 +4353,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430812920@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270530T200000Z
 DTEND:20270530T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4319,7 +4375,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430814969@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270605T200000Z
 DTEND:20270605T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4341,7 +4397,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430815994@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270606T200000Z
 DTEND:20270606T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4363,7 +4419,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430817019@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270612T200000Z
 DTEND:20270612T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4385,7 +4441,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430818044@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270613T200000Z
 DTEND:20270613T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4407,7 +4463,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430820093@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270619T200000Z
 DTEND:20270619T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4429,7 +4485,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430821118@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270620T200000Z
 DTEND:20270620T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4451,7 +4507,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430823167@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270626T200000Z
 DTEND:20270626T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4473,7 +4529,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430824192@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270627T200000Z
 DTEND:20270627T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4495,7 +4551,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430826241@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270703T200000Z
 DTEND:20270703T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4517,7 +4573,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430827266@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270704T200000Z
 DTEND:20270704T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4539,7 +4595,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430828291@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270710T200000Z
 DTEND:20270710T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4561,7 +4617,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430830340@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270711T200000Z
 DTEND:20270711T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4583,7 +4639,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430831365@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270717T200000Z
 DTEND:20270717T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4605,7 +4661,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430832390@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270718T200000Z
 DTEND:20270718T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4627,7 +4683,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430833415@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270724T200000Z
 DTEND:20270724T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4649,7 +4705,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430834440@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270725T200000Z
 DTEND:20270725T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4671,7 +4727,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430836489@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270731T200000Z
 DTEND:20270731T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4693,7 +4749,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430838538@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270801T200000Z
 DTEND:20270801T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4715,7 +4771,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430839563@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270807T200000Z
 DTEND:20270807T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4737,7 +4793,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430841612@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270808T200000Z
 DTEND:20270808T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4759,7 +4815,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430842637@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270814T200000Z
 DTEND:20270814T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4781,7 +4837,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430844686@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270815T200000Z
 DTEND:20270815T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4803,7 +4859,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430845711@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270821T200000Z
 DTEND:20270821T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4825,7 +4881,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430846736@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270822T200000Z
 DTEND:20270822T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4847,7 +4903,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430847761@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270828T200000Z
 DTEND:20270828T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4869,7 +4925,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430848786@didiowen
-DTSTAMP:20261113T122615Z
+DTSTAMP:20261114T114530Z
 DTSTART:20270829T200000Z
 DTEND:20270829T210000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4891,7 +4947,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452707937@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20261114T230000Z
 DTEND:20261115T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4913,7 +4969,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452709986@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20261115T230000Z
 DTEND:20261116T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4935,7 +4991,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452711011@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20261121T230000Z
 DTEND:20261122T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4957,7 +5013,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452712036@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20261122T230000Z
 DTEND:20261123T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -4979,7 +5035,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452713061@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20261128T230000Z
 DTEND:20261129T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5001,7 +5057,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452715110@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20261129T230000Z
 DTEND:20261130T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5023,7 +5079,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452717159@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20261205T230000Z
 DTEND:20261206T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5045,7 +5101,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452718184@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20261206T230000Z
 DTEND:20261207T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5067,7 +5123,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452720233@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20261212T230000Z
 DTEND:20261213T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5089,7 +5145,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452723306@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20261213T230000Z
 DTEND:20261214T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5111,7 +5167,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452726379@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20261219T230000Z
 DTEND:20261220T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5133,7 +5189,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452728428@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20261220T230000Z
 DTEND:20261221T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5154,8 +5210,96 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  our Guides. Thank you!
 END:VEVENT
 BEGIN:VEVENT
+UID:stanford-54508373019831@didiowen
+DTSTAMP:20261114T114532Z
+DTSTART:20261226T230000Z
+DTEND:20261227T000000Z
+SUMMARY:[現場] Public Tour | A Closer Look
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/copy-of-public-tour-a-closer-look
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54508373019831.ics\nhttps://events.stanford.edu/event/copy
+ -of-public-tour-a-closer-look\n\nDiscover new details\, perspectives\, and
+  connections with Cantor’s “A Closer Look” tours. Led by a Stanford 
+ Student Guide or volunteer Museum Engagement Guide\, each tour focuses on 
+ three to four artworks organized around a theme\, providing participants w
+ ith opportunities for contemplation and conversation.\n\nFirst come\, firs
+ t served. Tours do not require a reservation and are free of charge. The t
+ our will last between 45 minutes and an hour\, depending on the flow of co
+ nversation! Please check in at the visitor services desk* in the main muse
+ um lobby.\n\n*If you plan to bring a large group with you (10 people or mo
+ re)\, please notify us one week in advance via this form so we can inform 
+ our Guides. Thank you!
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54508373020856@didiowen
+DTSTAMP:20261114T114532Z
+DTSTART:20261227T230000Z
+DTEND:20261228T000000Z
+SUMMARY:[現場] Public Tour | A Closer Look
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/copy-of-public-tour-a-closer-look
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54508373020856.ics\nhttps://events.stanford.edu/event/copy
+ -of-public-tour-a-closer-look\n\nDiscover new details\, perspectives\, and
+  connections with Cantor’s “A Closer Look” tours. Led by a Stanford 
+ Student Guide or volunteer Museum Engagement Guide\, each tour focuses on 
+ three to four artworks organized around a theme\, providing participants w
+ ith opportunities for contemplation and conversation.\n\nFirst come\, firs
+ t served. Tours do not require a reservation and are free of charge. The t
+ our will last between 45 minutes and an hour\, depending on the flow of co
+ nversation! Please check in at the visitor services desk* in the main muse
+ um lobby.\n\n*If you plan to bring a large group with you (10 people or mo
+ re)\, please notify us one week in advance via this form so we can inform 
+ our Guides. Thank you!
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54508373021881@didiowen
+DTSTAMP:20261114T114532Z
+DTSTART:20270102T230000Z
+DTEND:20270103T000000Z
+SUMMARY:[現場] Public Tour | A Closer Look
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/copy-of-public-tour-a-closer-look
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54508373021881.ics\nhttps://events.stanford.edu/event/copy
+ -of-public-tour-a-closer-look\n\nDiscover new details\, perspectives\, and
+  connections with Cantor’s “A Closer Look” tours. Led by a Stanford 
+ Student Guide or volunteer Museum Engagement Guide\, each tour focuses on 
+ three to four artworks organized around a theme\, providing participants w
+ ith opportunities for contemplation and conversation.\n\nFirst come\, firs
+ t served. Tours do not require a reservation and are free of charge. The t
+ our will last between 45 minutes and an hour\, depending on the flow of co
+ nversation! Please check in at the visitor services desk* in the main muse
+ um lobby.\n\n*If you plan to bring a large group with you (10 people or mo
+ re)\, please notify us one week in advance via this form so we can inform 
+ our Guides. Thank you!
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54508373023930@didiowen
+DTSTAMP:20261114T114532Z
+DTSTART:20270103T230000Z
+DTEND:20270104T000000Z
+SUMMARY:[現場] Public Tour | A Closer Look
+LOCATION:Cantor Arts Center
+URL:https://events.stanford.edu/event/copy-of-public-tour-a-closer-look
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54508373023930.ics\nhttps://events.stanford.edu/event/copy
+ -of-public-tour-a-closer-look\n\nDiscover new details\, perspectives\, and
+  connections with Cantor’s “A Closer Look” tours. Led by a Stanford 
+ Student Guide or volunteer Museum Engagement Guide\, each tour focuses on 
+ three to four artworks organized around a theme\, providing participants w
+ ith opportunities for contemplation and conversation.\n\nFirst come\, firs
+ t served. Tours do not require a reservation and are free of charge. The t
+ our will last between 45 minutes and an hour\, depending on the flow of co
+ nversation! Please check in at the visitor services desk* in the main muse
+ um lobby.\n\n*If you plan to bring a large group with you (10 people or mo
+ re)\, please notify us one week in advance via this form so we can inform 
+ our Guides. Thank you!
+END:VEVENT
+BEGIN:VEVENT
 UID:stanford-53737452733551@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270109T230000Z
 DTEND:20270110T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5177,7 +5321,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452735600@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270110T230000Z
 DTEND:20270111T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5199,7 +5343,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452738673@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270116T230000Z
 DTEND:20270117T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5221,7 +5365,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452740722@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270117T230000Z
 DTEND:20270118T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5243,7 +5387,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452742771@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270123T230000Z
 DTEND:20270124T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5265,7 +5409,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452745844@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270124T230000Z
 DTEND:20270125T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5287,7 +5431,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452746869@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270130T230000Z
 DTEND:20270131T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5309,7 +5453,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452748918@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270131T230000Z
 DTEND:20270201T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5331,7 +5475,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452750967@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270206T230000Z
 DTEND:20270207T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5353,7 +5497,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452753016@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270207T230000Z
 DTEND:20270208T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5375,7 +5519,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452755065@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270213T230000Z
 DTEND:20270214T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5397,7 +5541,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452757114@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270214T230000Z
 DTEND:20270215T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5419,7 +5563,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452759163@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270220T230000Z
 DTEND:20270221T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5441,7 +5585,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452761212@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270221T230000Z
 DTEND:20270222T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5463,7 +5607,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452763261@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270227T230000Z
 DTEND:20270228T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5485,7 +5629,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452764286@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270228T230000Z
 DTEND:20270301T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5507,7 +5651,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452765311@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270306T230000Z
 DTEND:20270307T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5529,7 +5673,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452766336@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270307T230000Z
 DTEND:20270308T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5551,7 +5695,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452767361@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270313T230000Z
 DTEND:20270314T000000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5573,7 +5717,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452768386@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270314T220000Z
 DTEND:20270314T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5595,7 +5739,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452769411@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270320T220000Z
 DTEND:20270320T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5617,7 +5761,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452770436@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270321T220000Z
 DTEND:20270321T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5639,7 +5783,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452771461@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270327T220000Z
 DTEND:20270327T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5661,7 +5805,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452774534@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270328T220000Z
 DTEND:20270328T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5683,7 +5827,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452775559@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270403T220000Z
 DTEND:20270403T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5705,7 +5849,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452777608@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270404T220000Z
 DTEND:20270404T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5727,7 +5871,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452780681@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270410T220000Z
 DTEND:20270410T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5749,7 +5893,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452781706@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270411T220000Z
 DTEND:20270411T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5771,7 +5915,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452782731@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270417T220000Z
 DTEND:20270417T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5793,7 +5937,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452784780@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270418T220000Z
 DTEND:20270418T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5815,7 +5959,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452786829@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270424T220000Z
 DTEND:20270424T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5837,7 +5981,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452787854@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270425T220000Z
 DTEND:20270425T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5859,7 +6003,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452789903@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270501T220000Z
 DTEND:20270501T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5881,7 +6025,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452790928@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270502T220000Z
 DTEND:20270502T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5903,7 +6047,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452791953@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270508T220000Z
 DTEND:20270508T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5925,7 +6069,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452794002@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270509T220000Z
 DTEND:20270509T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5947,7 +6091,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452795027@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270515T220000Z
 DTEND:20270515T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5969,7 +6113,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452797076@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270516T220000Z
 DTEND:20270516T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -5991,7 +6135,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452798101@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270522T220000Z
 DTEND:20270522T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6013,7 +6157,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452799126@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270523T220000Z
 DTEND:20270523T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6035,7 +6179,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452801175@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270529T220000Z
 DTEND:20270529T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6057,7 +6201,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452802200@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270530T220000Z
 DTEND:20270530T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6079,7 +6223,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452803225@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270605T220000Z
 DTEND:20270605T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6101,7 +6245,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452805274@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270606T220000Z
 DTEND:20270606T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6123,7 +6267,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452806299@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270612T220000Z
 DTEND:20270612T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6145,7 +6289,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452807324@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270613T220000Z
 DTEND:20270613T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6167,7 +6311,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452809373@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270619T220000Z
 DTEND:20270619T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6189,7 +6333,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452812446@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270620T220000Z
 DTEND:20270620T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6211,7 +6355,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452814495@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270626T220000Z
 DTEND:20270626T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6233,7 +6377,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452816544@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270627T220000Z
 DTEND:20270627T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6255,7 +6399,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452817569@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270703T220000Z
 DTEND:20270703T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6277,7 +6421,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452820642@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270704T220000Z
 DTEND:20270704T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6299,7 +6443,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452822691@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270710T220000Z
 DTEND:20270710T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6321,7 +6465,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452823716@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270711T220000Z
 DTEND:20270711T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6343,7 +6487,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452823717@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270717T220000Z
 DTEND:20270717T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6365,7 +6509,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452825766@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270718T220000Z
 DTEND:20270718T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6387,7 +6531,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452826791@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270724T220000Z
 DTEND:20270724T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6409,7 +6553,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452827816@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270725T220000Z
 DTEND:20270725T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6431,7 +6575,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452828841@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270731T220000Z
 DTEND:20270731T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6453,7 +6597,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452829866@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270801T220000Z
 DTEND:20270801T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6475,7 +6619,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452830891@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270807T220000Z
 DTEND:20270807T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6497,7 +6641,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452831916@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270808T220000Z
 DTEND:20270808T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6519,7 +6663,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452833965@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270814T220000Z
 DTEND:20270814T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6541,7 +6685,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452833966@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270815T220000Z
 DTEND:20270815T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6563,7 +6707,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452834991@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270821T220000Z
 DTEND:20270821T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6585,7 +6729,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452836016@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270822T220000Z
 DTEND:20270822T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6607,7 +6751,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452837041@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270828T220000Z
 DTEND:20270828T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6629,7 +6773,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452838066@didiowen
-DTSTAMP:20261113T122616Z
+DTSTAMP:20261114T114532Z
 DTSTART:20270829T220000Z
 DTEND:20270829T230000Z
 SUMMARY:[現場] Public Tour | A Closer Look
@@ -6651,7 +6795,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53745967573694@didiowen
-DTSTAMP:20261113T122701Z
+DTSTAMP:20261114T114622Z
 DTSTART:20261120T023000Z
 DTEND:20261120T040000Z
 SUMMARY:[現場] Elamite Art Through the Lens of Archaeological Evidence
@@ -6686,7 +6830,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53755962742429@didiowen
-DTSTAMP:20261113T122734Z
+DTSTAMP:20261114T114658Z
 DTSTART:20261116T210000Z
 DTEND:20261116T220000Z
 SUMMARY:[現場] Curator Led Talk | surfacing
@@ -6793,33 +6937,8 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  \, 2027.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-53763779187556@didiowen
-DTSTAMP:20261113T122803Z
-DTSTART:20261114T040000Z
-DTEND:20261114T053000Z
-SUMMARY:[現場] MAIN STAGE | Our Town
-LOCATION:Roble Gym\, Elam Theater
-URL:https://events.stanford.edu/event/our-town
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/53763779187556.ics\nhttps://events.stanford.edu/event/our-
- town\n報名/票券: https://taps.stanford.edu/ourtown\n\nFALL MAIN STAGE 
- 2026 | NO LATE SEATING\n\nWritten By Thornton Wilder | Directed by Guest A
- rtist Jeffrey Lo\n\nA Stage Manager enters before us calling for time. But
-  it’s not a rehearsal they are calling us in for\, it’s real life. In 
- Thornton Wilder’s masterwork Our Town we experience life in three acts: 
- “Daily Life\,” “Love and Marriage” and finally\, “Death and Eter
- nity.” In a world where the possibility of humanity losing its grasp on 
- reality looms large\, the resonance of this classic reverberates today as 
- strongly as it did when first written and in one of those most stunning sc
- enes in the American canon\, we come face to face with what it is we have 
- already lost.\n\nHailed by Edward Albee as “the greatest American play e
- ver written\,” this enduring story continues to ask us—generations lat
- er—how to use our time\, how to love our time and how to run out of time
- .
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-53763779188581@didiowen
-DTSTAMP:20261113T122803Z
+DTSTAMP:20261114T114729Z
 DTSTART:20261115T040000Z
 DTEND:20261115T053000Z
 SUMMARY:[現場] MAIN STAGE | Our Town
@@ -6932,7 +7051,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53806989976897@didiowen
-DTSTAMP:20261113T122958Z
+DTSTAMP:20261114T114925Z
 DTSTART:20261119T033000Z
 DTEND:20261119T050000Z
 SUMMARY:[現場] Reading with Martín Espada\, part of the Lane Lecture Ser
@@ -7008,42 +7127,8 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  s. Speaker info will be provided ASAP.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-53818815585376@didiowen
-DTSTAMP:20261112T114854Z
-DTSTART:20261113T220000Z
-DTEND:20261113T230000Z
-SUMMARY:[現場] Gallery Conversations | JANE!
-LOCATION:Cantor Arts Center\, Stanford Family Room (122)
-URL:https://events.stanford.edu/event/copy-of-gallery-conversations-jeremy-
- frey-woven-8444
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/53818815585376.ics\nhttps://events.stanford.edu/event/copy
- -of-gallery-conversations-jeremy-frey-woven-8444\n\nJoin us for casual in-
- gallery conversations in our special exhibition\, JANE!\, facilitated by o
- ur Museum Engagement Guides. Enjoy a spotlight tour focusining on a single
-  object\, followed by an open conversation. \n\nCurated by Associate Curat
- or of European Art\, Patrick R. Crowley\, JANE! celebrates the aesthetic a
- nd affective excesses of Jane Stanford\, the Gilded Age founder and matria
- rch of Stanford University. Bringing together precious keepsakes\, souveni
- rs\, archaeological detritus\, and spooky messages from beyond the grave\,
-  the exhibition reveals the campy underside of a familiar biography and pe
- rhaps an even more familiar murder mystery.\n\nFrom her elegant French gow
- ns to a colossal painting of her jewels\, from the Egyptian artifacts she 
- acquired for her fledgling museum to a container of her beauty cream excav
- ated from her Palo Alto mansion destroyed in the 1906 San Francisco earthq
- uake\, JANE! presents various idiosyncratic artifacts of Stanford lore—m
- any of them shown for the very first time—and very probably for the last
- .\n\nWe gratefully acknowledge lead support for JANE! provided by Pamela a
- nd David Hornik. Sustained support generously provided by The C. Diane Chr
- istensen Fund for African Art.\n\n---\n\nPublic tours are free for all. Pl
- ease check in at the visitor services desk* in the main museum lobby.\n\n*
- If you plan to bring a large group with you (10 people or more)\, please n
- otify us one week in advance via this form so we can inform our Guides. Th
- ank you!\n\nIMAGE: Astley D. 
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-53818815586401@didiowen
-DTSTAMP:20261112T114854Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261114T220000Z
 DTEND:20261114T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7077,7 +7162,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815587426@didiowen
-DTSTAMP:20261112T114854Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261115T220000Z
 DTEND:20261115T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7111,7 +7196,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815588451@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261120T220000Z
 DTEND:20261120T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7145,7 +7230,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815589476@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261121T220000Z
 DTEND:20261121T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7179,7 +7264,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815590501@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261122T220000Z
 DTEND:20261122T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7213,7 +7298,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815592550@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261127T220000Z
 DTEND:20261127T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7247,7 +7332,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815593575@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261128T220000Z
 DTEND:20261128T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7281,7 +7366,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815594600@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261129T220000Z
 DTEND:20261129T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7315,7 +7400,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815594601@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261204T220000Z
 DTEND:20261204T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7349,7 +7434,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815595626@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261205T220000Z
 DTEND:20261205T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7383,7 +7468,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815596651@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261206T220000Z
 DTEND:20261206T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7417,7 +7502,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815597676@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261211T220000Z
 DTEND:20261211T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7451,7 +7536,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815598701@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261212T220000Z
 DTEND:20261212T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7485,7 +7570,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815599726@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261213T220000Z
 DTEND:20261213T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7519,7 +7604,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815600751@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261218T220000Z
 DTEND:20261218T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7553,7 +7638,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815601776@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261219T220000Z
 DTEND:20261219T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7587,7 +7672,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815603825@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261220T220000Z
 DTEND:20261220T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7621,7 +7706,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815603826@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261225T220000Z
 DTEND:20261225T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7655,7 +7740,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815604851@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261226T220000Z
 DTEND:20261226T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7689,7 +7774,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815605876@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20261227T220000Z
 DTEND:20261227T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7723,7 +7808,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815606901@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20270101T220000Z
 DTEND:20270101T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7757,7 +7842,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815607926@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20270102T220000Z
 DTEND:20270102T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -7791,7 +7876,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53818815608951@didiowen
-DTSTAMP:20261113T123028Z
+DTSTAMP:20261114T114956Z
 DTSTART:20270103T220000Z
 DTEND:20270103T230000Z
 SUMMARY:[現場] Gallery Conversations | JANE!
@@ -8024,7 +8109,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53861242574668@didiowen
-DTSTAMP:20261112T115020Z
+DTSTAMP:20261114T115112Z
 DTSTART:20261118T200000Z
 DTEND:20261118T211500Z
 SUMMARY:[混合] HAI Seminar The AI 100
@@ -8250,7 +8335,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54365766240476@didiowen
-DTSTAMP:20261112T120920Z
+DTSTAMP:20261114T120825Z
 DTSTART:20261118T230000Z
 DTEND:20261119T010000Z
 SUMMARY:[現場] Drop-In Samizdat* Workshop (*DIY Unofficial\, Unsanctioned
@@ -8368,7 +8453,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53950377018750@didiowen
-DTSTAMP:20261112T115404Z
+DTSTAMP:20261114T115433Z
 DTSTART:20261119T200000Z
 DTEND:20261119T213000Z
 SUMMARY:[現場] Galicia's Promised City with Oskar Czendze
@@ -8390,7 +8475,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53954321811562@didiowen
-DTSTAMP:20261113T082019Z
+DTSTAMP:20261114T081632Z
 DTSTART:20270126T000000Z
 DTEND:20270126T011500Z
 SUMMARY:[現場] Simon DeDeo | Proofs and reasons in the age of artificial 
@@ -8603,7 +8688,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53976866896468@didiowen
-DTSTAMP:20261112T115436Z
+DTSTAMP:20261114T115507Z
 DTSTART:20261119T013000Z
 DTEND:20261119T013000Z
 SUMMARY:[現場] The Disappearance of Enforced Disappearances in Kashmir: M
@@ -8989,7 +9074,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54001233454785@didiowen
-DTSTAMP:20261112T115532Z
+DTSTAMP:20261114T115605Z
 DTSTART:20261118T203000Z
 DTEND:20261118T220000Z
 SUMMARY:[現場] Noon Concert: Flute Students of Melody Holmes
@@ -9040,7 +9125,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54001248218870@didiowen
-DTSTAMP:20261112T115533Z
+DTSTAMP:20261114T115606Z
 DTSTART:20261120T203000Z
 DTEND:20261120T220000Z
 SUMMARY:[現場] Noon Concert: Piano Students of Sandra Shen
@@ -9260,31 +9345,8 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  d downloading the ParkMobile app before arriving.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54003301124014@didiowen
-DTSTAMP:20261112T115545Z
-DTSTART:20261114T033000Z
-DTEND:20261114T050000Z
-SUMMARY:[現場] Stanford Symphony Orchestra
-LOCATION:Bing Concert Hall
-URL:https://events.stanford.edu/event/symphony-orchestra-fall26-1
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/54003301124014.ics\nhttps://events.stanford.edu/event/symp
- hony-orchestra-fall26-1\n報名/票券: https://live.stanford.edu/s/event?
- EventID=48201\n\nThe Stanford Symphony Orchestra\, conducted by Paul Phill
- ips\, presents their 2026 Fall Concert program from the main stage of Bing
-  Concert Hall.\n\nProgram\n\nWang Lu – SurgeCalifornia premiereFranz Lis
- zt – Orpheus (Symphonic Poem No. 4)Sean Tan ‘27\, conductorPaul Philli
- ps – Concordia MundiWorld premiereGustav Mahler – Symphony No. 1 in D 
- Major\, “Titan”Please join us before the concert for a special onstage
-  Q&A with guest composer Wang Lu starting at 7:00 PM.\n\nAdmission Informa
- tion\n\nGeneral – $37 | Seniors (65+) and Non-Stanford Students – $32\
- nPrice shown reflects total cost including $4 online/phone per-ticket fee.
- FREE admission for Stanford University students. One ticket per ID\, avail
- able beginning one hour prior to curtain at the venue.
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54003324555152@didiowen
-DTSTAMP:20261112T115545Z
+DTSTAMP:20261114T115622Z
 DTSTART:20261115T223000Z
 DTEND:20261116T000000Z
 SUMMARY:[混合] Stanford Symphony Orchestra
@@ -9308,28 +9370,8 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  eamed.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54003351099545@didiowen
-DTSTAMP:20261112T115545Z
-DTSTART:20261114T033000Z
-DTEND:20261114T050000Z
-SUMMARY:[混合] Stanford Jazz Orchestra with Debora & Dani Gurgel
-LOCATION:Dinkelspiel Auditorium
-URL:https://events.stanford.edu/event/jazz-orchestra-fall26
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/54003351099545.ics\nhttps://events.stanford.edu/event/jazz
- -orchestra-fall26\n線上連結: https://music.stanford.edu/sjo_live\n報
- 名/票券: https://live.stanford.edu/s/event?EventID=48401\n\nThe Stanfor
- d Jazz Orchestra\, under the direction of Michael Galisatus\, performs the
- ir 2026 Fall Concert from the main stage of Dinkelspiel Auditorium with sp
- ecial guests Debora & Dani Gurgel.\n\nAdmission Information\n\nGeneral –
-  $32 | Seniors (65+) and Non-Stanford Students – $27\nPrice shown reflec
- ts total cost including $4 online/phone per-ticket fee.FREE admission for 
- Stanford University students. One ticket per ID\, available beginning one 
- hour prior to curtain at the venue.This event will be livestreamed.
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54003371905715@didiowen
-DTSTAMP:20261112T115545Z
+DTSTAMP:20261113T123613Z
 DTSTART:20261115T033000Z
 DTEND:20261115T050000Z
 SUMMARY:[混合] Stanford Wind Symphony
@@ -9354,33 +9396,32 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54003401521776@didiowen
-DTSTAMP:20261112T115545Z
+DTSTAMP:20261113T193832Z
 DTSTART:20261115T033000Z
 DTEND:20261115T050000Z
-SUMMARY:[混合] Stanford Afro-Latin Jazz Ensemble
+SUMMARY:[現場] Stanford Afro-Latin Jazz Ensemble
 LOCATION:Dinkelspiel Auditorium
 URL:https://events.stanford.edu/event/salje-fall26
 DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  public-events/e/54003401521776.ics\nhttps://events.stanford.edu/event/salj
- e-fall26\n線上連結: https://music.stanford.edu/salje_live\n報名/票
- 券: https://live.stanford.edu/s/event?EventID=48801\n\nThe acclaimed Stan
- ford Afro-Latin Jazz Ensemble\, directed by Murray Low\, presents their fi
- rst performance of the academic year! We are excited to playing for you ag
- ain.  As usual\, the group has a complete new set of music prepared coveri
- ng all aspects of the idiom - classic and modern salsa\, boleros\, samba\,
-  rumba\, Latin jazz\, and much more! Works include those written or perfor
- med by icons such as Rubén Blades\, Los Van Van\, Celia Cruz\, Elis Regin
- a\, Gilberto Gil\, and even Michael Jackson! There is something for everyo
- ne. The music is guaranteed to perk up your ears - and dancing in the aisl
- es is encouraged.\n\nAdmission Information\n\nGeneral – $32 | Seniors (6
- 5+) and Non-Stanford Students – $27\nPrice shown reflects total cost inc
- luding $4 online/phone per-ticket fee.FREE admission for Stanford Universi
- ty students. One ticket per ID\, available beginning one hour prior to cur
- tain at the venue.This event will be livestreamed.
+ e-fall26\n報名/票券: https://live.stanford.edu/s/event?EventID=48801\n
+ \nThe acclaimed Stanford Afro-Latin Jazz Ensemble\, directed by Murray Low
+ \, presents their first performance of the academic year! We are excited t
+ o playing for you again.  As usual\, the group has a complete new set of m
+ usic prepared covering all aspects of the idiom - classic and modern salsa
+ \, boleros\, samba\, rumba\, Latin jazz\, and much more! Works include tho
+ se written or performed by icons such as Rubén Blades\, Los Van Van\, Cel
+ ia Cruz\, Elis Regina\, Gilberto Gil\, and even Michael Jackson! There is 
+ something for everyone. The music is guaranteed to perk up your ears - and
+  dancing in the aisles is encouraged.\n\nAdmission Information\n\nGeneral 
+ – $32 | Seniors (65+) and Non-Stanford Students – $27\nPrice shown ref
+ lects total cost including $4 online/phone per-ticket fee.FREE admission f
+ or Stanford University students. One ticket per ID\, available beginning o
+ ne hour prior to curtain at the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54003423347666@didiowen
-DTSTAMP:20261112T115545Z
+DTSTAMP:20261113T123613Z
 DTSTART:20261115T040000Z
 DTEND:20261115T053000Z
 SUMMARY:[混合] Stanford Chamber Chorale: Echoes
@@ -9403,7 +9444,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54003444903722@didiowen
-DTSTAMP:20261112T115545Z
+DTSTAMP:20261114T115622Z
 DTSTART:20261119T033000Z
 DTEND:20261119T050000Z
 SUMMARY:[混合] University Singers
@@ -9423,7 +9464,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54003462444067@didiowen
-DTSTAMP:20261112T115545Z
+DTSTAMP:20261114T115622Z
 DTSTART:20261121T033000Z
 DTEND:20261121T050000Z
 SUMMARY:[現場] Stanford Symphonic Chorus & Peninsula Symphony
@@ -9447,7 +9488,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54003470493499@didiowen
-DTSTAMP:20261006T162331Z
+DTSTAMP:20261114T115622Z
 DTSTART:20261122T033000Z
 DTEND:20261122T050000Z
 SUMMARY:[混合] Stanford Symphonic Chorus & Peninsula Symphony
@@ -9512,7 +9553,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54004094461684@didiowen
-DTSTAMP:20261112T115546Z
+DTSTAMP:20261114T115622Z
 DTSTART:20261119T200000Z
 DTEND:20261119T211500Z
 SUMMARY:[線上] Alain Schläpfer — Why Do Voters Elect Authoritarians? H
@@ -9587,7 +9628,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54004171494150@didiowen
-DTSTAMP:20261112T115546Z
+DTSTAMP:20261114T115623Z
 DTSTART:20261117T233000Z
 DTEND:20261118T004500Z
 SUMMARY:[混合] Book Talk with Mikhail Fishman — The Successor: Boris Ne
@@ -9626,7 +9667,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54012791662998@didiowen
-DTSTAMP:20261112T115607Z
+DTSTAMP:20261114T115644Z
 DTSTART:20261120T000000Z
 DTEND:20261120T020000Z
 SUMMARY:[現場] Two Views of the Chinese Coast
@@ -9659,7 +9700,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54029201020423@didiowen
-DTSTAMP:20261112T115613Z
+DTSTAMP:20261114T045415Z
 DTSTART:20261115T013000Z
 DTEND:20261115T033000Z
 SUMMARY:[現場] Tracing What Remains: Memory\, Place\, and Chinese America
@@ -9696,7 +9737,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54031148397687@didiowen
-DTSTAMP:20261112T184843Z
+DTSTAMP:20261114T115650Z
 DTSTART:20261118T030000Z
 DTEND:20261118T043000Z
 SUMMARY:[混合] Another Look presents Tobias Wolff’s “Old School”
@@ -9754,7 +9795,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54037411908366@didiowen
-DTSTAMP:20261112T115625Z
+DTSTAMP:20261114T115659Z
 DTSTART:20261119T200000Z
 DTEND:20261119T210000Z
 SUMMARY:[混合] Jannis Panagiotidis- Racism against East Europeans in Germ
@@ -9968,7 +10009,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54095555997025@didiowen
-DTSTAMP:20261112T115809Z
+DTSTAMP:20261114T115829Z
 DTSTART:20261118T200000Z
 DTEND:20261118T211500Z
 SUMMARY:[現場] CMEMS: Esther von Stosch presents\, "Humans – Plants –
@@ -10006,7 +10047,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975779435@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20261118T183000Z
 DTEND:20261118T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10028,7 +10069,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975780460@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20261125T183000Z
 DTEND:20261125T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10050,7 +10091,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975781485@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20261202T183000Z
 DTEND:20261202T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10072,7 +10113,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975782510@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20261209T183000Z
 DTEND:20261209T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10094,7 +10135,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975783535@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20261216T183000Z
 DTEND:20261216T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10116,7 +10157,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975784560@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270106T183000Z
 DTEND:20270106T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10138,7 +10179,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975785585@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270113T183000Z
 DTEND:20270113T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10160,7 +10201,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975786610@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270120T183000Z
 DTEND:20270120T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10182,7 +10223,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975869555@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270127T183000Z
 DTEND:20270127T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10204,7 +10245,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975880820@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270203T183000Z
 DTEND:20270203T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10226,7 +10267,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975883893@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270210T183000Z
 DTEND:20270210T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10248,7 +10289,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975884918@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270217T183000Z
 DTEND:20270217T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10270,7 +10311,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975886967@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270224T183000Z
 DTEND:20270224T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10292,7 +10333,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975887992@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270303T183000Z
 DTEND:20270303T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10314,7 +10355,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975890041@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270310T183000Z
 DTEND:20270310T200000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10336,7 +10377,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975891066@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270317T173000Z
 DTEND:20270317T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10358,7 +10399,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975894139@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270324T173000Z
 DTEND:20270324T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10380,7 +10421,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975895164@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270331T173000Z
 DTEND:20270331T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10402,7 +10443,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975898237@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270407T173000Z
 DTEND:20270407T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10424,7 +10465,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975899262@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270414T173000Z
 DTEND:20270414T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10446,7 +10487,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975901311@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270421T173000Z
 DTEND:20270421T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10468,7 +10509,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975902336@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270428T173000Z
 DTEND:20270428T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10490,7 +10531,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975906433@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270505T173000Z
 DTEND:20270505T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10512,7 +10553,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975908482@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270512T173000Z
 DTEND:20270512T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10534,7 +10575,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975911555@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270519T173000Z
 DTEND:20270519T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10556,7 +10597,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975921796@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270526T173000Z
 DTEND:20270526T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10578,7 +10619,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975923845@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270602T173000Z
 DTEND:20270602T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10600,7 +10641,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975924870@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270609T173000Z
 DTEND:20270609T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10622,7 +10663,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975928967@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270616T173000Z
 DTEND:20270616T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10644,7 +10685,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975932040@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270623T173000Z
 DTEND:20270623T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10666,7 +10707,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975934089@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270630T173000Z
 DTEND:20270630T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10688,7 +10729,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975936138@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270707T173000Z
 DTEND:20270707T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10710,7 +10751,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975938187@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270714T173000Z
 DTEND:20270714T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10732,7 +10773,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975940236@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270721T173000Z
 DTEND:20270721T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10754,7 +10795,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975941261@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270728T173000Z
 DTEND:20270728T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10776,7 +10817,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975943310@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270804T173000Z
 DTEND:20270804T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10798,7 +10839,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975944335@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270811T173000Z
 DTEND:20270811T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10820,7 +10861,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975945360@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270818T173000Z
 DTEND:20270818T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10842,7 +10883,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098975958673@didiowen
-DTSTAMP:20261112T115822Z
+DTSTAMP:20261114T115842Z
 DTSTART:20270825T173000Z
 DTEND:20270825T190000Z
 SUMMARY:[現場] International Spouse Coffee ☕️
@@ -10864,7 +10905,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54098980339839@didiowen
-DTSTAMP:20261112T115823Z
+DTSTAMP:20261114T115843Z
 DTSTART:20261120T003000Z
 DTEND:20261120T013000Z
 SUMMARY:[現場] Bones\, Borders\, and Black Mirrors: Can Justice Outlive C
@@ -11098,7 +11139,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54124995976202@didiowen
-DTSTAMP:20261112T115936Z
+DTSTAMP:20261114T115945Z
 DTSTART:20261118T200000Z
 DTEND:20261118T213000Z
 SUMMARY:[現場] The Greek and Arabic Reception of Ptolemy's Almagest betwe
@@ -11175,7 +11216,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54170505532451@didiowen
-DTSTAMP:20261112T120211Z
+DTSTAMP:20261113T124102Z
 DTSTART:20261114T223000Z
 DTEND:20261115T000000Z
 SUMMARY:[現場] Stanford Cello Choir
@@ -11190,7 +11231,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54170522862611@didiowen
-DTSTAMP:20261112T120211Z
+DTSTAMP:20261113T124102Z
 DTSTART:20261115T033000Z
 DTEND:20261115T050000Z
 SUMMARY:[現場] The Variety 73 – Performance & Presence
@@ -11205,7 +11246,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54170544739210@didiowen
-DTSTAMP:20261112T120211Z
+DTSTAMP:20261114T120157Z
 DTSTART:20261115T223000Z
 DTEND:20261116T000000Z
 SUMMARY:[現場] The Voice Studio of Kathryne Jennings – Sing On!
@@ -11220,7 +11261,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54171062791647@didiowen
-DTSTAMP:20261112T120213Z
+DTSTAMP:20261114T120159Z
 DTSTART:20261116T033000Z
 DTEND:20261116T050000Z
 SUMMARY:[現場] Faculty Recital: Clara Christian\, piano
@@ -11235,7 +11276,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54171099482064@didiowen
-DTSTAMP:20261112T120213Z
+DTSTAMP:20261114T120159Z
 DTSTART:20261121T033000Z
 DTEND:20261121T050000Z
 SUMMARY:[現場] Stanford Baroque Soloists: Other Chaconnes
@@ -11428,7 +11469,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54188038982367@didiowen
-DTSTAMP:20261112T002423Z
+DTSTAMP:20261114T120246Z
 DTSTART:20261117T200000Z
 DTEND:20261117T210000Z
 SUMMARY:[現場] Estonia at the Front Line: Security\, Resilience\, and Tec
@@ -11499,7 +11540,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54196035364531@didiowen
-DTSTAMP:20261112T120337Z
+DTSTAMP:20261114T120306Z
 DTSTART:20261117T000000Z
 DTEND:20261117T013000Z
 SUMMARY:[現場] Race and Gender in the Global Hispanophone: Bound Brothers
@@ -11635,36 +11676,6 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  kelpsiel Auditorium.\n\nAdmission Information\n\nFree admission.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54231141268808@didiowen
-DTSTAMP:20261112T120414Z
-DTSTART:20261113T203000Z
-DTEND:20261113T220000Z
-SUMMARY:[現場] Emerging String Quartet Program – The Dolphins
-LOCATION:Braun Music Center\, Campbell Recital Hall
-URL:https://events.stanford.edu/event/esqp-dolphins-quartet
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/54231141268808.ics\nhttps://events.stanford.edu/event/esqp
- -dolphins-quartet\n\nThe Dolphins Quartet performs as part of the Emerging
-  String Quartet Program (ESQP).\n\nThe Dolphins Quartet is a string quarte
- t and composer collective united by a belief that chamber music can be vib
- rant\, daring\, and deeply human. Trained at Juilliard and based in New Yo
- rk City\, the quartet has gained recognition for adventurous programming\,
-  original compositions\, and performances that reimagine the possibilities
-  of quartet playing. In April 2026\, they won Gold Prize and Audience Priz
- e at the Chesapeake Chamber Music Competition\, establishing their presenc
- e as a world-class ensemble in the classical music scene. Read more here!\
- n\nMembers:\nLuke Henderson – violin\nIsaac Park – violin\nJames Preuc
- il – viola\nIan Maloney – cello\n\nThe ESQP provides a young ensemble 
- opportunities similar to what the St. Lawrence String Quartet\, ensemble i
- n residence at Stanford University from 1998-2024\, enjoyed in their early
-  years through an intensive week of community outreach. The up-and-coming 
- musicians gain valuable experience performing for varied audiences in a sh
- ort period of time while the greater Stanford community benefits from the 
- input of energy and contact with the young ensemble.\n\nAdmission Informat
- ion\n\nFree admissionParking permits are required for weekday campus parki
- ng. We recommend downloading the ParkMobile app before arriving.
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54233222812405@didiowen
 DTSTAMP:20261013T212435Z
 DTSTART:20261203T200000Z
@@ -11682,7 +11693,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54239600094101@didiowen
-DTSTAMP:20261112T120438Z
+DTSTAMP:20261114T120357Z
 DTSTART:20261116T200000Z
 DTEND:20261116T210000Z
 SUMMARY:[線上] Pediatric Orthopedics and Sports Medicine Lecture Series: 
@@ -11719,7 +11730,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54251566724146@didiowen
-DTSTAMP:20261112T120513Z
+DTSTAMP:20261113T124331Z
 DTSTART:20261114T200000Z
 DTEND:20261114T200000Z
 SUMMARY:[現場] Sunshine - Bryant Lin in conversation with Latha Palaniapp
@@ -11739,7 +11750,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54251680221629@didiowen
-DTSTAMP:20261112T120513Z
+DTSTAMP:20261114T120428Z
 DTSTART:20261118T003000Z
 DTEND:20261118T020000Z
 SUMMARY:[現場] Vocal Masterclass with Rachel Willis-Sørensen\, soprano
@@ -11755,7 +11766,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54251728457906@didiowen
-DTSTAMP:20261112T120513Z
+DTSTAMP:20261114T120428Z
 DTSTART:20261119T033000Z
 DTEND:20261119T050000Z
 SUMMARY:[現場] Shenson Recital Series: Rachel Willis-Sørensen\, soprano
@@ -11803,43 +11814,8 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  e enough time for questions during the presentation.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54287642110827@didiowen
-DTSTAMP:20261112T120558Z
-DTSTART:20261113T230000Z
-DTEND:20261114T020000Z
-SUMMARY:[現場] Craft the Collection: Vegetable Printing & Relief Embroide
- ry Workshop
-LOCATION:Cantor Arts Center\, Auditorium
-URL:https://events.stanford.edu/event/craft-the-collection_vegetable-printi
- ng
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/54287642110827.ics\nhttps://events.stanford.edu/event/craf
- t-the-collection_vegetable-printing\n報名/票券: https://thethirdplace.
- is/event/craft-the-collection_vegetable-printing\n\nOpen to Stanford stude
- nts\, staff\, faculty\, and affiliates.\n\nJoin us at Craft the Collection
- : Vegetable Printing & Relief Embroidery Workshop! 🥔🪡🎨🌱\n\nIns
- pired by In Focus: Asian American Art from the Collection\, our inaugural 
- Craft the Collection Workshop invites you to explore the Cantor’s collec
- tion through hands-on making. Drawing inspiration from Ruth Asawa’s vege
- table printing and Pacita Abad’s trapunto textile work\, we invite you t
- o explore the artists’ techniques.\n\nCarve your own vegetable stamps\, 
- experiment with colorful prints\, and try your hand at relief embroidery t
- o customize a free tote bag or your own textiles.\n\nStop by for snacks an
- d refreshments and discover new ways to engage with the Cantor’s collect
- ion beyond the gallery walls.\n\nCome for the crafts\, stay for the commun
- ity. We can’t wait to see what you make!\n\nMust be affiliated with Stan
- ford to participate.​ RSVP here.\n\nWarmly\,\nThe Cantor Student Advisor
- y Committee\n\n________\n\nAccessibility Information or Requests\n\nCantor
-  Arts Center at Stanford University is committed to ensuring our programs 
- are accessible to everyone. To request access information and/or accommoda
- tions for this event\, please complete this form at least one week prior t
- o the event: museum.stanford.edu/access.\n\nFor questions\, please contact
-  disability.access@stanford.edu or Vivian Sming\, vsming@stanford.edu\, (6
- 50) 725-7789.
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54293143894548@didiowen
-DTSTAMP:20261112T120613Z
+DTSTAMP:20261114T120529Z
 DTSTART:20261120T013000Z
 DTEND:20261120T013000Z
 SUMMARY:[現場] Displaced Modernisms Reading Group: First Meeting
@@ -12011,7 +11987,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54296267539166@didiowen
-DTSTAMP:20261112T120624Z
+DTSTAMP:20261114T120539Z
 DTSTART:20261117T180000Z
 DTEND:20261117T193000Z
 SUMMARY:[線上] Using AI to Listen\, Learn\, and Act on Community Feedback
@@ -12153,7 +12129,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54311544929707@didiowen
-DTSTAMP:20261112T120702Z
+DTSTAMP:20261114T120614Z
 DTSTART:20261117T010000Z
 DTEND:20261117T023000Z
 SUMMARY:[現場] Book Talk: Prof. Cécile Alduy in Conversation with Prof. 
@@ -12189,7 +12165,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54311591576467@didiowen
-DTSTAMP:20261112T120702Z
+DTSTAMP:20261114T120614Z
 DTSTART:20261118T201500Z
 DTEND:20261118T220000Z
 SUMMARY:[現場] Truisms\, Fiction and Women Writing: A lunch workshop with
@@ -12424,7 +12400,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54348724664796@didiowen
-DTSTAMP:20261112T120813Z
+DTSTAMP:20261114T120721Z
 DTSTART:20261118T033000Z
 DTEND:20261118T033000Z
 SUMMARY:[現場] Sound\, Voice\, Strings: Compositions for Traditional East
@@ -12740,7 +12716,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54366133070873@didiowen
-DTSTAMP:20261112T120921Z
+DTSTAMP:20261114T120825Z
 DTSTART:20261116T203000Z
 DTEND:20261116T220000Z
 SUMMARY:[現場] Book Talk: Nuremberg's Citizen Prosecutor
@@ -12810,7 +12786,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54383678300700@didiowen
-DTSTAMP:20261112T121013Z
+DTSTAMP:20261114T121420Z
 DTSTART:20261117T200000Z
 DTEND:20261117T220000Z
 SUMMARY:[現場] Bechtel International Center: Resource Fair
@@ -12826,8 +12802,42 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
   education and cultural exchange.
 END:VEVENT
 BEGIN:VEVENT
+UID:stanford-54506920858660@didiowen
+DTSTAMP:20261114T121420Z
+DTSTART:20261118T210000Z
+DTEND:20261118T230000Z
+SUMMARY:[現場] Bechtel International Center: Resource Fair
+LOCATION:Bechtel International Center
+URL:https://events.stanford.edu/event/bechtel-international-center-resource
+ -fair
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54506920858660.ics\nhttps://events.stanford.edu/event/bech
+ tel-international-center-resource-fair\n\nJoin us at the Bechtel Internati
+ onal Center as we officially kick off International Education Week!\n\nCam
+ pus partners\, student groups\, cultural tables\, and performances will be
+  the highlights with special snacks. Please join us as we celebrate global
+  education and cultural exchange.
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54506920866853@didiowen
+DTSTAMP:20261114T121420Z
+DTSTART:20261119T220000Z
+DTEND:20261120T000000Z
+SUMMARY:[現場] Bechtel International Center: Resource Fair
+LOCATION:Bechtel International Center
+URL:https://events.stanford.edu/event/bechtel-international-center-resource
+ -fair
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54506920866853.ics\nhttps://events.stanford.edu/event/bech
+ tel-international-center-resource-fair\n\nJoin us at the Bechtel Internati
+ onal Center as we officially kick off International Education Week!\n\nCam
+ pus partners\, student groups\, cultural tables\, and performances will be
+  the highlights with special snacks. Please join us as we celebrate global
+  education and cultural exchange.
+END:VEVENT
+BEGIN:VEVENT
 UID:stanford-54400058337177@didiowen
-DTSTAMP:20261112T121027Z
+DTSTAMP:20261114T120919Z
 DTSTART:20261118T004500Z
 DTEND:20261118T030000Z
 SUMMARY:[現場] Malês:  Film Screening and Conversation
@@ -12855,7 +12865,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54410402193719@didiowen
-DTSTAMP:20261112T121045Z
+DTSTAMP:20261114T120934Z
 DTSTART:20261120T200000Z
 DTEND:20261120T210000Z
 SUMMARY:[混合] CSCS William C. Dement Seminar Series: " Cortical inhibito
@@ -12899,50 +12909,8 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  m.us/j/91908447378?pwd=VzY1TlJNaFdVVWdYWlZ3c0dEaWlUZz09
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54410817374487@didiowen
-DTSTAMP:20261112T121047Z
-DTSTART:20261113T230000Z
-DTEND:20261114T000000Z
-SUMMARY:[現場] Lecture: Visiting Composer – Wang Lu
-LOCATION:Braun Music Center\, Room 103
-URL:https://events.stanford.edu/event/guest-lecture-lu
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/54410817374487.ics\nhttps://events.stanford.edu/event/gues
- t-lecture-lu\n\nVisiting composer Wang Lu will give a presentation on her 
- music\, including Surge\, which will be performed by the Stanford Symphony
-  Orchestra on November 13 and 15.\n\nProfessor Lu's appearance\, and the t
- he West Coast premiere of her composition Surge by the Stanford Symphony O
- rchestra on November 13 and 15\, are supported by the Stanford University 
- Department of Music.\n\nAdmission Information\n\nFree admission
-END:VEVENT
-BEGIN:VEVENT
-UID:stanford-54411409617637@didiowen
-DTSTAMP:20261112T121048Z
-DTSTART:20261113T220000Z
-DTEND:20261114T000000Z
-SUMMARY:[混合] Special Seminar and Fireside Chat: Understanding Work Usin
- g AI
-LOCATION:Gates Computer Science Building\, 119
-URL:https://events.stanford.edu/event/special-seminar-and-fireside-chat-und
- erstanding-work-using-ai
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/54411409617637.ics\nhttps://events.stanford.edu/event/spec
- ial-seminar-and-fireside-chat-understanding-work-using-ai\n報名/票券: 
- https://digitaleconomy.stanford.edu/event/special-seminar-and-fireside-cha
- t-understanding-work-using-ai/\n\nThe government has maintained crucial da
- ta infrastructure that allow jobseekers to find jobs\, employers to hire\,
-  and researchers to predict the future of work. This infrastructure is tes
- ted by rapid changes brought about by AI\, and at the same time\, is empow
- ered by the use of AI.\n\nPhil Lewis from the National Center for O*NET De
- velopment will talk about data infrastructure the US Department of Labor p
- rovides and how AI is used to update it. A panel with Diyi Yang from the S
- tanford Computer Science Department and DEL’s Erik Brynjolfsson will dis
- cuss the opportunities of a new partnership between Stanford and the Natio
- nal Center for O*NET Development.
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54411448205345@didiowen
-DTSTAMP:20261112T121048Z
+DTSTAMP:20261114T120937Z
 DTSTART:20261117T200000Z
 DTEND:20261117T211500Z
 SUMMARY:[現場] German Studies Lecture Series: Jutta Eming - How Do You Da
@@ -13030,7 +12998,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54426607041107@didiowen
-DTSTAMP:20261112T121144Z
+DTSTAMP:20261114T121021Z
 DTSTART:20261119T200000Z
 DTEND:20261119T213000Z
 SUMMARY:[現場] ILAC: De las fosas comunes al espacio publico: la memoria 
@@ -13047,10 +13015,10 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54435335464306@didiowen
-DTSTAMP:20261105T174010Z
+DTSTAMP:20261114T021336Z
 DTSTART:20261203T200000Z
 DTEND:20261203T210000Z
-SUMMARY:[現場] BOOK TALK | A Conversation about the Art of Edmonia Lewis
+SUMMARY:[現場] BOOK TALK | The Art of Edmonia Lewis
 LOCATION:Roble Gym\, Lounge
 URL:https://events.stanford.edu/event/the-art-of-edmonia-lewis
 DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
@@ -13080,7 +13048,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54435582365420@didiowen
-DTSTAMP:20261112T121215Z
+DTSTAMP:20261114T121044Z
 DTSTART:20261118T233000Z
 DTEND:20261119T010000Z
 SUMMARY:[混合] Leonid Gozman — After Putin\, After the War: Russia’s 
@@ -13120,7 +13088,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54435561022415@didiowen
-DTSTAMP:20261112T121215Z
+DTSTAMP:20261114T121044Z
 DTSTART:20261117T010000Z
 DTEND:20261117T020000Z
 SUMMARY:[混合] Anesthesiology Grand Rounds with the California Surgeon Ge
@@ -13157,7 +13125,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54435618738116@didiowen
-DTSTAMP:20261112T121215Z
+DTSTAMP:20261114T121045Z
 DTSTART:20261117T000000Z
 DTEND:20261117T011500Z
 SUMMARY:[混合] Jillian Schwedler — Are the Streets Still Talking? Prot
@@ -13195,7 +13163,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54435872857274@didiowen
-DTSTAMP:20261112T121217Z
+DTSTAMP:20261114T121046Z
 DTSTART:20261120T023000Z
 DTEND:20261120T033000Z
 SUMMARY:[線上]  Comics: More Than Words: Pelin Çılgın - Cinematic Lang
@@ -13224,7 +13192,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54436474308613@didiowen
-DTSTAMP:20261112T121221Z
+DTSTAMP:20261114T121049Z
 DTSTART:20261118T010000Z
 DTEND:20261118T010000Z
 SUMMARY:[現場] materia: Roundtable Discussion on the Microphysics of Powe
@@ -13247,12 +13215,19 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  of attention span\, etc.)\, we find multiple opportunities to intervene. W
  e would like to rekindle the spirit of the original formulation\, revise F
  oucault\, and set him into conversation with different archives\, in keepi
- ng with the group’s orientation\, Latin Americanist and otherwise. \n\nS
- tay tuned for our exciting announcement of speakers!
+ ng with the group’s orientation\, Latin Americanist and otherwise. \n\nH
+ annah Landecker \nWe are delighted to have Hannah Landecker from UCLA back
+  for another materia roundtable\, after her thrilling contributions to our
+  discussion on metabolism and the non-human last year. Dr. Landecker uses 
+ the tools of history and social science to study contemporary developments
+  in the life sciences\, and their historical taproots in the twentieth cen
+ tury.  She has taught and researched in the fields of history of science\,
+  anthropology and sociology.  At UCLA she is cross-appointed between the I
+ nstitute for Society and Genetics\, and the Sociology
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54437727733631@didiowen
-DTSTAMP:20261112T121229Z
+DTSTAMP:20261114T121056Z
 DTSTART:20261118T210000Z
 DTEND:20261118T210000Z
 SUMMARY:[線上] Slavic Languages and Literatures - A Ukrainian Century: É
@@ -13303,7 +13278,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54438062895197@didiowen
-DTSTAMP:20261112T121229Z
+DTSTAMP:20261114T121056Z
 DTSTART:20261117T013000Z
 DTEND:20261117T030000Z
 SUMMARY:[現場] Aditya Balasubramanian | Before Public Works: Roads in Lat
@@ -13324,7 +13299,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54438180058341@didiowen
-DTSTAMP:20261112T194906Z
+DTSTAMP:20261114T121057Z
 DTSTART:20261120T180000Z
 DTEND:20261120T180000Z
 SUMMARY:[線上] Immigration Pathways Beyond F-1
@@ -13343,7 +13318,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54444392906630@didiowen
-DTSTAMP:20261112T121249Z
+DTSTAMP:20261114T121110Z
 DTSTART:20261119T013000Z
 DTEND:20261119T033000Z
 SUMMARY:[混合] Three L.A.S.E.R. talks: Media Art\, AI\, The Self and Cons
@@ -13377,26 +13352,8 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  specifically investigating how 
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54445649547777@didiowen
-DTSTAMP:20261112T121256Z
-DTSTART:20261113T200000Z
-DTEND:20261113T210000Z
-SUMMARY:[混合] SDRC Friday Seminar 11/13/26
-LOCATION:Beckman Center\, B302
-URL:https://events.stanford.edu/event/sdrc-friday-seminar
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/54445649547777.ics\nhttps://events.stanford.edu/event/sdrc
- -friday-seminar\n線上資訊:\nFor Zoom attendees:\nZoom link: https://st
- anford.zoom.us/j/98479731295?pwd=NC9KZTZkUkZRNEdmRjNyY21qRk50Zz09\nMeeting
-  ID: 98479731295\nPassword: 348339\nIf the above link is not working\, p
- lease go to Zoom https://stanford.zoom.us/j/ directly and enter the liste
- d Meeting ID and password.\n\nJessie Wong\, PhD\nClinical Associate Profes
- sor\, Department of Pediatrics\, Stanford University\n\n"An Integrative Ap
- proach to Diabetes Risk Detection and Device Distress"
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54470798899579@didiowen
-DTSTAMP:20261112T121334Z
+DTSTAMP:20261114T121149Z
 DTSTART:20261119T200000Z
 DTEND:20261119T200000Z
 SUMMARY:[線上]  Fulbright Scholar Webinar for Stanford Faculty and Staff
@@ -13454,7 +13411,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54471546836143@didiowen
-DTSTAMP:20261112T121340Z
+DTSTAMP:20261114T121208Z
 DTSTART:20261116T200000Z
 DTEND:20261116T205000Z
 SUMMARY:[現場] How the World Learns: Education & Culture from Six Countri
@@ -13479,31 +13436,8 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  ternational Spouse Community.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54472726245246@didiowen
-DTSTAMP:20261112T121349Z
-DTSTART:20261113T213000Z
-DTEND:20261113T213000Z
-SUMMARY:[現場] Film Screening: Prisoner No. 626710 is Present\, or Qaidi
-  No. 626710 Haazir Hai
-LOCATION:McMurtry Building\, 115
-URL:https://events.stanford.edu/event/film-screening-prisoner-no-626710-is-
- present-orqaidi-no-626710-haazir-hai
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/54472726245246.ics\nhttps://events.stanford.edu/event/film
- -screening-prisoner-no-626710-is-present-orqaidi-no-626710-haazir-hai\n\nT
- his event is co-sponsored by the Center for South Asia and the Department 
- of Art and Art History.\n\nPrisoner No. 626710 is Present chronicles the a
- rrest and prolonged incarceration of activist Umar Khalid\, accused of orc
- hestrating the 2020 New Delhi riots. Through archival footage and personal
-  accounts\, Lalit Vachani explores Khalid’s activism\, the impact of his
-  imprisonment on his partner Banojyotsna Lahiri\, and the broader crackdow
- n on dissent under the Modi government. The film situates Khalid’s story
-  within the larger political repression of civil rights movements and Musl
- im voices in India.
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54472908774345@didiowen
-DTSTAMP:20261112T121349Z
+DTSTAMP:20261114T121222Z
 DTSTART:20261120T013000Z
 DTEND:20261120T030000Z
 SUMMARY:[現場] The Devil in Africa: Racialized Diabolism in the Age of En
@@ -13540,7 +13474,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54472997884874@didiowen
-DTSTAMP:20261112T121350Z
+DTSTAMP:20261114T121222Z
 DTSTART:20261116T200000Z
 DTEND:20261116T213000Z
 SUMMARY:[現場] "Looking for cousins": Affective recognition between Black
@@ -13576,7 +13510,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54473240244621@didiowen
-DTSTAMP:20261112T121351Z
+DTSTAMP:20261114T121222Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:[線上] Hackathon: Do you want to collaborate with the world’s f
@@ -13602,7 +13536,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54475135868087@didiowen
-DTSTAMP:20261112T121356Z
+DTSTAMP:20261114T121226Z
 DTSTART:20261120T210000Z
 DTEND:20261120T230000Z
 SUMMARY:[現場] African Bead Crafting
@@ -13628,7 +13562,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54480225774059@didiowen
-DTSTAMP:20261112T121421Z
+DTSTAMP:20261114T121248Z
 DTSTART:20261118T020000Z
 DTEND:20261118T024500Z
 SUMMARY:[現場] A Conversation with Kanishka Narayan\, MBA ’21\, U.K. Mi
@@ -13699,7 +13633,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54488058114904@didiowen
-DTSTAMP:20261112T121453Z
+DTSTAMP:20261114T121317Z
 DTSTART:20261118T033000Z
 DTEND:20261118T043000Z
 SUMMARY:[現場] CCRMA Presents: Sound\, Voice\, Strings – Compositions f
@@ -13717,7 +13651,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54489454766244@didiowen
-DTSTAMP:20261112T121504Z
+DTSTAMP:20261114T121327Z
 DTSTART:20261120T021500Z
 DTEND:20261120T034500Z
 SUMMARY:[現場] Philosophy and Literature: Karen Zumhagen-Yekplé - I Bet 
@@ -13755,7 +13689,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54490004353272@didiowen
-DTSTAMP:20261112T121508Z
+DTSTAMP:20261114T121329Z
 DTSTART:20261120T200000Z
 DTEND:20261120T200000Z
 SUMMARY:[混合] Building Evidentiary Infrastructure During an Active War: 
@@ -13790,7 +13724,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54498128243689@didiowen
-DTSTAMP:20261112T195500Z
+DTSTAMP:20261114T121353Z
 DTSTART:20261120T200000Z
 DTEND:20261120T200000Z
 SUMMARY:[混合] International Students & Entrepreneurship: Best Practices 
@@ -13813,7 +13747,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54499291152003@didiowen
-DTSTAMP:20261112T225417Z
+DTSTAMP:20261113T215758Z
 DTSTART:20261209T003000Z
 DTEND:20261209T023000Z
 SUMMARY:[現場] Celebrating the Winners of the 2026 Saroyan Prize
@@ -13840,7 +13774,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54499448544811@didiowen
-DTSTAMP:20261112T234624Z
+DTSTAMP:20261114T121405Z
 DTSTART:20261119T190000Z
 DTEND:20261119T200000Z
 SUMMARY:[現場] Artificial Intelligence Regulatory & Policy Landscapes: A 
@@ -13862,5 +13796,149 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  l free to bring questions about finding\, accessing\, and using data from 
  sources like the UN\, European Union\, World Bank\, IMF\, OECD\, Internati
  onal Labour Organization\, and International Organization for Migration.
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54507073681592@didiowen
+DTSTAMP:20261113T204213Z
+DTSTART:20270608T230000Z
+DTEND:20270609T000000Z
+SUMMARY:[混合] Stanford Cancer Institute Breakthroughs in Cancer: The Evo
+ lving Care and Cure of Leukemias Over 6 Decades – a 2027 Perspective
+LOCATION:Stanford ChEM-H Building\, Gunn Rotunda (E241)
+URL:https://events.stanford.edu/event/stanford-cancer-institute-breakthroug
+ hs-in-cancer-the-evolving-care-and-cure-of-leukemias-over-6-decades-a-2027
+ -perspective
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54507073681592.ics\nhttps://events.stanford.edu/event/stan
+ ford-cancer-institute-breakthroughs-in-cancer-the-evolving-care-and-cure-o
+ f-leukemias-over-6-decades-a-2027-perspective\n\nThe Stanford Cancer Insti
+ tute Breakthroughs in Cancer seminar series provides a platform for eminen
+ t leaders in oncology to share their insights with the Stanford community.
+  Seminars highlight innovations across basic\, translational\, clinical\, 
+ and population cancer science. \n\nJoin us Tuesday\, June 8\, 2027\, 4-5 p
+ .m.\, at Gunn Rotunda (E241)\, ChEM-H Building and Neurosciences Building\
+ , or Zoom for a presentation by Hagop Kantarjian\, MD. Kantarjian is a pro
+ fessor in the Department of Leukemia and holds the Samsung Distinguished L
+ eukemia Chair in Cancer Medicine at MD Anderson Cancer Center.\n\nThe even
+ t is open to Stanford faculty\, trainees\, students\, and staff.\n\nRegist
+ ration is encouraged.
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54508027849181@didiowen
+DTSTAMP:20261113T225420Z
+DTSTART:20261201T173000Z
+DTEND:20261201T183000Z
+SUMMARY:[混合] CPMH SEMINAR SERIES 'Cutting-edge advances towards persona
+ lized mental health'
+LOCATION:Lokey Stem Cell Building\, G1161 Large Conference Room
+URL:https://events.stanford.edu/event/cpmh-seminar-series-cutting-edge-adva
+ nces-towards-personalized-mental-health
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54508027849181.ics\nhttps://events.stanford.edu/event/cpmh
+ -seminar-series-cutting-edge-advances-towards-personalized-mental-health\n
+ 線上資訊:\nClick Here to Register Here\n報名/票券: https://docs.go
+ ogle.com/forms/d/e/1FAIpQLScxM67Yltrxv2EDImJ6SGaoQqTdSWheWJQjU9SniGQZS6BO1
+ Q/viewform\n\nSTANFORD CENTER FOR PRECISION MENTAL HEALTH SEMINAR SERIES  
+    \n\nCutting-edge advances towards personalized mental health \n\nFEAUTU
+ RED PRESENTATION \n\nTalk Title: Heart-brain interactions driving cardiova
+ scular dysfunction \n\nSpeaker: Alexander R. Nectow\, MD\, PhD            
+                                     Assistant Professor\, Department of Me
+ dicine\, Columbia University \n\nDATE & TIME: Tuesday\, Dec 1\, 2026 | 9:3
+ 0 - 10:30 AM PST \n\nLOCATION: Lokey Stem Cell Research Building \, G1161 
+ Large Conference Room \n\nREGISTER HERE\n\nABOUT THE TALK \n\nStress is a 
+ major trigger of arrhythmia\, yet the mechanisms underlying these effects 
+ remain poorly defined. Using a genetic model of ventricular tachycardia (V
+ T)\, we find that naturalistic emotional stressors rapidly provoke maligna
+ nt arrhythmias in vulnerable hearts. By tracing back from sympathetic neur
+ ons innervating myocardium\, we identify a multi-synaptic\, brain-to-heart
+  circuit originating within the midbrain\, which is required for stress-in
+ duced VT. Strikingly\, activation of this pathway induces VT within second
+ s\, suggesting that central neuronal control of the heart is an important 
+ arrhythmogenic trigger. Together\, this work identifies a brain-to-heart c
+ ircuit responsible for triggering stress-induced arrhythmias and points to
+ ward circuit-directed therapies for this class of tachyarrhythmias. \n\nAB
+ OUT THE SPEAKER \n\nAlexander Nectow\, MD\, PhD\, is an Assistant Professo
+ r at Columbia University who has established the dorsal raphe nucleus as a
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54509116875711@didiowen
+DTSTAMP:20261114T015424Z
+DTSTART:20261209T003000Z
+DTEND:20261209T014500Z
+SUMMARY:[混合] Chinese Railroad Workers\, Leland and Jane Stanford\, and 
+ the Founding of the University
+LOCATION:CEMEX Auditorium\, CEMEX Auditorium
+URL:https://events.stanford.edu/event/chinese-railroad-workers
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54509116875711.ics\nhttps://events.stanford.edu/event/chin
+ ese-railroad-workers\n報名/票券: https://historicalsociety.stanford.ed
+ u/chinese-railroad-workers\n\nThe completion of the first transcontinental
+  railroad in 1869 connected the East and West coasts of the United States.
+  It was a dramatic engineering\, social\, economic\, and cultural developm
+ ent and hailed as a great national accomplishment. Thousands of workers fr
+ om China made it possible. Their contribution has been underappreciated an
+ d even forgotten. Stanford Professor Gordon Chang will draw on his years o
+ f scholarship to recover the story of the Chinese Railroad Workers\, their
+  surprising relationship to the Stanfords\, and their important place in t
+ he early University.\n\nFree and open to the public. Registration required
+ .\n\nRegister to attend in person\nRegister to attend on Zoom\n\nTo learn 
+ more about the Stanford Historical Society\, please visit our web site. Qu
+ estions? Email us at historicalsociety@stanford.edu.
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54511632400099@didiowen
+DTSTAMP:20261114T082720Z
+DTSTART:20270202T200000Z
+DTEND:20270202T213000Z
+SUMMARY:[線上] The Art of Changing Habits
+LOCATION:
+URL:https://events.stanford.edu/event/the-art-of-changing-habits
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54511632400099.ics\nhttps://events.stanford.edu/event/the-
+ art-of-changing-habits\n\nHave you ever started a new routine with real de
+ termination\, only to slide back into old patterns a few weeks later? Whet
+ her you want to change your diet\, limit screen time\, or build a differen
+ t daily rhythm\, shifting deeply ingrained habits takes more than willpowe
+ r.\n\nJoin us for an interactive online class where you will explore pract
+ ical\, compassionate strategies for making change that lasts. You will lea
+ rn how to identify your own motivations and the rewards that keep current 
+ habits in place\, so you can work with your habits instead of against them
+ . You will also practice approaching obstacles with curiosity rather than 
+ guilt\, which helps sustain momentum without the discouraging effects of s
+ elf-judgment.\n\nTogether\, we will discuss how to link new behaviors to e
+ xisting routines and cues in your life\, making them easier to remember an
+ d repeat. You will also learn how to break big goals into small\, manageab
+ le steps that fit into a busy day.\n\nYou will leave with a set of simple 
+ tools to begin shifting the routines that matter most to you and a persona
+ l plan to work towards one small change you are ready to make.\n\nThis cla
+ ss will not be recorded. \n\nAttendance requirement for incentive points -
+  at least 80% of the live session.  \n\nRequest disability accommodations 
+ and access info.\n\n\n\nClass details are subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-54511632767757@didiowen
+DTSTAMP:20261114T082720Z
+DTSTART:20270213T000000Z
+DTEND:20270213T010000Z
+SUMMARY:[線上] The Art and Science of Breathing (February 12 - 26)
+LOCATION:
+URL:https://events.stanford.edu/event/the-art-and-science-of-breathing-febr
+ uary-12-26
+DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
+ public-events/e/54511632767757.ics\nhttps://events.stanford.edu/event/the-
+ art-and-science-of-breathing-february-12-26\n\nIn this online class\, you 
+ will learn breathing techniques to increase energy\, enhance concentration
+ \, cultivate compassionate connection to yourself and others\, create rela
+ xation\, and deepen sleep. Over three sessions\, we will explore the scien
+ ce of breath and the specific benefits of a variety of practices including
+  diaphragmatic breathing\, warming versus cooling techniques\, and calming
+  and centering skills.\n\nThrough guided experiential practice and informa
+ tive multimodal instruction\, you will discover the benefits of a variety 
+ of breathing practices and learn how best to incorporate each technique in
+ to your daily life. You also will create a personal action plan for enhanc
+ ing more effective breathing to enrich your lifelong health and well-being
+ .\n\nThis class will not be recorded. \n\nAttendance requirement for incen
+ tive points - at least 80% of the live session.  \n\nRequest disability ac
+ commodations and access info.\n\nClass details are subject to change.
 END:VEVENT
 END:VCALENDAR

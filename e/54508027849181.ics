@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54508027849181@didiowen
+DTSTAMP:20261113T225420Z
+DTSTART:20261201T173000Z
+DTEND:20261201T183000Z
+SUMMARY:[混合] CPMH SEMINAR SERIES 'Cutting-edge advances towards persona
+ lized mental health'
+LOCATION:Lokey Stem Cell Building\, G1161 Large Conference Room
+URL:https://events.stanford.edu/event/cpmh-seminar-series-cutting-edge-adva
+ nces-towards-personalized-mental-health
+DESCRIPTION:https://events.stanford.edu/event/cpmh-seminar-series-cutting-e
+ dge-advances-towards-personalized-mental-health\n線上資訊:\nClick Here
+  to Register Here\n報名/票券: https://docs.google.com/forms/d/e/1FAIpQ
+ LScxM67Yltrxv2EDImJ6SGaoQqTdSWheWJQjU9SniGQZS6BO1Q/viewform\n\nSTANFORD CE
+ NTER FOR PRECISION MENTAL HEALTH SEMINAR SERIES     \n\nCutting-edge advan
+ ces towards personalized mental health \n\nFEAUTURED PRESENTATION \n\nTalk
+  Title: Heart-brain interactions driving cardiovascular dysfunction \n\nSp
+ eaker: Alexander R. Nectow\, MD\, PhD                                     
+            Assistant Professor\, Department of Medicine\, Columbia Univers
+ ity \n\nDATE & TIME: Tuesday\, Dec 1\, 2026 | 9:30 - 10:30 AM PST \n\nLOCA
+ TION: Lokey Stem Cell Research Building \, G1161 Large Conference Room \n\
+ nREGISTER HERE\n\nABOUT THE TALK \n\nStress is a major trigger of arrhythm
+ ia\, yet the mechanisms underlying these effects remain poorly defined. Us
+ ing a genetic model of ventricular tachycardia (VT)\, we find that natural
+ istic emotional stressors rapidly provoke malignant arrhythmias in vulnera
+ ble hearts. By tracing back from sympathetic neurons innervating myocardiu
+ m\, we identify a multi-synaptic\, brain-to-heart circuit originating with
+ in the midbrain\, which is required for stress-induced VT. Strikingly\, ac
+ tivation of this pathway induces VT within seconds\, suggesting that centr
+ al neuronal control of the heart is an important arrhythmogenic trigger. T
+ ogether\, this work identifies a brain-to-heart circuit responsible for tr
+ iggering stress-induced arrhythmias and points toward circuit-directed the
+ rapies for this class of tachyarrhythmias. \n\nABOUT THE SPEAKER \n\nAlexa
+ nder Nectow\, MD\, PhD\, is an Assistant Professor at Columbia University 
+ who has established the dorsal raphe nucleus as a
+END:VEVENT
+END:VCALENDAR

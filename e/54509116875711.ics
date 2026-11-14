@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54509116875711@didiowen
+DTSTAMP:20261114T015424Z
+DTSTART:20261209T003000Z
+DTEND:20261209T014500Z
+SUMMARY:[混合] Chinese Railroad Workers\, Leland and Jane Stanford\, and 
+ the Founding of the University
+LOCATION:CEMEX Auditorium\, CEMEX Auditorium
+URL:https://events.stanford.edu/event/chinese-railroad-workers
+DESCRIPTION:https://events.stanford.edu/event/chinese-railroad-workers\n報
+ 名/票券: https://historicalsociety.stanford.edu/chinese-railroad-worker
+ s\n\nThe completion of the first transcontinental railroad in 1869 connect
+ ed the East and West coasts of the United States. It was a dramatic engine
+ ering\, social\, economic\, and cultural development and hailed as a great
+  national accomplishment. Thousands of workers from China made it possible
+ . Their contribution has been underappreciated and even forgotten. Stanfor
+ d Professor Gordon Chang will draw on his years of scholarship to recover 
+ the story of the Chinese Railroad Workers\, their surprising relationship 
+ to the Stanfords\, and their important place in the early University.\n\nF
+ ree and open to the public. Registration required.\n\nRegister to attend i
+ n person\nRegister to attend on Zoom\n\nTo learn more about the Stanford H
+ istorical Society\, please visit our web site. Questions? Email us at hist
+ oricalsociety@stanford.edu.
+END:VEVENT
+END:VCALENDAR
