@@ -611,7 +611,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-52853945971574@didiowen
-DTSTAMP:20261115T110811Z
+DTSTAMP:20261116T112020Z
 DTSTART:20261118T163000Z
 DTEND:20261118T220000Z
 SUMMARY:[線上] Suicide Assessment and Treatment: An Update for Profession
@@ -682,7 +682,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53251196125393@didiowen
-DTSTAMP:20261115T111525Z
+DTSTAMP:20261116T112709Z
 DTSTART:20261120T013000Z
 DTEND:20261120T030000Z
 SUMMARY:[現場] Holly Herndon & Mat Dryhurst: Protocol Art
@@ -2770,37 +2770,6 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  ion and are free of charge.\n\nFirst come\, first served!
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-53695215989203@didiowen
-DTSTAMP:20261114T114422Z
-DTSTART:20261115T220000Z
-DTEND:20261115T230000Z
-SUMMARY:[現場] Public Tour | Cantor Highlights in Chinese
-LOCATION:Cantor Arts Center
-URL:https://events.stanford.edu/event/copy-of-public-tour-cantor-highlights
- -in-chinese-4381
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/53695215989203.ics\nhttps://events.stanford.edu/event/copy
- -of-public-tour-cantor-highlights-in-chinese-4381\n\n在博物馆导览员
- 的带领下，探索坎特艺术中心的收藏品。导览员将为您
- 介绍来自不同文化和不同时期的精选作品。\n\n欢迎您参
- 与对话，分享您对游览过程中所探讨主题的想法，或者
- 按照自己的舒适程度参与互动。\n\n导览免费，但需提前
- 登记。请通过以下链接选择并 RSVP 您希望参加的日期。\n
- \nSeptember 13\, 2026: https://thethirdplace.is/event/sept13\n\nOctober 11
- \, 2026: https://thethirdplace.is/event/oct11\n\nNovember 15\, 2026: https
- ://thethirdplace.is/event/nov15\n\n ______________________________________
- _____\n\n\n\nExplore the Cantor's collections with a museum engagement gui
- de who will lead you through a selection of works from different cultures 
- and time periods.\n\n Participants are welcomed to participate in the conv
- ersation and provide their thoughts on themes explored throughout the tour
-  but are also free to engage at their own comfort level. \n\n Tours are fr
- ee of charge but require advance registration. Please select and RSVP for 
- your preferred date using the links below.\n\nSeptember 13\, 2026: https:/
- /thethirdplace.is/event/sept13\n\nOctober 11\, 2026: https://thethirdplace
- .is/event/oct11\n\nNovember 15\, 2026: https://thethirdplace.is/event/nov1
- 5
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-53727115437543@didiowen
 DTSTAMP:20261108T005422Z
 DTSTART:20261202T200000Z
@@ -3075,28 +3044,6 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  stem Chief of Trauma and Acute Care Surgery for the Inova Health System\, 
  and Medical Director of Perioperative Services for Inova. She is also Prof
  essor of Medical Education at the University of Virginia.
-END:VEVENT
-BEGIN:VEVENT
-UID:stanford-53737430749378@didiowen
-DTSTAMP:20261115T112613Z
-DTSTART:20261115T210000Z
-DTEND:20261115T220000Z
-SUMMARY:[現場] Public Tour | A Closer Look
-LOCATION:Cantor Arts Center
-URL:https://events.stanford.edu/event/public-tour-a-closer-look
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/53737430749378.ics\nhttps://events.stanford.edu/event/publ
- ic-tour-a-closer-look\n\nDiscover new details\, perspectives\, and connect
- ions with Cantor’s “A Closer Look” tours. Led by a Stanford Student 
- Guide or volunteer Museum Engagement Guide\, each tour focuses on three to
-  four artworks organized around a theme\, providing participants with oppo
- rtunities for contemplation and conversation.\n\nFirst come\, first served
- . Tours do not require a reservation and are free of charge. The tour will
-  last between 45 minutes and an hour\, depending on the flow of conversati
- on! Please check in at the visitor services desk* in the main museum lobby
- .\n\n*If you plan to bring a large group with you (10 people or more)\, pl
- ease notify us one week in advance via this form so we can inform our Guid
- es. Thank you!
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737430750403@didiowen
@@ -4901,28 +4848,6 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  .\n\n*If you plan to bring a large group with you (10 people or more)\, pl
  ease notify us one week in advance via this form so we can inform our Guid
  es. Thank you!
-END:VEVENT
-BEGIN:VEVENT
-UID:stanford-53737452709986@didiowen
-DTSTAMP:20261115T112615Z
-DTSTART:20261115T230000Z
-DTEND:20261116T000000Z
-SUMMARY:[現場] Public Tour | A Closer Look
-LOCATION:Cantor Arts Center
-URL:https://events.stanford.edu/event/copy-of-public-tour-a-closer-look
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/53737452709986.ics\nhttps://events.stanford.edu/event/copy
- -of-public-tour-a-closer-look\n\nDiscover new details\, perspectives\, and
-  connections with Cantor’s “A Closer Look” tours. Led by a Stanford 
- Student Guide or volunteer Museum Engagement Guide\, each tour focuses on 
- three to four artworks organized around a theme\, providing participants w
- ith opportunities for contemplation and conversation.\n\nFirst come\, firs
- t served. Tours do not require a reservation and are free of charge. The t
- our will last between 45 minutes and an hour\, depending on the flow of co
- nversation! Please check in at the visitor services desk* in the main muse
- um lobby.\n\n*If you plan to bring a large group with you (10 people or mo
- re)\, please notify us one week in advance via this form so we can inform 
- our Guides. Thank you!
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53737452711011@didiowen
@@ -7037,40 +6962,6 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  s. Speaker info will be provided ASAP.
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-53818815587426@didiowen
-DTSTAMP:20261115T113134Z
-DTSTART:20261115T220000Z
-DTEND:20261115T230000Z
-SUMMARY:[現場] Gallery Conversations | JANE!
-LOCATION:Cantor Arts Center\, Stanford Family Room (122)
-URL:https://events.stanford.edu/event/copy-of-gallery-conversations-jeremy-
- frey-woven-8444
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/53818815587426.ics\nhttps://events.stanford.edu/event/copy
- -of-gallery-conversations-jeremy-frey-woven-8444\n\nJoin us for casual in-
- gallery conversations in our special exhibition\, JANE!\, facilitated by o
- ur Museum Engagement Guides. Enjoy a spotlight tour focusining on a single
-  object\, followed by an open conversation. \n\nCurated by Associate Curat
- or of European Art\, Patrick R. Crowley\, JANE! celebrates the aesthetic a
- nd affective excesses of Jane Stanford\, the Gilded Age founder and matria
- rch of Stanford University. Bringing together precious keepsakes\, souveni
- rs\, archaeological detritus\, and spooky messages from beyond the grave\,
-  the exhibition reveals the campy underside of a familiar biography and pe
- rhaps an even more familiar murder mystery.\n\nFrom her elegant French gow
- ns to a colossal painting of her jewels\, from the Egyptian artifacts she 
- acquired for her fledgling museum to a container of her beauty cream excav
- ated from her Palo Alto mansion destroyed in the 1906 San Francisco earthq
- uake\, JANE! presents various idiosyncratic artifacts of Stanford lore—m
- any of them shown for the very first time—and very probably for the last
- .\n\nWe gratefully acknowledge lead support for JANE! provided by Pamela a
- nd David Hornik. Sustained support generously provided by The C. Diane Chr
- istensen Fund for African Art.\n\n---\n\nPublic tours are free for all. Pl
- ease check in at the visitor services desk* in the main museum lobby.\n\n*
- If you plan to bring a large group with you (10 people or more)\, please n
- otify us one week in advance via this form so we can inform our Guides. Th
- ank you!\n\nIMAGE: Astley D. 
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-53818815588451@didiowen
 DTSTAMP:20261115T113134Z
 DTSTART:20261120T220000Z
@@ -8351,7 +8242,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-53954321811562@didiowen
-DTSTAMP:20261115T081107Z
+DTSTAMP:20261116T082917Z
 DTSTART:20270126T000000Z
 DTEND:20270126T011500Z
 SUMMARY:[現場] Simon DeDeo | Proofs and reasons in the age of artificial 
@@ -9219,31 +9110,6 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  music in a relaxed midday setting.﻿\n\nAdmission Information\n\nFree adm
  issionParking permits are required for weekday campus parking. We recommen
  d downloading the ParkMobile app before arriving.
-END:VEVENT
-BEGIN:VEVENT
-UID:stanford-54003324555152@didiowen
-DTSTAMP:20261114T115622Z
-DTSTART:20261115T223000Z
-DTEND:20261116T000000Z
-SUMMARY:[混合] Stanford Symphony Orchestra
-LOCATION:Bing Concert Hall
-URL:https://events.stanford.edu/event/symphony-orchestra-fall26-2
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/54003324555152.ics\nhttps://events.stanford.edu/event/symp
- hony-orchestra-fall26-2\n線上連結: music.stanford.edu/sso_live\n報名
- /票券: https://live.stanford.edu/s/event?EventID=48202\n\nThe Stanford S
- ymphony Orchestra\, conducted by Paul Phillips\, presents their 2026 Fall 
- Concert program from the main stage of Bing Concert Hall.\n\nProgram\n\nWa
- ng Lu – SurgeCalifornia premiereFranz Liszt – Orpheus (Symphonic Poem 
- No. 4)Sean Tan ‘27\, conductorPaul Phillips – Concordia MundiWorld pre
- miereGustav Mahler – Symphony No. 1 in D Major\, “Titan”Please join 
- us before the concert for a special onstage Q&A with guest composer Wang L
- u starting at 2:00 PM.\n\nAdmission Information\nTickets available soon!\n
- \nGeneral – $37 | Seniors (65+) and Non-Stanford Students – $32\nPrice
-  shown reflects total cost including $4 online/phone per-ticket fee.FREE a
- dmission for Stanford University students. One ticket per ID\, available b
- eginning one hour prior to curtain at the venue.This event will be livestr
- eamed.
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54003444903722@didiowen
@@ -10981,36 +10847,6 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
  formation\n\nFree admission
 END:VEVENT
 BEGIN:VEVENT
-UID:stanford-54170544739210@didiowen
-DTSTAMP:20261114T120157Z
-DTSTART:20261115T223000Z
-DTEND:20261116T000000Z
-SUMMARY:[現場] The Voice Studio of Kathryne Jennings – Sing On!
-LOCATION:Braun Music Center\, Campbell Recital Hall
-URL:https://events.stanford.edu/event/jennings-voice-studio-fall26
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/54170544739210.ics\nhttps://events.stanford.edu/event/jenn
- ings-voice-studio-fall26\n\nJoin us for an afternoon of vocal music featur
- ing students from the studio of Kathryne Jennings as they present a divers
- e program spanning classical art songs\, operatic arias\, and show-stoppin
- g musical theater favorites.\n\nAdmission Information\n\nFree admission
-END:VEVENT
-BEGIN:VEVENT
-UID:stanford-54171062791647@didiowen
-DTSTAMP:20261114T120159Z
-DTSTART:20261116T033000Z
-DTEND:20261116T050000Z
-SUMMARY:[現場] Faculty Recital: Clara Christian\, piano
-LOCATION:Braun Music Center\, Campbell Recital Hall
-URL:https://events.stanford.edu/event/clara-christian-faculty-recital
-DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
- public-events/e/54171062791647.ics\nhttps://events.stanford.edu/event/clar
- a-christian-faculty-recital\n\nClara Christian\, one of our new faculty me
- mbers in the Department of Music\, performs a solo piano recital featuring
-  works by Beethoven\, Messiaen\, Rachmaninoff\, and more.\n\nAdmission Inf
- ormation\n\nFree admission
-END:VEVENT
-BEGIN:VEVENT
 UID:stanford-54171099482064@didiowen
 DTSTAMP:20261115T114957Z
 DTSTART:20261121T033000Z
@@ -11205,7 +11041,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54188038982367@didiowen
-DTSTAMP:20261115T115104Z
+DTSTAMP:20261116T082858Z
 DTSTART:20261117T200000Z
 DTEND:20261117T210000Z
 SUMMARY:[現場] Estonia at the Front Line: Security\, Resilience\, and Tec
@@ -13603,7 +13439,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54511632400099@didiowen
-DTSTAMP:20261115T081045Z
+DTSTAMP:20261116T082851Z
 DTSTART:20270202T200000Z
 DTEND:20270202T213000Z
 SUMMARY:[線上] The Art of Changing Habits
@@ -13633,7 +13469,7 @@ DESCRIPTION:➕ 加到我的行事曆: https://didiowen.github.io/stanford-
 END:VEVENT
 BEGIN:VEVENT
 UID:stanford-54511632767757@didiowen
-DTSTAMP:20261115T081048Z
+DTSTAMP:20261116T082855Z
 DTSTART:20270213T000000Z
 DTEND:20270213T010000Z
 SUMMARY:[線上] The Art and Science of Breathing (February 12 - 26)
