@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54533936722095@didiowen
+DTSTAMP:20261116T205512Z
+DTSTART:20261204T200000Z
+DTEND:20261204T210000Z
+SUMMARY:[混合] GSIS Seminar 12/4/26
+LOCATION:Beckman Center\, B302
+URL:https://events.stanford.edu/event/gsis-seminar-12426
+DESCRIPTION:https://events.stanford.edu/event/gsis-seminar-12426\n線上資
+ 訊:\nZoom link: https://stanford.zoom.us/j/98479731295?pwd=NC9KZTZkUkZRNE
+ dmRjNyY21qRk50Zz09\nMeeting ID: 98479731295\nPassword: 348339\nIf the abov
+ e link is not working\, please go to Zoom (https://stanford.zoom.us/j/) di
+ rectly and enter the listed Meeting ID and password.\n\nSeth Sharp\, PhD\,
+  Research Scientist II\, Broad Institute
+END:VEVENT
+END:VCALENDAR
