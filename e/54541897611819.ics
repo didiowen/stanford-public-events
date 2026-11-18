@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54541897611819@didiowen
+DTSTAMP:20261117T182431Z
+DTSTART:20261130T200000Z
+DTEND:20261130T210000Z
+SUMMARY:[混合] Richard Socher | The Eureka Machine: Why AI Is the Key to 
+ Unlocking a New Era of Scientific Discoveries
+LOCATION:Gates Computer Science Building\, 119
+URL:https://events.stanford.edu/event/richard-socher-the-eureka-machine-why
+ -ai-is-the-key-to-unlocking-a-new-era-of-scientific-discoveries
+DESCRIPTION:https://events.stanford.edu/event/richard-socher-the-eureka-mac
+ hine-why-ai-is-the-key-to-unlocking-a-new-era-of-scientific-discoveries\n
+ 報名/票券: https://digitaleconomy.stanford.edu/event/richard-socher-de
+ l-seminar-series/\n\nThe next\, maybe final\, frontier of AI research is a
+ utomating the process of knowledge discovery. By pointing AI first at itse
+ lf and then at the R&D process of all scientific domains\, we can far exce
+ ed where human-led research can take us. Richard Socher argues the current
+  pace of scientific discovery has slowed significantly over the past sever
+ al decades as the fields of science fragment and the number of researchers
+  focused on any one continues to shrink.\n\nThe answer to this generationa
+ l challenge is to automate the scientific method itself. He will lay out t
+ he architecture of a full-stack scientific superintelligence: a living map
+  of human knowledge\, a unified model of physical reality\, high-fidelity 
+ simulation\, autonomous laboratories\, and an agent swarm that works the w
+ ay a scientific community does. He will explain why recursive self-improve
+ ment is how you build it and why the first science to automate is the scie
+ nce of AI itself\, and share early results from Recursive\, the new compan
+ y he co-founded to build it.
+END:VEVENT
+END:VCALENDAR

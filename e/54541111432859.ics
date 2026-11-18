@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54541111432859@didiowen
+DTSTAMP:20261117T162431Z
+DTSTART:20261209T040000Z
+DTEND:20261209T053000Z
+SUMMARY:[現場] Graduate Recital: Maya Benyas\, cello
+LOCATION:Braun Music Center\, Campbell Recital Hall
+URL:https://events.stanford.edu/event/graduate-recital-maya-benyas-cello
+DESCRIPTION:https://events.stanford.edu/event/graduate-recital-maya-benyas-
+ cello\n\nMaya Benyas will present her final Stanford cello recital in Camp
+ bell Recital Hall with pianist Lori Lack. She will complete her Stanford M
+ aster's degree at the conclusion of Fall Quarter\n\nAdmission Information\
+ n\nFree admission
+END:VEVENT
+END:VCALENDAR

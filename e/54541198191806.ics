@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54541198191806@didiowen
+DTSTAMP:20261117T165424Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:[現場] Concert Production Final – MUSIC 106
+LOCATION:Braun Music Center\, Braun Rehearsal Hall
+URL:https://events.stanford.edu/event/concert-production-final-MUSIC106
+DESCRIPTION:https://events.stanford.edu/event/concert-production-final-MUSI
+ C106\n\nStudents from MUSIC 106 (Concert Production) set up and present an
+  end-of-quarter concert in Braun Rehearsal Hall.\n\nAmission Information\n
+ \nFree admission
+END:VEVENT
+END:VCALENDAR

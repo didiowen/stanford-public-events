@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54540964348970@didiowen
+DTSTAMP:20261117T155440Z
+DTSTART:20261202T200000Z
+DTEND:20261202T200000Z
+SUMMARY:[線上] CREATE Webinar - Enhancing Parent-Led Interventions Throug
+ h Artificial Intelligence
+LOCATION:
+URL:https://events.stanford.edu/event/parent-led-interventions
+DESCRIPTION:https://events.stanford.edu/event/parent-led-interventions\n報
+ 名/票券: https://stanford.zoom.us/webinar/register/WN_rhfhY3knQ8Kb9XOEx
+ 5ApCw\n\nJoin us on December 2nd\, 12-1pm PT to hear from Dr. Eduardo Bung
+ e\, Ph.D. about "Enhancing Parent-Led Interventions Through Artificial Int
+ elligence." \n\nThis presentation will summarize a growing body of researc
+ h on ParenteAI and Pat\, a generative AI conversational agent designed to 
+ complement evidence-based Parent Management Training (PMT). Previous studi
+ es have examined treatment fidelity\, feasibility\, acceptability\, user e
+ ngagement\, satisfaction\, and therapeutic alliance. Preliminary findings 
+ indicate high adherence to PMT components\, substantial caregiver engageme
+ nt\, and high satisfaction. An initial pilot study found significant reduc
+ tions in child behavioral problems and parental depression\, anxiety\, and
+  stress. Subsequent studies provided additional evidence supporting the fe
+ asibility and acceptability of integrating Pat into therapist-led group PM
+ T. The presentation will also share findings from a preregistered randomiz
+ ed controlled trial (RCT) comparing therapist-led group PMT supplemented b
+ y Pat with the same intervention delivered without AI support.
+END:VEVENT
+END:VCALENDAR

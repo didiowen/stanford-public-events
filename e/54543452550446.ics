@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54543452550446@didiowen
+DTSTAMP:20261117T225446Z
+DTSTART:20261208T013000Z
+DTEND:20261208T030000Z
+SUMMARY:[現場] The Poetic and the Photographic: A Conversation between Ja
+ son Francisco and Alexander Nemerov
+LOCATION:McMurtry Building\, Oshman Hall
+URL:https://events.stanford.edu/event/the-poetic-and-the-photographic-a-con
+ versation-between-jason-francisco-and-alexander-nemerov
+DESCRIPTION:https://events.stanford.edu/event/the-poetic-and-the-photograph
+ ic-a-conversation-between-jason-francisco-and-alexander-nemerov\n\nJoin ph
+ otographer Jason Francisco and art historian Alexander Nemerov as they dis
+ cuss their new publication\, Autobiography of an Unknown American\, a book
+  of Francisco’s photographs\, made and found at various sites across the
+  contemporary United States\, accompanied by Nemerov’s poems.\n\nThe boo
+ k is a field guide to the lost corners of America\, a book of lamentation 
+ and praise\, a sustained encounter with the sorrow that American civilizat
+ ion shelters within itself—a dialogue of aftermaths and reckonings.  \n\
+ nJason Francisco is an artist and essayist who joins documentary and conce
+ ptual art\, focusing on questions of historical memory and witness. Franci
+ sco’s large-scale projects include the book Alive and Destroyed: A Medit
+ ation on the Holocaust in Time. He is a professor at Emory University.\n\n
+ Alexander Nemerov is the author of many books on American art and culture\
+ , including Fierce Poise: Helen Frankenthaler and 1950s America and The Fo
+ rest: A Fable of America in the 1830s. He is the Carl and Marilynn Thoma P
+ rovostial Professor in the Arts and Humanities at Stanford University.\n\n
+ VISITOR INFORMATION\nOshman Hall is located in the McMurtry Building on St
+ anford campus at 355 Roth Way. Visitor parking is free after 4pm on weekda
+ ys\, except by the Oval. Alternatively\, take the Caltrain to Palo Alto Tr
+ ansit Center and ride the free Stanford Marguerite Shuttle. If you need a 
+ disability-related accommodation or wheelchair access information\, please
+  contact Julianne White at jgwhite@stanfo
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54541171344098@didiowen
+DTSTAMP:20261117T175819Z
+DTSTART:20261204T013000Z
+DTEND:20261204T023000Z
+SUMMARY:[現場] Italian Baroque Vocal Recital – MUSIC 184A
+LOCATION:Toyon Hall
+URL:https://events.stanford.edu/event/Italian-baroque-music184a
+DESCRIPTION:https://events.stanford.edu/event/Italian-baroque-music184a\n\n
+ Students of MUS184A will present works from the Italian baroque. Alongside
+  favorites by George Frideric Handel\, the students will sing works they h
+ ave edited during the quarter: duet cantatas by Innocenzo Fede (manuscript
+  held in the Jean Gray Hargrove Music Library\, UC Berkeley) and arias fro
+ m Giovanni Battista Mele's Ariana e Teseo\, held in the Special Collection
+ s at Stanford.\n\nAmission Information\n\nFree admission
+END:VEVENT
+END:VCALENDAR

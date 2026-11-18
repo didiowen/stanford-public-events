@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54535252808070@didiowen
+DTSTAMP:20261117T153012Z
+DTSTART:20261204T203000Z
+DTEND:20261204T213000Z
+SUMMARY:[現場] FIRST FRIDAY | Playbill: How a Theatre Program Became an I
+ nstitution
+LOCATION:Roble Gym\, R137
+URL:https://events.stanford.edu/event/FF-DEC-2026
+DESCRIPTION:https://events.stanford.edu/event/FF-DEC-2026\n\nDEC FIRST FRID
+ AY | MEMAUD 125 | Open to the Stanford Community | Lunch will be served.\n
+ \nThe TAPS Graduate Students host Dr. Vicki L. Hoskins for the December Fi
+ rst Friday.\n\nHave you ever given much thought to your theatrical program
+  after the usher hands it to you? This talk asks you to consider what role
+  a theatrical program plays in shaping Broadway’s cultural identity. Tog
+ ether\, we will explore the central argument of Playbill’s Broadway: Mon
+ opolies\, Branding\, and Audience Life\, examining how Playbill evolved fr
+ om a commercial printing and advertising enterprise into an influential cu
+ ltural institution. Along the way\, we’ll reflect on our own relationshi
+ ps with playbills\, considering how their familiar presence in the theatre
+ -going experience shapes our theatrical expectations. You'll never see a t
+ heatrical program the same way.\n\nABOUT THE SPEAKER | Dr. Vicki L. Hoskin
+ s is an Assistant Professor of Theatre and Dance at San Francisco State Un
+ iversity. Her research investigates the economic and cultural structures t
+ hat shape the production\, circulation\, and reception of theatre\, with p
+ articular attention to Broadway\, musical theatre\, branding\, marketing\,
+  and audience culture. Her current book project\, Playbill’s Broadway: M
+ onopolies\, Branding\, and Audience Life\, traces the institutional histor
+ y of Playbill and examines how the company’s commercial strategies\, ind
+ ustry relationships\, and branding practices have shaped Broadway’s cult
+ ural identity and audience experiences. Her
+END:VEVENT
+END:VCALENDAR
