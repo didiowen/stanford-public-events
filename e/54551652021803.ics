@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//didiowen//stanford-public-events//EN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:mine-53286228266729@didiowen
-DTSTAMP:20260628T203617Z
-DTSTART:20270119T191500Z
-DTEND:20270119T201500Z
+UID:mine-54551652021803@didiowen
+DTSTAMP:20261118T205444Z
+DTSTART:20270118T191500Z
+DTEND:20270118T201500Z
 SUMMARY:[現場] January Museum Minis: Storytime at the Anderson
 LOCATION:Anderson Collection\, The Denning Family Resource Center 
 URL:https://events.stanford.edu/event/January-museum-minis-storytime-at-the

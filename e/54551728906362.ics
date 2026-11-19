@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54551728906362@didiowen
+DTSTAMP:20261118T212430Z
+DTSTART:20270226T200000Z
+DTEND:20270226T200000Z
+SUMMARY:[現場] Book Talk: Your Presence Is Mandatory with Sasha Vasilyuk
+LOCATION:Encina Commons\, Room 123
+URL:https://events.stanford.edu/event/book-talk-your-presence-is-mandatory-
+ with-sasha-vasilyuk
+DESCRIPTION:https://events.stanford.edu/event/book-talk-your-presence-is-ma
+ ndatory-with-sasha-vasilyuk\n\nTalk Details:\nSpanning 70 years between Wo
+ rld War II and Russia’s war in Ukraine\, Your Presence Is Mandatory tell
+ s the story of a Ukrainian Jewish war veteran with a dangerous lifelong se
+ cret\, the repercussions for his family\, and the grace they find in the c
+ ourse of their survival.\n\nRSVP here.\n\nAbout the Speaker:\nSasha Vasily
+ uk is a journalist and author of a debut novel\, Your Presence Is Mandator
+ y (Bloomsbury\, 2024)\, winner of the California Book Award and the Sami R
+ ohr Prize for Jewish Literature. The novel was also longlisted for the Cen
+ ter for Fiction First Novel Prize and translated into seven languages. Her
+  nonfiction has been published in the New York Times\, CNN\, Harper’s Ba
+ zaar\, Time\, USA Today\, Telegraph\, and elsewhere. Sasha grew up between
+  Ukraine and Russia before immigrating to the U.S. at the age of 13. She e
+ arned a BA in Comparative Literature from UC Berkeley and MA in Journalism
+  from New York University.
+END:VEVENT
+END:VCALENDAR

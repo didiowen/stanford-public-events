@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54550492605028@didiowen
+DTSTAMP:20261118T175429Z
+DTSTART:20261130T203000Z
+DTEND:20261130T212000Z
+SUMMARY:[現場] ESE Seminar - Boryann Liaw: "Building Sustainable Artifici
+ al Intelligence-Guided Energy Systems   from Fundamental Science"
+LOCATION:Green Earth Sciences Building\, 104
+URL:https://events.stanford.edu/event/ese-seminar-boryann-liaw-building-sus
+ tainable-artificial-intelligence-guided-energy-systems-from-fundamental-sc
+ ience
+DESCRIPTION:https://events.stanford.edu/event/ese-seminar-boryann-liaw-buil
+ ding-sustainable-artificial-intelligence-guided-energy-systems-from-fundam
+ ental-science\n\nAbstract\n\nFuture society needs a sustainable energy sup
+ ply to support economic growth\, and artificial intelligence (AI)-aided\, 
+ data-driven approaches are rapidly transforming the energy landscape. Sust
+ aining this momentum requires solutions that are both cost effective and e
+ nergy efficient. The current approach relies on heuristic methods and inte
+ nsive data acquisition\, but resource constraints make rapid deployment di
+ fficult. Quantifying returns on investment while accounting for uncertaint
+ y and risk adds another major challenge. A trustworthy framework is theref
+ ore essential to guide this transformation—but how can such a framework 
+ be built?\n\nPhysics-informed framework has been often proposed as a safeg
+ uard for the data-driven paradigm. To make this paradigm trustworthy\, how
+ ever\, its physics-informed foundation must be reinforced through fundamen
+ tal science. This presentation will discuss how empirical reduction and in
+ duction can strengthen that foundation through quantification and verifica
+ tion. The goal is to ensure that regression-model predictions not only obe
+ y fundamental principles but are also quantitatively interpretable. This w
+ ould connect controlled laboratory test data with real-world\, live data s
+ treams for practical applications. Because limited data transferability ha
+ s become a major bottleneck\, a quantitative and verifiable physics-inform
+ ed framework could help overcome it and accelerate a sustainable transform
+ ation that is both cost-effective and energy-effic
+END:VEVENT
+END:VCALENDAR

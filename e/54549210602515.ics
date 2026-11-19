@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54549210602515@didiowen
+DTSTAMP:20261118T142422Z
+DTSTART:20261202T233000Z
+DTEND:20261203T013000Z
+SUMMARY:[現場] SOCIAL | TAPS Holiday Party 2026
+LOCATION:Roble Gym\, Room 136
+URL:https://events.stanford.edu/event/taps-holiday-party-2026
+DESCRIPTION:https://events.stanford.edu/event/taps-holiday-party-2026\n\nCe
+ lebrate the season at our annual TAPS Holiday Party! Festive food & fun pr
+ ovided. All members of the TAPS community\, friends\, and family are invit
+ ed to attend.
+END:VEVENT
+END:VCALENDAR

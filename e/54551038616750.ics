@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54551038616750@didiowen
+DTSTAMP:20261118T192438Z
+DTSTART:20261208T230000Z
+DTEND:20261209T000000Z
+SUMMARY:[混合] eWEAR Seminar: AI-XR Co-Scientist
+LOCATION:Spilker\, 232
+URL:https://events.stanford.edu/event/ewear-seminar-ai-xr-co-scientist
+DESCRIPTION:https://events.stanford.edu/event/ewear-seminar-ai-xr-co-scient
+ ist\n線上連結: https://stanford.zoom.us/webinar/register/2717950289779
+ /WN_57V-PytjQa6j6iANRmmTUA\n報名/票券: https://stanford.zoom.us/webina
+ r/register/2717950289779/WN_57V-PytjQa6j6iANRmmTUA\n\n“LabOS: The AI-XR 
+ Co-Scientist that Sees and Works with Humans”\n\nSpeaker: Mengdi Wang\, 
+ Professor of Electrical\, Computer Engineering\, the Center for Statistics
+  and Machine Learning\; and Founding Co-director of Princeton AI for Accel
+ erated Invention\, Princeton University\n\nAbstract: Modern science advanc
+ es fastest when thought meets action. LabOS represents the first AI co-sci
+ entist that unites computational reasoning with physical experimentation t
+ hrough multimodal perception\, self-evolving agents\, and Extended-Reality
+ (XR)-enabled human-AI collaboration. By connecting multi-model AI agents\,
+  smart glasses\, and robots\, LabOS allows AI to see what scientists see\,
+  understand experimental context\, and assist in real-time execution. Acro
+ ss applications — from cancer immunotherapy target discovery to stem-cel
+ l engineering and material science — LabOS shows that AI can move beyond
+  computational design to participation\, turning the laboratory into an in
+ telligent\, collaborative environment where human and machine discovery ev
+ olve together.\n\nBio: Mengdi Wang is Co-Director of Princeton AI for Acce
+ lerated Invention\, and Professor of the Department of Electrical and Comp
+ uter Engineering and the Center for Statistics and Machine Learning at Pri
+ nceton University. She is also affiliated with the Department of Computer 
+ Science\, Omenn-Darling Bioengineering Institute\, and Princeton Language+
+ Intelligence. She was a visiting research scientist at Google DeepMind\, I
+ AS and Simons Institute on Theor
+END:VEVENT
+END:VCALENDAR
