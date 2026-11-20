@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54561756343146@didiowen
+DTSTAMP:20261120T002431Z
+DTSTART:20261130T170000Z
+DTEND:20261130T180000Z
+SUMMARY:[混合] Geophysics Master's Presentation\, Hamad Alswaidan: "Machi
+ ne Learning-Assisted Full Waveform Inversion: Low-Frequency Extrapolation 
+ and Cycle-Skipping Mitigation"
+LOCATION:Mitchell Earth Sciences\, 350/372
+URL:https://events.stanford.edu/event/geophysics-masters-presentation-hamad
+ -alswaidan-machine-learning-assisted-full-waveform-inversion-low-frequency
+ -extrapolation-and-cycle-skipping-mitigation
+DESCRIPTION:https://events.stanford.edu/event/geophysics-masters-presentati
+ on-hamad-alswaidan-machine-learning-assisted-full-waveform-inversion-low-f
+ requency-extrapolation-and-cycle-skipping-mitigation\n線上資訊:\nhttps
+ ://stanford.zoom.us/j/93984894466?pwd=2VqzQGageoyJcqQOp7vzVWzXr7DojF.1\n\n
+ Full waveform inversion (FWI) is a powerful technique for estimating subsu
+ rface physical properties from seismic data. However\, its nonlinear natur
+ e and the limited availability of low-frequency seismic data make it susce
+ ptible to cycle skipping\, often preventing convergence toward an accurate
+  subsurface model.\n\nIn this work\, Hamad explores two complementary mach
+ ine learning approaches to address these challenges. The first investigate
+ s the use of generative diffusion models to extrapolate missing low-freque
+ ncy content in seismic data. The second introduces a neural network-based 
+ approach to mitigate cycle skipping through the alignment of observed and 
+ modeled seismic waveforms during inversion.\n\nTogether\, these approaches
+  explore how machine learning can complement physics-based inversion and i
+ mprove the robustness of FWI.
+END:VEVENT
+END:VCALENDAR

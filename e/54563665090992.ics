@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54563665090992@didiowen
+DTSTAMP:20261120T055434Z
+DTSTART:20261212T023000Z
+DTEND:20261212T023000Z
+SUMMARY:[現場] Winter Holiday Concert with Stanford Medicine Chorus & Orc
+ hestra
+LOCATION:Bing Concert Hall
+URL:https://events.stanford.edu/event/winter-holiday-concert-with-stanford-
+ medicine-chorus-orchestra
+DESCRIPTION:https://events.stanford.edu/event/winter-holiday-concert-with-s
+ tanford-medicine-chorus-orchestra\n報名/票券: https://live.stanford.ed
+ u/s/event?EventID=50801\n\nJoin us for a festive holiday concert featuring
+  beloved music from Studio Ghibli's animated classics\, including My Neigh
+ bor Totoro\, Spirited Away\, and Howl's Moving Castle\, alongside holiday 
+ favorites and music from The Sound of Music and Home Alone. Enjoy music by
+  Joe Hisaishi\, Elton John\, Hans Zimmer\, John Williams\, and more\, perf
+ ormed by the Stanford Medicine Chorus and Orchestra.
+END:VEVENT
+END:VCALENDAR

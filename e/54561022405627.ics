@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54561022405627@didiowen
+DTSTAMP:20261119T222442Z
+DTSTART:20261201T200000Z
+DTEND:20261201T211500Z
+SUMMARY:[現場] German Studies Lecture Series: Hannes Bajohr - Worlds in A
+ I and the Novel
+LOCATION:Building 260\, Pigott Hall\, Rm 216
+URL:https://events.stanford.edu/event/german-studies-lecture-series-hannes-
+ bajohr-worlds-in-ai-and-the-novel
+DESCRIPTION:https://events.stanford.edu/event/german-studies-lecture-series
+ -hannes-bajohr-worlds-in-ai-and-the-novel\n\nPlease join German Studies Le
+ cture Series for Worlds in AI and the Novel\, a conversation with Hannes B
+ ajohr (UC Berkeley).\n\n“A world—nothing less—is the theme and postu
+ late of the novel\,” Hans Blumenberg wrote in 1963\, as AI research was 
+ beginning to develop its own “world models.” Today\, these literary an
+ d computational senses of world converge in LLMs\, whose latent spaces can
+  generate narratives with striking coherence but often weak causality. Dra
+ wing on literary traditions from realism to modernism and on his own exper
+ iments with a fine-tuned German-language model\, Professor Bajohr asks how
+  novels and LLMs construct worlds through networks of relations\, inferenc
+ es\, and expectations. The talk uses this comparison to situate AI-generat
+ ed fiction between claims of machine understanding and dismissals of mere 
+ mimicry.\n\nRSVP for the Hannes Bajohr event here.
+END:VEVENT
+END:VCALENDAR

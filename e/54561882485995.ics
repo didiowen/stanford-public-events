@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54561882485995@didiowen
+DTSTAMP:20261120T010325Z
+DTSTART:20261202T180000Z
+DTEND:20261202T193000Z
+SUMMARY:[線上] Digital Humanities in Slavic Studies - Nataliia Laba: Pol
+ itical Economy of Grief: AI-generated Media and Commercialization of War
+LOCATION:
+URL:https://events.stanford.edu/event/digital-humanities-in-slavic-studies-
+ nataliialaba-political-economy-of-grief
+DESCRIPTION:https://events.stanford.edu/event/digital-humanities-in-slavic-
+ studies-nataliialaba-political-economy-of-grief\n\nPolitical economy of gr
+ ief: AI-generated media and commercialization of war\nIf representation is
+  an act of conferring visibility\, this power is now challenged by visual 
+ generative AI and highly realistic synthetic images of war and conflict. S
+ o far\, research on visual generative AI in the context of war and conflic
+ t representation has mostly focused on the representational implications o
+ f AI-generated images and their role in adding fuel to information disorde
+ r. In this talk\, I shift attention to the technological infrastructures o
+ f image generators and stock image sites that incentivize and at times bla
+ tantly encourage curation of such images. By unpacking the relationship be
+ tween the production\, representation and circulation of AI-generated imag
+ es of the Russia-Ukraine war\, I discuss methodological challenges and pot
+ ential solutions to studying AI-mediated commercialization and visual cons
+ truction of war. \n\nBio: Nataliia Laba is an Assistant Professor in digit
+ al and multimodal communication / humane AI at the University of Groningen
+  in the Netherlands. She has written on AI-generated images and war repres
+ entation\, sociotechnical imaginaries of visual generative AI and AGI\, an
+ d visual AI style\, from critical data studies and communication perspecti
+ ves. She is a co-editor of Six Critical Lenses on AI-Generated Images (CRC
+  Press\, 2026). https://nataliialaba.com/ \n\nRegister for the talk over Z
+ oom with Nataliia Laba
+END:VEVENT
+END:VCALENDAR

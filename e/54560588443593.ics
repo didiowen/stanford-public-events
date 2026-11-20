@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54560588443593@didiowen
+DTSTAMP:20261119T212436Z
+DTSTART:20270304T010000Z
+DTEND:20270304T023000Z
+SUMMARY:[現場] Ladino in Literature with author Leigh Bardugo in conversa
+ tion with Devin Naar
+LOCATION:Building 460\, Margaret Jacks Hall\, 426
+URL:https://events.stanford.edu/event/ladino-in-literature-with-author-leig
+ h-bardugo-in-conversation-with-devin-naar
+DESCRIPTION:https://events.stanford.edu/event/ladino-in-literature-with-aut
+ hor-leigh-bardugo-in-conversation-with-devin-naar\n\nAdditional informatio
+ n coming soon!
+END:VEVENT
+END:VCALENDAR
