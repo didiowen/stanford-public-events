@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54568891389975@didiowen
+DTSTAMP:20261120T195458Z
+DTSTART:20261201T160000Z
+DTEND:20261201T170000Z
+SUMMARY:[現場] Pediatric Grand Rounds (CME): Crystalloid Fluid Resuscitat
+ ion in Pediatric Sepsis: Lessons from the PROMPT BOLUS Trial
+LOCATION:Center for Academic Medicine \, Grand Rounds Room 
+URL:https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-cr
+ ystalloid-fluid-resuscitation-in-pediatric-sepsis-lessons-from-the-prompt-
+ bolus-trial
+DESCRIPTION:https://events.stanford.edu/event/copy-of-pediatric-grand-round
+ s-cme-crystalloid-fluid-resuscitation-in-pediatric-sepsis-lessons-from-the
+ -prompt-bolus-trial\n\nCrystalloid Fluid Resuscitation in Pediatric Sepsis
+ : Lessons from the PROMPT BOLUS Trial\n \n\nSPEAKER\nFrances Balamuth\, MD
+ \, PhD\, MSCE\nProfessor\, Pediatric Emergency Medicine\,\nPerelman School
+  of Medicine at the University of Pennsylvania\nSpeaker Profile\n\n\nSESSI
+ ON DESCRIPTION\nThis session will discuss the historical data around fluid
+  type in sepsis\, the planning\, execution\, and analysis of a large pragm
+ atic pediatric sepsis trial.\n\n\nEDUCATION GOALS\nAt the end of this sess
+ ion\, attendees will understand:\n\nRationale for balanced fluid vs. salin
+ e resuscitation in pediatric sepsis.Design\, implementation\, and results 
+ from the PROMPT BOLUS trial.Planning of a large network based trial. \n\nL
+ OCATION (in-person)\nCenter for Academic Medicine\nGrand Rounds Room\n453 
+ Quarry Road\, \nPalo Alto\, CA 94304\n\n \n\nZOOM INFORMATION\nRegister to
+  attend this session via Zoom here.\nSubscribe to receive weekly email ann
+ ouncements and Zoom webinar information for each session.\nSubscribe to ma
+ iling list\n\n \n\nCME ACCREDITATION\nThis session is eligible for CME cre
+ dit. To claim CME credit\, text code to (844) 560-1904 to confirm attendan
+ ce. A new code will be provided at beginning of the session.
+END:VEVENT
+END:VCALENDAR

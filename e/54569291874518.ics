@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54569291874518@didiowen
+DTSTAMP:20261120T215839Z
+DTSTART:20261215T160000Z
+DTEND:20261215T170000Z
+SUMMARY:[現場] Pediatric Grand Rounds (CME): Precision Behavioral Science
+ : Examples from Pediatric Type 1 Diabetes
+LOCATION:Center for Academic Medicine \, Grand Rounds Room 
+URL:https://events.stanford.edu/event/copy-of-pediatric-grand-rounds-cme-th
+ e-pediatricians-role-in-enhancing-longevity
+DESCRIPTION:https://events.stanford.edu/event/copy-of-pediatric-grand-round
+ s-cme-the-pediatricians-role-in-enhancing-longevity\n\nPrecision Behaviora
+ l Science: Examples from Pediatric Type 1 Diabetes\n\nSPEAKER\nKorey Hood\
+ , PhD\nProfessor of Pediatric Endocrinology and of Psychiatry and Behavior
+ al Sciences\, Child and Adolescent Psychiatry and Child Development\nStanf
+ ord School of Medicine\nSpeaker Profile\n\n \n\nLOCATION (in-person)\nCent
+ er for Academic Medicine\nGrand Rounds Room\n453 Quarry Road\,\nPalo Alto\
+ , CA 94304\n\n\nZOOM INFORMATION\nRegister to attend this session via Zoom
+  here.\nSubscribe to receive weekly email announcements and Zoom webinar i
+ nformation for each session.\nSubscribe to mailing list\n\n \n\nCME ACCRED
+ ITATION\nThis session is eligible for CME credit. To claim CME credit\, te
+ xt code to (844) 560-1904 to confirm attendance. A new code will be provid
+ ed at beginning of the session.
+END:VEVENT
+END:VCALENDAR

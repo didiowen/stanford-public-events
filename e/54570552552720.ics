@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54570552552720@didiowen
+DTSTAMP:20261121T002422Z
+DTSTART:20270114T003000Z
+DTEND:20270114T020000Z
+SUMMARY:[現場]  The Long History of Amanuenses: Aides to Scholars and Aut
+ hors from Antiquity to AI
+LOCATION:East Asian Library\, 338
+URL:https://events.stanford.edu/event/the-long-history-of-amanuenses-aides-
+ to-scholars-and-authors-from-antiquity-to-ai-6807
+DESCRIPTION:https://events.stanford.edu/event/the-long-history-of-amanuense
+ s-aides-to-scholars-and-authors-from-antiquity-to-ai-6807\n\nThe technique
+ s for making texts have changed across multiple media and historical conte
+ xts since antiquity\, but a regular feature of the work of authors and sch
+ olars through all those changes is the reliance on helpers or amanuenses. 
+ Blair will discuss the factors that have made them both invisible and occa
+ sionally visible\, the kind of work they did\, and offer some examples of 
+ their trajectories in a few different periods. We can ponder together the 
+ extent to which AI fits into and deviates from earlier patterns of assista
+ nce.
+END:VEVENT
+END:VCALENDAR

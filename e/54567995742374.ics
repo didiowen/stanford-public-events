@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54567995742374@didiowen
+DTSTAMP:20261120T173116Z
+DTSTART:20261225T000000Z
+DTEND:20261225T010000Z
+SUMMARY:[現場] Ecumenical Christmas Eve Family Service
+LOCATION:Memorial Church
+URL:https://events.stanford.edu/event/ecumenical-christmas-eve-family-servi
+ ce
+DESCRIPTION:https://events.stanford.edu/event/ecumenical-christmas-eve-fami
+ ly-service\n\nJoin us at Stanford Memorial Church for a festive\, family-f
+ riendly Christmas Eve service for all ages!\n\nThe service will feature th
+ e Crystal Children’s Choir\, under the direction of Karl Chang.\n\nAtten
+ dees are encouraged to bring new\, unwrapped toys and books to be donated 
+ to local children in need.\n\nAdmission is free\, and seating is available
+  on a first-come\, first-served basis. Doors open at 3:15 p.m.\, and the s
+ ervice begins at 4:00 p.m.
+END:VEVENT
+END:VCALENDAR

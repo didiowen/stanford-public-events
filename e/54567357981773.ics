@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54567357981773@didiowen
+DTSTAMP:20261120T155424Z
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+SUMMARY:[線上] L.A.S.E.R.: A conversation about poet Fernando Pessoa
+LOCATION:
+URL:https://events.stanford.edu/event/laser-a-conversation-about-poet-ferna
+ ndo-pessoa-2339
+DESCRIPTION:https://events.stanford.edu/event/laser-a-conversation-about-po
+ et-fernando-pessoa-2339\n\nRegister here: https://stanford.zoom.us/webinar
+ /register/WN_7lJ8n_2MSmmUPzyjngS5pg#/registration \n\nThe LASERs (Leonardo
+  Art Science Evening Rendezvous) are an international program of evening g
+ atherings that bring artists and scientists together for informal presenta
+ tions and conversation with an audience\, chaired by cultural historian Pi
+ ero Scaruffi. This is the online segment of the December LASER and will be
+  devoted to a conversation about one of the greatest writers of the 20th c
+ entury:\n\n- Richard Zenith (Author) on "Fernando Pessoa: An Experimental 
+ Life" at 12pm California time (evening in Europe).\n\nRichard Zenith is an
+  acclaimed translator and literary critic\, best known for his numerous En
+ glish editions and studies of Fernando Pessoa’s work. In 2021 Zenith pub
+ lished the 1\,055-page biography "Pessoa: An Experimental Life"\, which wa
+ s a finalist for the Pulitzer Prize.\n\nBesides Pessoa\, some other outsta
+ nding translations include: the medieval anthology "113 Galician-Portugues
+ e Troubadour Poems" (1995)\; "Education by Stone: Selected Poems of João 
+ Cabral de Melo Neto"(Archipelago\, 2005)\, which won the 2006 translation 
+ award from the Academy of American Poets\; "Multitudinous Heart" (2015) a 
+ comprehensive collection of poems by Brazilian writer Carlos Drummond de A
+ ndrade.\n\nDetailed bio at: Leonardo Art Science Evening Rendezvous LASER\
+ n\nThe Stanford LASERs are co-sponsored by the deans of Humanities and Sci
+ ences\, Engineering and Medicine\, and by Chemical Engineering.
+END:VEVENT
+END:VCALENDAR

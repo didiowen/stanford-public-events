@@ -4,7 +4,7 @@ PRODID:-//didiowen//stanford-public-events//EN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mine-54561477025888@didiowen
-DTSTAMP:20261119T235424Z
+DTSTAMP:20261120T162124Z
 DTSTART:20261211T030000Z
 DTEND:20261211T050000Z
 SUMMARY:[現場] Three L.A.S.E.R. talks: Astrophysics\, Biology\, AI
@@ -20,18 +20,18 @@ DESCRIPTION:https://events.stanford.edu/event/three-laser-talks-astrophysic
  cs from Black Holes and Neutron Stars”\n\n- Stephen Quake (Stanford) on 
  "How AI is Changing Our Understanding of Cell Biology"\n\n- Hermann Nyuyko
  nge Kumbong (Stanford) on “Beyond Autoregression: Next-Concept Modeling
- ”\n\nThe art component will consist on a Zoom with Portugal-based schola
- r Richard Zenith about the poet Fernando Pessoa for which you will receive
-  a separate invitation.\n\nRoger Blandford is the Director of the Simons C
- ollaboration on Extreme Electrodynamics of Compact Sources at Stanford. Hi
- s research interests include compact sources\, cosmic rays\, cosmology\, a
- nd astrobiology. He is a Fellow of the Royal Society\, the American Academ
- y of Arts and Sciences\, the American Physical Society and a Member of the
-  National Academy of Sciences. He was awarded the 1998 AAS Heineman Prize 
- \, the 2013 RAS Gold Medal\, the 2016 Crafoord Prize for Astronomy and the
-  2020 Shaw Prize for Astronomy.\n\nHermann Nyuykonge Kumbong\, originally 
- from Cameroon\, is pursuing a PhD in computer science at Stanford School o
- f Engineering. His research has been published at top AI conferences\, and
-  he received a Best Poster Award at the NeurIPS (Neural Information
+ ”\n\nThe art component will consist of a lunch-time Zoom conversation ab
+ out the poet Fernando Pessoa with Portugal-based scholar Richard Zenith fo
+ r which you can register at: L.A.S.E.R.: A conversation about poet Fernand
+ o Pessoa - Stanford University\n\nRoger Blandford is the Director of the S
+ imons Collaboration on Extreme Electrodynamics of Compact Sources at Stanf
+ ord. His research interests include compact sources\, cosmic rays\, cosmol
+ ogy\, and astrobiology. He is a Fellow of the Royal Society\, the American
+  Academy of Arts and Sciences\, the American Physical Society and a Member
+  of the National Academy of Sciences. He was awarded the 1998 AAS Heineman
+  Prize \, the 2013 RAS Gold Medal\, the 2016 Crafoord Prize for Astronomy 
+ and the 2020 Shaw Prize for Astronomy.\n\nHermann Nyuykonge Kumbong\, orig
+ inally from Cameroon\, is pursuing a PhD in computer science at Stanford S
+ chool of Engineering. His research has been published at top AI co
 END:VEVENT
 END:VCALENDAR
