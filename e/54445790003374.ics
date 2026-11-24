@@ -4,7 +4,7 @@ PRODID:-//didiowen//stanford-public-events//EN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mine-54445790003374@didiowen
-DTSTAMP:20261106T215438Z
+DTSTAMP:20261123T172543Z
 DTSTART:20261204T003000Z
 DTEND:20261204T015000Z
 SUMMARY:[混合] The Genesis Mission AI Project: From Materials Development
@@ -15,14 +15,21 @@ URL:https://events.stanford.edu/event/data-center-expansion-challenges-and-
 DESCRIPTION:https://events.stanford.edu/event/data-center-expansion-challen
  ges-and-solutions-for-thermal-management-and-materials-access\n報名/票
  券: https://asia.stanford.edu/course/topics-in-international-technology-m
- anagement/2026-critical-materials/deepmaterials/\n\n---\n\nOur series on 
- “Topics in International Technology Management | Challenges and Solution
- s for Critical Materials in Energy and Electronics" begins September 24\, 
- 2026 and continues until December 3\, 2026. Seminars will be held most Thu
- rsdays\, 4:30 PM – 5:50 PM.  The series is available to Stanford student
- s for credit\; register for MATSCI 402A “Topics in International Technol
- ogy Management\,” also cross-listed as EE-402A\, EASTASN 402A and EALC-4
- 02A\, 1 unit S/NC. \n\nTo attend by Zoom\, please register here.\n\nTo att
- end in-person\, please register over Eventbrite here.
+ anagement/2026-critical-materials/deepmaterials/\n\nHow can artificial int
+ elligence accelerate the discovery and development of critical materials? 
+ This panel brings together Stanford and SLAC researchers involved in the n
+ ew Genesis Mission AI Project to explore how AI can transform scientific r
+ esearch and address challenges in critical materials. Panelists will intro
+ duce their research and discuss opportunities for applying AI to materials
+  discovery\, energy storage\, and other technologies essential to the futu
+ re of energy and advanced manufacturing.\n\n---\n\nOur series on “Topics
+  in International Technology Management | Challenges and Solutions for Cri
+ tical Materials in Energy and Electronics" begins September 24\, 2026 and 
+ continues until December 3\, 2026. Seminars will be held most Thursdays\, 
+ 4:30 PM – 5:50 PM.  The series is available to Stanford students for cre
+ dit\; register for MATSCI 402A “Topics in International Technology Manag
+ ement\,” also cross-listed as EE-402A\, EASTASN 402A and EALC-402A\, 1 u
+ nit S/NC. \n\nTo attend by Zoom\, please register here.\n\nTo attend in-pe
+ rson\, please register over Eventbrite here.
 END:VEVENT
 END:VCALENDAR

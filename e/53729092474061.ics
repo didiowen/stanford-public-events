@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-53729092474061@didiowen
+DTSTAMP:20261123T171923Z
+DTSTART:20270504T140000Z
+DTEND:20270504T150000Z
+SUMMARY:[混合] Education Lecture
+LOCATION:Li Ka Shing Center\, LK130
+URL:https://events.stanford.edu/event/education-lecture
+DESCRIPTION:https://events.stanford.edu/event/education-lecture\n\nThe Depa
+ rtment of Surgery invited Dr. Abebe Bekele to present the annual Education
+  Lecture. Bekele is the Dean of the School of Medicine at the University o
+ f Global Health Equity and a Professor of Surgery (General and Thoracic).
+END:VEVENT
+END:VCALENDAR

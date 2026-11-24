@@ -4,7 +4,7 @@ PRODID:-//didiowen//stanford-public-events//EN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:mine-54570552552720@didiowen
-DTSTAMP:20261121T002422Z
+DTSTAMP:20261123T185704Z
 DTSTART:20270114T003000Z
 DTEND:20270114T020000Z
 SUMMARY:[現場]  The Long History of Amanuenses: Aides to Scholars and Aut
@@ -21,6 +21,19 @@ DESCRIPTION:https://events.stanford.edu/event/the-long-history-of-amanuense
  sionally visible\, the kind of work they did\, and offer some examples of 
  their trajectories in a few different periods. We can ponder together the 
  extent to which AI fits into and deviates from earlier patterns of assista
- nce.
+ nce. \n\nAnn Blair is Carl H. Pforzheimer University Professor in the Depa
+ rtment of History at Harvard University where she teaches book history and
+  early modern European cultural and intellectual history. Her research foc
+ uses on the working methods of scholars and authors ca. 1500-1700.  She ha
+ s studied for example: practices of reading and note-taking\, of composing
+  and using reference works and finding devices (in Too Much to Know: manag
+ ing scholarly information before the modern age\, 2010)\, paratexts (in th
+ e Panizzi lectures of 2019 and L’Entour du texte: la publication du livr
+ e savant à la Renaissance\, 2021)\, and the role of amanuenses (In the Sc
+ holar’s Workshop: hidden histories of collaboration and authorship\, 202
+ 6). She has also co-edited various volumes\, most recently: New Horizons f
+ or Early Modern Scholarship (2021) with Nicholas Popper\, and Information:
+  a historical companion (2021) with Paul Duguid\, Anja Goeing\, and Anthon
+ y Grafton.
 END:VEVENT
 END:VCALENDAR
