@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54613902953569@didiowen
+DTSTAMP:20261125T215428Z
+DTSTART:20270205T010000Z
+DTEND:20270205T030000Z
+SUMMARY:[現場] French Speaking Worlds: Camille Robcis
+LOCATION:Building 260\, Pigott Hall\, Rm 252
+URL:https://events.stanford.edu/event/french-speaking-worlds-camille-robcis
+DESCRIPTION:https://events.stanford.edu/event/french-speaking-worlds-camill
+ e-robcis\n\nPlease join French Speaking Worlds: Then and Now for a talk wi
+ th Camille Robcis (Columbia University).
+END:VEVENT
+END:VCALENDAR

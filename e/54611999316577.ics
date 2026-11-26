@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54611999316577@didiowen
+DTSTAMP:20261125T165419Z
+DTSTART:20261216T200000Z
+DTEND:20261216T210000Z
+SUMMARY:[線上] Mental Health Technology + Innovation Hubinar: Q&A with Ps
+ ychiatry Grand Rounds speaker\, Kimberly Van Orden\, PhD
+LOCATION:
+URL:https://events.stanford.edu/event/vanorden
+DESCRIPTION:https://events.stanford.edu/event/vanorden\n報名/票券: http
+ s://stanford.zoom.us/meeting/register/Vug_B5bJSuCrpmLKF6Uvlg\n\nThe Tech H
+ ub is delighted to welcome Stanford Psychiatry Grand Rounds speaker\, Dr. 
+ Kimberly Van Orden \, PhD\, of University of Rochester Medicine to join us
+  for an informal Q&A session on December 16th\, 12-1pm PT. This discussion
+  will expand upon themes covered in her Grand Rounds talk “Promoting Con
+ nection to Prevent Late-Life Suicide: Opportunities for Technology-Support
+ ed Assessments and Interventions” and will be an opportunity to ask Dr. 
+ Van Orden questions about her work in a more conversational setting. \n\nD
+ r. Van Orden’s Grand Rounds talk (December 10th 12-1pm PT\, available on
+ ly to members of the Department of Psychiatry and Behavioral Sciences) wil
+ l explore key dimensions of social connection that are related to late-lif
+ e suicide and how they are commonly assessed. She will also lay out opport
+ unities and challenges of technology-supported assessments and interventio
+ ns for improving social connection in later life.
+END:VEVENT
+END:VCALENDAR
