@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//didiowen//stanford-public-events//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mine-54570582132912@didiowen
+DTSTAMP:20261128T045417Z
+DTSTART:20261203T010000Z
+DTEND:20261203T030000Z
+SUMMARY:[現場] Wreath Making Workshop at the Farm
+LOCATION:O'Donohue Family Educational Farm 555 Fremont Rd
+URL:https://events.stanford.edu/event/wreath-making-workshop-at-the-farm
+DESCRIPTION:https://events.stanford.edu/event/wreath-making-workshop-at-the
+ -farm\n\nConnect with the farm\, the community and get creative in an inte
+ ractive wreath-making workshop. Our farm programs coordinator will walk yo
+ u through the steps of crafting your own wreath using items grown througho
+ ut the farm and campus. \n\nDuring the workshop\, you'll work with a varie
+ ty of foliage\, dried flowers and materials allowing you to explore differ
+ ent textures\, colors\, and scents. This workshop is great for those inter
+ ested in localy sources materials\, crafting and expression through plant 
+ materials. At the end of the workshop you'll walk away with a gorgeous wre
+ ath that will bring a touch of the farm to your doorstep.\n\nEach wreath i
+ s $75\; credit card payment will be taken on site via QR code. REGISTRATIO
+ N IS REQUIRED. Please do not register if you are not sure you can attend.
+END:VEVENT
+END:VCALENDAR
